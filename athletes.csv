@@ -1,0 +1,2113 @@
+groupcode,schoolname,GroupLeader,FirstName,LastName,age,Gender,eventcode,eventname,score
+G001,"Alden Page High","Ivory Peck",Catherine,Stevenson,8,F,E098,"Young Athletes",0
+G001,"Alden Page High","Ivory Peck",Catherine,Stevenson,8,F,E099,"Olympic Town",0
+G001,"Alden Page High","Ivory Peck",Eleanor,Holden,8,F,E098,"Young Athletes",0
+G001,"Alden Page High","Ivory Peck",Eleanor,Holden,8,F,E099,"Olympic Town",0
+G001,"Alden Page High","Ivory Peck",Idona,Abbott,8,F,E001,"50 Meter Dash",24
+G001,"Alden Page High","Ivory Peck",Idona,Abbott,8,F,E015,"Softball Throw",402
+G001,"Alden Page High","Ivory Peck",Tana,Mcmahon,8,F,E098,"Young Athletes",0
+G001,"Alden Page High","Ivory Peck",Tana,Mcmahon,8,F,E099,"Olympic Town",0
+G002,"Colt Becker High","Isaac Roberson",Bianca,Parrish,10,F,E001,"50 Meter Dash",13
+G002,"Colt Becker High","Isaac Roberson",Bianca,Parrish,10,F,E015,"Softball Throw",909
+G002,"Colt Becker High","Isaac Roberson",Dacey,Colon,10,F,E001,"50 Meter Dash",14
+G002,"Colt Becker High","Isaac Roberson",Dacey,Colon,10,F,E015,"Softball Throw",606
+G002,"Colt Becker High","Isaac Roberson",Daphne,Christian,9,F,E001,"50 Meter Dash",14
+G002,"Colt Becker High","Isaac Roberson",Daphne,Christian,9,F,E015,"Softball Throw",1300
+G002,"Colt Becker High","Isaac Roberson",Kylee,Carson,11,F,E001,"50 Meter Dash",14
+G002,"Colt Becker High","Isaac Roberson",Kylee,Carson,11,F,E015,"Softball Throw",1906
+G002,"Colt Becker High","Isaac Roberson",Kylynn,Carter,12,F,E001,"50 Meter Dash",11
+G002,"Colt Becker High","Isaac Roberson",Kylynn,Carter,12,F,E015,"Softball Throw",2600
+G002,"Colt Becker High","Isaac Roberson",Lee,Poole,11,F,E001,"50 Meter Dash",12
+G002,"Colt Becker High","Isaac Roberson",Lee,Poole,11,F,E015,"Softball Throw",2209
+G002,"Colt Becker High","Isaac Roberson",Maia,Mckay,6,F,E098,"Young Athletes",0
+G002,"Colt Becker High","Isaac Roberson",Maia,Mckay,6,F,E099,"Olympic Town",0
+G002,"Colt Becker High","Isaac Roberson",Maile,Cunningham,12,F,E001,"50 Meter Dash",15
+G002,"Colt Becker High","Isaac Roberson",Maile,Cunningham,12,F,E015,"Softball Throw",1603
+G002,"Colt Becker High","Isaac Roberson",Ruth,Morales,11,F,E001,"50 Meter Dash",11
+G002,"Colt Becker High","Isaac Roberson",Ruth,Morales,11,F,E015,"Softball Throw",606
+G002,"Colt Becker High","Isaac Roberson",Tamara,Stevens,10,F,E001,"50 Meter Dash",12
+G002,"Colt Becker High","Isaac Roberson",Tamara,Stevens,10,F,E015,"Softball Throw",606
+G002,"Colt Becker High","Isaac Roberson",Vera,Dickson,9,F,E001,"50 Meter Dash",12
+G002,"Colt Becker High","Isaac Roberson",Vera,Dickson,9,F,E015,"Softball Throw",606
+G003,"Berea El","Leslie Harper",Brenna,Griffin,1,F,E002,"100 Meter Dash",36
+G003,"Berea El","Leslie Harper",Brenna,Griffin,1,F,E015,"Softball Throw",1607
+G003,"Berea El","Leslie Harper",Clio,Shaffer,11,F,E007,"100 Meter Walk",42
+G003,"Berea El","Leslie Harper",Clio,Shaffer,11,F,E015,"Softball Throw",2405
+G003,"Berea El","Leslie Harper",Daphne,Patterson,10,F,E003,"200 Meter Dash",46
+G003,"Berea El","Leslie Harper",Daphne,Patterson,10,F,E015,"Softball Throw",1205
+G003,"Berea El","Leslie Harper",Emily,Brooks,10,F,E003,"200 Meter Dash",59
+G003,"Berea El","Leslie Harper",Emily,Brooks,10,F,E015,"Softball Throw",1909
+G003,"Berea El","Leslie Harper",Georgia,Russell,11,F,E003,"200 Meter Dash",104
+G003,"Berea El","Leslie Harper",Georgia,Russell,11,F,E007,"100 Meter Walk",43
+G003,"Berea El","Leslie Harper",Ingrid,Mathews,12,F,E002,"100 Meter Dash",51
+G003,"Berea El","Leslie Harper",Ingrid,Mathews,12,F,E015,"Softball Throw",1302
+G003,"Berea El","Leslie Harper",Irma,Blevins,11,F,E002,"100 Meter Dash",42
+G003,"Berea El","Leslie Harper",Irma,Blevins,11,F,E015,"Softball Throw",2500
+G003,"Berea El","Leslie Harper",Jada,Sims,8,F,E099,"Olympic Town",0
+G003,"Berea El","Leslie Harper",Jael,Ball,11,F,E002,"100 Meter Dash",42
+G003,"Berea El","Leslie Harper",Jael,Ball,11,F,E015,"Softball Throw",1102
+G003,"Berea El","Leslie Harper",Kendall,Frank,11,F,E003,"200 Meter Dash",128
+G003,"Berea El","Leslie Harper",Kendall,Frank,11,F,E015,"Softball Throw",1708
+G003,"Berea El","Leslie Harper",MacKenzie,Finch,11,F,E003,"200 Meter Dash",54
+G003,"Berea El","Leslie Harper",MacKenzie,Finch,11,F,E015,"Softball Throw",3106
+G003,"Berea El","Leslie Harper",Nadine,Vazquez,11,F,E003,"200 Meter Dash",46
+G003,"Berea El","Leslie Harper",Nadine,Vazquez,11,F,E015,"Softball Throw",2206
+G003,"Berea El","Leslie Harper",Nayda,Green,12,F,E003,"200 Meter Dash",53
+G003,"Berea El","Leslie Harper",Nayda,Green,12,F,E015,"Softball Throw",2606
+G003,"Berea El","Leslie Harper",Nicole,Gay,11,F,E099,"Olympic Town",0
+G003,"Berea El","Leslie Harper",Ora,Logan,1,F,E003,"200 Meter Dash",49
+G003,"Berea El","Leslie Harper",Ora,Logan,1,F,E015,"Softball Throw",3104
+G003,"Berea El","Tanisha West",Adara,Charles,9,F,E001,"50 Meter Dash",52
+G003,"Berea El","Tanisha West",Adara,Charles,9,F,E015,"Softball Throw",711
+G003,"Berea El","Tanisha West",Alice,Harris,10,F,E001,"50 Meter Dash",58
+G003,"Berea El","Tanisha West",Alice,Harris,10,F,E015,"Softball Throw",1104
+G003,"Berea El","Tanisha West",Cora,Logan,13,F,E003,"200 Meter Dash",120
+G003,"Berea El","Tanisha West",Cora,Logan,13,F,E015,"Softball Throw",8711
+G003,"Berea El","Tanisha West",Darrel,Dyer,11,F,E001,"50 Meter Dash",53
+G003,"Berea El","Tanisha West",Darrel,Dyer,11,F,E015,"Softball Throw",1504
+G003,"Berea El","Tanisha West",Genevieve,Watson,12,F,E001,"50 Meter Dash",48
+G003,"Berea El","Tanisha West",Genevieve,Watson,12,F,E015,"Softball Throw",1705
+G003,"Berea El","Tanisha West",Larissa,Sawyer,12,F,E021,Developmental,0
+G003,"Berea El","Tanisha West",Larissa,Sawyer,12,F,E099,"Olympic Town",0
+G003,"Berea El","Tanisha West",Sonya,Lang,10,F,E001,"50 Meter Dash",58
+G003,"Berea El","Tanisha West",Sonya,Lang,10,F,E015,"Softball Throw",703
+G004,"Kibo Dawson El","Stacey Leon",Aspen,Berger,11,F,E001,"50 Meter Dash",15
+G004,"Kibo Dawson El","Stacey Leon",Aspen,Berger,11,F,E015,"Softball Throw",2600
+G004,"Kibo Dawson El","Stacey Leon",Belle,Kline,11,F,E001,"50 Meter Dash",19
+G004,"Kibo Dawson El","Stacey Leon",Belle,Kline,11,F,E015,"Softball Throw",2602
+G004,"Kibo Dawson El","Stacey Leon",Cheryl,Roach,9,F,E001,"50 Meter Dash",15
+G004,"Kibo Dawson El","Stacey Leon",Cheryl,Roach,9,F,E015,"Softball Throw",2302
+G004,"Kibo Dawson El","Stacey Leon",Christine,Fry,8,F,E098,"Young Athletes",0
+G004,"Kibo Dawson El","Stacey Leon",Christine,Fry,8,F,E099,"Olympic Town",0
+G004,"Kibo Dawson El","Stacey Leon",Eden,Wiggins,8,F,E098,"Young Athletes",0
+G004,"Kibo Dawson El","Stacey Leon",Eden,Wiggins,8,F,E099,"Olympic Town",0
+G004,"Kibo Dawson El","Stacey Leon",Germaine,Frye,12,F,E001,"50 Meter Dash",21
+G004,"Kibo Dawson El","Stacey Leon",Germaine,Frye,12,F,E015,"Softball Throw",1002
+G004,"Kibo Dawson El","Stacey Leon",Hanna,Howard,10,F,E001,"50 Meter Dash",14
+G004,"Kibo Dawson El","Stacey Leon",Hanna,Howard,10,F,E015,"Softball Throw",2500
+G004,"Kibo Dawson El","Stacey Leon",Jaden,Hyde,11,F,E001,"50 Meter Dash",13
+G004,"Kibo Dawson El","Stacey Leon",Jaden,Hyde,11,F,E015,"Softball Throw",2708
+G004,"Kibo Dawson El","Stacey Leon",Katell,Petty,8,F,E098,"Young Athletes",0
+G004,"Kibo Dawson El","Stacey Leon",Katell,Petty,8,F,E099,"Olympic Town",0
+G004,"Kibo Dawson El","Stacey Leon",Lareina,Powell,11,F,E001,"50 Meter Dash",20
+G004,"Kibo Dawson El","Stacey Leon",Lareina,Powell,11,F,E015,"Softball Throw",1201
+G004,"Kibo Dawson El","Stacey Leon",Margaret,Pate,6,F,E098,"Young Athletes",0
+G004,"Kibo Dawson El","Stacey Leon",Margaret,Pate,6,F,E099,"Olympic Town",0
+G004,"Kibo Dawson El","Stacey Leon",Robin,Hewitt,11,F,E001,"50 Meter Dash",13
+G004,"Kibo Dawson El","Stacey Leon",Robin,Hewitt,11,F,E015,"Softball Throw",1500
+G004,"Kibo Dawson El","Stacey Leon",Shana,Murphy,12,F,E001,"50 Meter Dash",12
+G004,"Kibo Dawson El","Stacey Leon",Shana,Murphy,12,F,E015,"Softball Throw",2105
+G004,"Kibo Dawson El","Stacey Leon",Whoopi,Walker,10,F,E001,"50 Meter Dash",19
+G004,"Kibo Dawson El","Stacey Leon",Whoopi,Walker,10,F,E015,"Softball Throw",1408
+G005,"Maia Barrera El","Hanna Gould",Amal,Vaughn,12,M,E002,"100 Meter Dash",29
+G005,"Maia Barrera El","Hanna Gould",Amal,Vaughn,12,M,E015,"Softball Throw",3800
+G005,"Maia Barrera El","Hanna Gould",Barclay,Reese,11,M,E001,"50 Meter Dash",15
+G005,"Maia Barrera El","Hanna Gould",Barclay,Reese,11,M,E015,"Softball Throw",4300
+G005,"Maia Barrera El","Hanna Gould",Brent,Barton,11,M,E002,"100 Meter Dash",25
+G005,"Maia Barrera El","Hanna Gould",Brent,Barton,11,M,E015,"Softball Throw",4200
+G005,"Maia Barrera El","Hanna Gould",Cameron,Gutierrez,13,M,E003,"200 Meter Dash",57
+G005,"Maia Barrera El","Hanna Gould",Cameron,Gutierrez,13,M,E015,"Softball Throw",6200
+G005,"Maia Barrera El","Hanna Gould",Cooper,Aguilar,12,M,E002,"100 Meter Dash",26
+G005,"Maia Barrera El","Hanna Gould",Cooper,Aguilar,12,M,E015,"Softball Throw",2000
+G005,"Maia Barrera El","Hanna Gould",Cullen,Dodson,13,M,E003,"200 Meter Dash",100
+G005,"Maia Barrera El","Hanna Gould",Cullen,Dodson,13,M,E015,"Softball Throw",5500
+G005,"Maia Barrera El","Hanna Gould",Josiah,Joyce,12,M,E001,"50 Meter Dash",18
+G005,"Maia Barrera El","Hanna Gould",Josiah,Joyce,12,M,E015,"Softball Throw",1500
+G005,"Maia Barrera El","Hanna Gould",Justin,Dunn,13,M,E003,"200 Meter Dash",102
+G005,"Maia Barrera El","Hanna Gould",Justin,Dunn,13,M,E015,"Softball Throw",4000
+G005,"Maia Barrera El","Hanna Gould",Mannix,Garcia,12,M,E003,"200 Meter Dash",48
+G005,"Maia Barrera El","Hanna Gould",Mannix,Garcia,12,M,E015,"Softball Throw",5000
+G005,"Maia Barrera El","Hanna Gould",Myles,Holloway,11,M,E001,"50 Meter Dash",15
+G005,"Maia Barrera El","Hanna Gould",Myles,Holloway,11,M,E015,"Softball Throw",3300
+G005,"Maia Barrera El","Hanna Gould",Palmer,Alford,13,M,E002,"100 Meter Dash",27
+G005,"Maia Barrera El","Hanna Gould",Palmer,Alford,13,M,E015,"Softball Throw",4500
+G005,"Maia Barrera El","Hanna Gould",Rigel,Harding,12,M,E002,"100 Meter Dash",32
+G005,"Maia Barrera El","Hanna Gould",Rigel,Harding,12,M,E015,"Softball Throw",2700
+G005,"Maia Barrera El","Hanna Gould",Solomon,Nunez,12,M,E003,"200 Meter Dash",56
+G005,"Maia Barrera El","Hanna Gould",Solomon,Nunez,12,M,E015,"Softball Throw",4800
+G005,"Maia Barrera El","Sigourney Mejia",Gloria,Clark,9,F,E002,"100 Meter Dash",24
+G005,"Maia Barrera El","Sigourney Mejia",Gloria,Clark,9,F,E015,"Softball Throw",3700
+G005,"Maia Barrera El","Sigourney Mejia",Hedwig,Farmer,10,F,E002,"100 Meter Dash",27
+G005,"Maia Barrera El","Sigourney Mejia",Hedwig,Farmer,10,F,E015,"Softball Throw",2800
+G005,"Maia Barrera El","Sigourney Mejia",Ivory,Wiley,10,F,E001,"50 Meter Dash",17
+G005,"Maia Barrera El","Sigourney Mejia",Ivory,Wiley,10,F,E015,"Softball Throw",1500
+G005,"Maia Barrera El","Sigourney Mejia",Melyssa,Long,10,F,E001,"50 Meter Dash",16
+G005,"Maia Barrera El","Sigourney Mejia",Melyssa,Long,10,F,E015,"Softball Throw",1500
+G005,"Maia Barrera El","Sigourney Mejia",Quail,Travis,11,F,E002,"100 Meter Dash",32
+G005,"Maia Barrera El","Sigourney Mejia",Quail,Travis,11,F,E015,"Softball Throw",2000
+G005,"Maia Barrera El","Sigourney Mejia",Regina,Ortiz,11,F,E001,"50 Meter Dash",17
+G005,"Maia Barrera El","Sigourney Mejia",Regina,Ortiz,11,F,E015,"Softball Throw",1800
+G005,"Maia Barrera El","Sigourney Mejia",Sydnee,Frost,9,F,E002,"100 Meter Dash",24
+G005,"Maia Barrera El","Sigourney Mejia",Sydnee,Frost,9,F,E015,"Softball Throw",6200
+G006,"Leonard Aguirre El","Macaulay Wilcox",Daphne,Blackwell,10,F,E001,"50 Meter Dash",16
+G006,"Leonard Aguirre El","Macaulay Wilcox",Daphne,Blackwell,10,F,E015,"Softball Throw",3600
+G006,"Leonard Aguirre El","Macaulay Wilcox",Haley,Jimenez,13,F,E001,"50 Meter Dash",17
+G006,"Leonard Aguirre El","Macaulay Wilcox",Haley,Jimenez,13,F,E015,"Softball Throw",3000
+G006,"Leonard Aguirre El","Macaulay Wilcox",Kaden,Fuller,12,F,E001,"50 Meter Dash",0
+G006,"Leonard Aguirre El","Macaulay Wilcox",Kaden,Fuller,12,F,E015,"Softball Throw",4000
+G006,"Leonard Aguirre El","Macaulay Wilcox",Karleigh,Parks,9,F,E099,"Olympic Town",0
+G006,"Leonard Aguirre El","Macaulay Wilcox",Laurel,Schmidt,11,F,E001,"50 Meter Dash",19
+G006,"Leonard Aguirre El","Macaulay Wilcox",Laurel,Schmidt,11,F,E015,"Softball Throw",2000
+G006,"Leonard Aguirre El","Macaulay Wilcox",Rhiannon,Avila,9,F,E001,"50 Meter Dash",19
+G006,"Leonard Aguirre El","Macaulay Wilcox",Rhiannon,Avila,9,F,E015,"Softball Throw",3500
+G007,"Xavier Holland El","Robin Sheppard",Brenda,Willis,11,F,E002,"100 Meter Dash",23
+G007,"Xavier Holland El","Robin Sheppard",Brenda,Willis,11,F,E015,"Softball Throw",5300
+G007,"Xavier Holland El","Robin Sheppard",Brielle,Glover,12,F,E002,"100 Meter Dash",35
+G007,"Xavier Holland El","Robin Sheppard",Brielle,Glover,12,F,E015,"Softball Throw",2600
+G007,"Xavier Holland El","Robin Sheppard",Idona,Perez,12,F,E013,"Standing Long Jump",305
+G007,"Xavier Holland El","Robin Sheppard",Idona,Perez,12,F,E015,"Softball Throw",4700
+G007,"Xavier Holland El","Robin Sheppard",Kaden,Malone,11,F,E002,"100 Meter Dash",25
+G007,"Xavier Holland El","Robin Sheppard",Kaden,Malone,11,F,E013,"Standing Long Jump",300
+G007,"Xavier Holland El","Robin Sheppard",Lillian,Sheppard,13,F,E002,"100 Meter Dash",26
+G007,"Xavier Holland El","Robin Sheppard",Lillian,Sheppard,13,F,E013,"Standing Long Jump",305
+G007,"Xavier Holland El","Robin Sheppard",Lydia,Hooper,9,F,E002,"100 Meter Dash",22
+G007,"Xavier Holland El","Robin Sheppard",Lydia,Hooper,9,F,E013,"Standing Long Jump",305
+G007,"Xavier Holland El","Robin Sheppard",Madeson,Harrington,11,F,E013,"Standing Long Jump",503
+G007,"Xavier Holland El","Robin Sheppard",Madeson,Harrington,11,F,E015,"Softball Throw",5500
+G007,"Xavier Holland El","Robin Sheppard",Portia,Valencia,11,F,E002,"100 Meter Dash",11
+G007,"Xavier Holland El","Robin Sheppard",Portia,Valencia,11,F,E013,"Standing Long Jump",403
+G007,"Xavier Holland El","Robin Sheppard",Ruth,Oneil,11,F,E002,"100 Meter Dash",25
+G007,"Xavier Holland El","Robin Sheppard",Ruth,Oneil,11,F,E013,"Standing Long Jump",304
+G007,"Xavier Holland El","Robin Sheppard",September,Richard,12,F,E002,"100 Meter Dash",20
+G007,"Xavier Holland El","Robin Sheppard",September,Richard,12,F,E015,"Softball Throw",3700
+G008,"Jenna Guerra El","Ayanna Woods",Ferdinand,Caldwell,8,M,E098,"Young Athletes",0
+G008,"Jenna Guerra El","Ayanna Woods",Ferdinand,Caldwell,8,M,E099,"Olympic Town",0
+G008,"Jenna Guerra El","Ayanna Woods",Forrest,Hunter,10,M,E001,"50 Meter Dash",120
+G008,"Jenna Guerra El","Ayanna Woods",Forrest,Hunter,10,M,E015,"Softball Throw",702
+G008,"Jenna Guerra El","Ayanna Woods",Michael,Gates,9,M,E001,"50 Meter Dash",30
+G008,"Jenna Guerra El","Ayanna Woods",Michael,Gates,9,M,E015,"Softball Throw",1000
+G008,"Jenna Guerra El","Blythe Waters",Charlotte,Stafford,11,F,E001,"50 Meter Dash",20
+G008,"Jenna Guerra El","Blythe Waters",Charlotte,Stafford,11,F,E015,"Softball Throw",1907
+G008,"Jenna Guerra El","Blythe Waters",Ciara,Wiley,12,F,E001,"50 Meter Dash",32
+G008,"Jenna Guerra El","Blythe Waters",Ciara,Wiley,12,F,E015,"Softball Throw",1102
+G008,"Jenna Guerra El","Blythe Waters",Felicia,Hobbs,11,F,E001,"50 Meter Dash",16
+G008,"Jenna Guerra El","Blythe Waters",Felicia,Hobbs,11,F,E015,"Softball Throw",2206
+G008,"Jenna Guerra El","Blythe Waters",Kyra,Sparks,11,F,E001,"50 Meter Dash",17
+G008,"Jenna Guerra El","Blythe Waters",Kyra,Sparks,11,F,E015,"Softball Throw",809
+G008,"Jenna Guerra El","Blythe Waters",Sharon,Rodgers,11,F,E001,"50 Meter Dash",34
+G008,"Jenna Guerra El","Blythe Waters",Sharon,Rodgers,11,F,E015,"Softball Throw",1203
+G008,"Jenna Guerra El","Josiah Cohen",Ivory,Cook,10,F,E001,"50 Meter Dash",16
+G008,"Jenna Guerra El","Josiah Cohen",Ivory,Cook,10,F,E015,"Softball Throw",1806
+G008,"Jenna Guerra El","Josiah Cohen",Jada,Stevenson,11,F,E001,"50 Meter Dash",18
+G008,"Jenna Guerra El","Josiah Cohen",Jada,Stevenson,11,F,E015,"Softball Throw",2900
+G008,"Jenna Guerra El","Josiah Cohen",Kameko,Mccarty,12,F,E001,"50 Meter Dash",15
+G008,"Jenna Guerra El","Josiah Cohen",Kameko,Mccarty,12,F,E015,"Softball Throw",3100
+G008,"Jenna Guerra El","Josiah Cohen",Vivien,Tyler,12,F,E001,"50 Meter Dash",15
+G008,"Jenna Guerra El","Josiah Cohen",Vivien,Tyler,12,F,E015,"Softball Throw",2700
+G008,"Jenna Guerra El","MacKenzie Goodman",Abigail,Cantu,8,F,E099,"Olympic Town",0
+G008,"Jenna Guerra El","MacKenzie Goodman",Cameron,Lambert,9,F,E002,"100 Meter Dash",206
+G008,"Jenna Guerra El","MacKenzie Goodman",Cameron,Lambert,9,F,E014,"Shot Put",10
+G008,"Jenna Guerra El","MacKenzie Goodman",Emi,Kennedy,9,F,E002,"100 Meter Dash",102
+G008,"Jenna Guerra El","MacKenzie Goodman",Emi,Kennedy,9,F,E014,"Shot Put",201
+G008,"Jenna Guerra El","MacKenzie Goodman",Irene,Head,9,F,E002,"100 Meter Dash",43
+G008,"Jenna Guerra El","MacKenzie Goodman",Irene,Head,9,F,E014,"Shot Put",204
+G008,"Jenna Guerra El","MacKenzie Goodman",Keely,Kirby,9,F,E002,"100 Meter Dash",0
+G008,"Jenna Guerra El","MacKenzie Goodman",Keely,Kirby,9,F,E014,"Shot Put",100
+G008,"Jenna Guerra El","MacKenzie Goodman",Kiona,Beasley,9,F,E002,"100 Meter Dash",539
+G008,"Jenna Guerra El","MacKenzie Goodman",Kiona,Beasley,9,F,E014,"Shot Put",11
+G008,"Jenna Guerra El","MacKenzie Goodman",Meredith,Coffey,9,F,E002,"100 Meter Dash",507
+G008,"Jenna Guerra El","MacKenzie Goodman",Meredith,Coffey,9,F,E014,"Shot Put",306
+G008,"Jenna Guerra El","Richard Hunt",Brianna,Conner,11,F,E001,"50 Meter Dash",17
+G008,"Jenna Guerra El","Richard Hunt",Brianna,Conner,11,F,E015,"Softball Throw",1300
+G008,"Jenna Guerra El","Richard Hunt",Dana,Downs,11,F,E001,"50 Meter Dash",19
+G008,"Jenna Guerra El","Richard Hunt",Dana,Downs,11,F,E013,"Standing Long Jump",109
+G008,"Jenna Guerra El","Richard Hunt",Ella,Francis,10,F,E002,"100 Meter Dash",40
+G008,"Jenna Guerra El","Richard Hunt",Ella,Francis,10,F,E015,"Softball Throw",2100
+G008,"Jenna Guerra El","Richard Hunt",Iona,Arnold,12,F,E001,"50 Meter Dash",17
+G008,"Jenna Guerra El","Richard Hunt",Iona,Arnold,12,F,E015,"Softball Throw",2307
+G008,"Jenna Guerra El","Richard Hunt",Joelle,Clark,11,F,E002,"100 Meter Dash",37
+G008,"Jenna Guerra El","Richard Hunt",Joelle,Clark,11,F,E015,"Softball Throw",2100
+G008,"Jenna Guerra El","Richard Hunt",Sandra,Solis,10,F,E001,"50 Meter Dash",25
+G008,"Jenna Guerra El","Richard Hunt",Sandra,Solis,10,F,E015,"Softball Throw",708
+G008,"Jenna Guerra El","Richard Hunt",Yeo,Dorsey,8,F,E098,"Young Athletes",0
+G008,"Jenna Guerra El","Richard Hunt",Yeo,Dorsey,8,F,E099,"Olympic Town",0
+G009,"Sydnee Tucker El","Dane Mayo",Amery,Holland,12,M,E001,"50 Meter Dash",54
+G009,"Sydnee Tucker El","Dane Mayo",Amery,Holland,12,M,E013,"Standing Long Jump",205
+G009,"Sydnee Tucker El","Dane Mayo",Cain,Cotton,9,M,E001,"50 Meter Dash",43
+G009,"Sydnee Tucker El","Dane Mayo",Cain,Cotton,9,M,E013,"Standing Long Jump",300
+G009,"Sydnee Tucker El","Dane Mayo",David,Cote,12,M,E002,"100 Meter Dash",45
+G009,"Sydnee Tucker El","Dane Mayo",David,Cote,12,M,E013,"Standing Long Jump",306
+G009,"Sydnee Tucker El","Dane Mayo",Hedley,Harris,9,M,E001,"50 Meter Dash",45
+G009,"Sydnee Tucker El","Dane Mayo",Hedley,Harris,9,M,E013,"Standing Long Jump",303
+G009,"Sydnee Tucker El","Dane Mayo",Marshall,Douglas,9,M,E099,"Olympic Town",0
+G009,"Sydnee Tucker El","Dane Mayo",Omar,Rosario,9,M,E001,"50 Meter Dash",41
+G009,"Sydnee Tucker El","Dane Mayo",Omar,Rosario,9,M,E013,"Standing Long Jump",208
+G009,"Sydnee Tucker El","Dane Mayo",Oren,Little,12,M,E002,"100 Meter Dash",108
+G009,"Sydnee Tucker El","Dane Mayo",Oren,Little,12,M,E013,"Standing Long Jump",305
+G009,"Sydnee Tucker El","Dane Mayo",Ray,Roth,12,M,E001,"50 Meter Dash",51
+G009,"Sydnee Tucker El","Dane Mayo",Ray,Roth,12,M,E013,"Standing Long Jump",302
+G010,"Ramona Herring El","Griffith Campos",Acton,Mcintyre,9,M,E001,"50 Meter Dash",24
+G010,"Ramona Herring El","Griffith Campos",Acton,Mcintyre,9,M,E015,"Softball Throw",1300
+G010,"Ramona Herring El","Griffith Campos",Asher,Petersen,11,M,E001,"50 Meter Dash",13
+G010,"Ramona Herring El","Griffith Campos",Asher,Petersen,11,M,E015,"Softball Throw",2300
+G010,"Ramona Herring El","Griffith Campos",Caleb,Sutton,10,M,E001,"50 Meter Dash",20
+G010,"Ramona Herring El","Griffith Campos",Caleb,Sutton,10,M,E015,"Softball Throw",1300
+G010,"Ramona Herring El","Griffith Campos",Dylan,Simmons,11,M,E001,"50 Meter Dash",13
+G010,"Ramona Herring El","Griffith Campos",Dylan,Simmons,11,M,E015,"Softball Throw",2000
+G010,"Ramona Herring El","Griffith Campos",Gil,Matthews,13,M,E001,"50 Meter Dash",27
+G010,"Ramona Herring El","Griffith Campos",Gil,Matthews,13,M,E015,"Softball Throw",500
+G010,"Ramona Herring El","Griffith Campos",Gray,Meyers,9,M,E001,"50 Meter Dash",25
+G010,"Ramona Herring El","Griffith Campos",Gray,Meyers,9,M,E015,"Softball Throw",1100
+G010,"Ramona Herring El","Griffith Campos",Hoyt,Brennan,11,M,E001,"50 Meter Dash",13
+G010,"Ramona Herring El","Griffith Campos",Hoyt,Brennan,11,M,E015,"Softball Throw",2100
+G010,"Ramona Herring El","Griffith Campos",Jakeem,Cochran,12,M,E002,"100 Meter Dash",21
+G010,"Ramona Herring El","Griffith Campos",Jakeem,Cochran,12,M,E015,"Softball Throw",4000
+G010,"Ramona Herring El","Griffith Campos",Jonas,Rice,9,M,E001,"50 Meter Dash",22
+G010,"Ramona Herring El","Griffith Campos",Jonas,Rice,9,M,E015,"Softball Throw",800
+G010,"Ramona Herring El","Griffith Campos",Julian,Edwards,11,M,E001,"50 Meter Dash",30
+G010,"Ramona Herring El","Griffith Campos",Julian,Edwards,11,M,E015,"Softball Throw",1000
+G010,"Ramona Herring El","Griffith Campos",Kevin,Brennan,14,M,E002,"100 Meter Dash",23
+G010,"Ramona Herring El","Griffith Campos",Kevin,Brennan,14,M,E015,"Softball Throw",3000
+G010,"Ramona Herring El","Griffith Campos",Palmer,Reed,12,M,E001,"50 Meter Dash",20
+G010,"Ramona Herring El","Griffith Campos",Palmer,Reed,12,M,E015,"Softball Throw",600
+G010,"Ramona Herring El","Griffith Campos",Ray,Gay,12,M,E001,"50 Meter Dash",23
+G010,"Ramona Herring El","Griffith Campos",Ray,Gay,12,M,E015,"Softball Throw",1200
+G010,"Ramona Herring El","Griffith Campos",Rudyard,Rocha,11,M,E001,"50 Meter Dash",18
+G010,"Ramona Herring El","Griffith Campos",Rudyard,Rocha,11,M,E015,"Softball Throw",1000
+G010,"Ramona Herring El","Griffith Campos",Tyrone,Stephenson,10,M,E001,"50 Meter Dash",27
+G010,"Ramona Herring El","Griffith Campos",Tyrone,Stephenson,10,M,E015,"Softball Throw",800
+G010,"Ramona Herring El","Griffith Campos",Uriah,Walker,12,M,E001,"50 Meter Dash",12
+G010,"Ramona Herring El","Griffith Campos",Uriah,Walker,12,M,E015,"Softball Throw",2400
+G010,"Ramona Herring El","Griffith Campos",Vincent,Baird,9,M,E001,"50 Meter Dash",30
+G010,"Ramona Herring El","Griffith Campos",Vincent,Baird,9,M,E015,"Softball Throw",1500
+G010,"Ramona Herring El","Griffith Campos",Warren,Mcmahon,11,M,E001,"50 Meter Dash",19
+G010,"Ramona Herring El","Griffith Campos",Warren,Mcmahon,11,M,E015,"Softball Throw",3500
+G010,"Ramona Herring El","Griffith Campos",Wyatt,Weber,13,M,E001,"50 Meter Dash",19
+G010,"Ramona Herring El","Griffith Campos",Wyatt,Weber,13,M,E015,"Softball Throw",1100
+G011,"Nora Fernandez High","Adam Lynch",Colleen,Frost,13,F,E002,"100 Meter Dash",40
+G011,"Nora Fernandez High","Adam Lynch",Colleen,Frost,13,F,E015,"Softball Throw",1500
+G011,"Nora Fernandez High","Adam Lynch",Heather,Mullen,11,F,E001,"50 Meter Dash",40
+G011,"Nora Fernandez High","Adam Lynch",Heather,Mullen,11,F,E015,"Softball Throw",1200
+G011,"Nora Fernandez High","Adam Lynch",Jillian,Howe,10,F,E015,"Softball Throw",500
+G011,"Nora Fernandez High","Adam Lynch",Jillian,Howe,10,F,E020,"25M Walk",39
+G011,"Nora Fernandez High","Adam Lynch",Jordan,Mason,12,F,E002,"100 Meter Dash",39
+G011,"Nora Fernandez High","Adam Lynch",Jordan,Mason,12,F,E015,"Softball Throw",1200
+G011,"Nora Fernandez High","Adam Lynch",Leigh,Campbell,11,F,E001,"50 Meter Dash",45
+G011,"Nora Fernandez High","Adam Lynch",Leigh,Campbell,11,F,E015,"Softball Throw",800
+G011,"Nora Fernandez High","Adam Lynch",Maile,Whitaker,7,F,E099,"Olympic Town",0
+G011,"Nora Fernandez High","Adam Lynch",Meredith,Obrien,9,F,E001,"50 Meter Dash",37
+G011,"Nora Fernandez High","Adam Lynch",Meredith,Obrien,9,F,E015,"Softball Throw",906
+G011,"Nora Fernandez High","Adam Lynch",Piper,Mckay,9,F,E007,"100 Meter Walk",133
+G011,"Nora Fernandez High","Adam Lynch",Piper,Mckay,9,F,E015,"Softball Throw",500
+G011,"Nora Fernandez High","Adam Lynch",Sandra,Sampson,9,F,E001,"50 Meter Dash",40
+G011,"Nora Fernandez High","Adam Lynch",Sandra,Sampson,9,F,E015,"Softball Throw",500
+G011,"Nora Fernandez High","Adam Lynch",Whitney,Gordon,11,F,E001,"50 Meter Dash",35
+G011,"Nora Fernandez High","Adam Lynch",Whitney,Gordon,11,F,E015,"Softball Throw",600
+G012,"Fulton Olsen El","Cole Guzman",Beverly,Adams,13,F,E001,"50 Meter Dash",14
+G012,"Fulton Olsen El","Cole Guzman",Beverly,Adams,13,F,E015,"Softball Throw",4202
+G012,"Fulton Olsen El","Cole Guzman",Brynne,Ruiz,12,F,E001,"50 Meter Dash",14
+G012,"Fulton Olsen El","Cole Guzman",Brynne,Ruiz,12,F,E015,"Softball Throw",5200
+G012,"Fulton Olsen El","Cole Guzman",Heidi,Eaton,13,F,E001,"50 Meter Dash",11
+G012,"Fulton Olsen El","Cole Guzman",Heidi,Eaton,13,F,E015,"Softball Throw",6302
+G012,"Fulton Olsen El","Cole Guzman",Jasmine,Morin,12,F,E001,"50 Meter Dash",12
+G012,"Fulton Olsen El","Cole Guzman",Jasmine,Morin,12,F,E015,"Softball Throw",2301
+G012,"Fulton Olsen El","Cole Guzman",Jessica,Conley,10,F,E001,"50 Meter Dash",15
+G012,"Fulton Olsen El","Cole Guzman",Jessica,Conley,10,F,E015,"Softball Throw",3804
+G012,"Fulton Olsen El","Cole Guzman",Joelle,Burnett,10,F,E001,"50 Meter Dash",21
+G012,"Fulton Olsen El","Cole Guzman",Joelle,Burnett,10,F,E015,"Softball Throw",1503
+G012,"Fulton Olsen El","Cole Guzman",Karyn,Briggs,12,F,E001,"50 Meter Dash",14
+G012,"Fulton Olsen El","Cole Guzman",Karyn,Briggs,12,F,E015,"Softball Throw",2705
+G012,"Fulton Olsen El","Cole Guzman",Oprah,Gallagher,12,F,E001,"50 Meter Dash",12
+G012,"Fulton Olsen El","Cole Guzman",Oprah,Gallagher,12,F,E015,"Softball Throw",5701
+G014,"Clayton Leon El","Branden Cain",Iola,Pollard,9,F,E015,"Softball Throw",1006
+G014,"Clayton Leon El","Branden Cain",Iola,Pollard,9,F,E021,Developmental,0
+G014,"Clayton Leon El","Branden Cain",Justine,Morse,11,F,E015,"Softball Throw",1100
+G014,"Clayton Leon El","Branden Cain",Justine,Morse,11,F,E021,Developmental,0
+G014,"Clayton Leon El","Branden Cain",Kerry,Hutchinson,13,F,E015,"Softball Throw",1300
+G014,"Clayton Leon El","Branden Cain",Kerry,Hutchinson,13,F,E021,Developmental,0
+G014,"Clayton Leon El","Branden Cain",Naomi,Orr,14,F,E021,Developmental,0
+G014,"Clayton Leon El","Branden Cain",Naomi,Orr,14,F,E099,"Olympic Town",0
+G014,"Clayton Leon El","Branden Cain",Yeo,Webb,7,F,E098,"Young Athletes",0
+G014,"Clayton Leon El","Branden Cain",Yeo,Webb,7,F,E099,"Olympic Town",0
+G014,"Clayton Leon El","Branden Cain",Yolanda,Graham,12,F,E015,"Softball Throw",600
+G014,"Clayton Leon El","Branden Cain",Yolanda,Graham,12,F,E021,Developmental,0
+G015,"Nero Franklin High","Lavinia Barrera",Althea,Benson,15,F,E015,"Softball Throw",11100
+G015,"Nero Franklin High","Lavinia Barrera",Althea,Benson,15,F,E099,"Olympic Town",0
+G015,"Nero Franklin High","Lavinia Barrera",Isadora,Barr,13,F,E015,"Softball Throw",5500
+G015,"Nero Franklin High","Lavinia Barrera",Isadora,Barr,13,F,E099,"Olympic Town",0
+G015,"Nero Franklin High","Lavinia Barrera",Jayme,Stark,13,F,E001,"50 Meter Dash",0
+G015,"Nero Franklin High","Lavinia Barrera",Jayme,Stark,13,F,E013,"Standing Long Jump",400
+G015,"Nero Franklin High","Lavinia Barrera",Kristen,Humphrey,12,F,E002,"100 Meter Dash",0
+G015,"Nero Franklin High","Lavinia Barrera",Kristen,Humphrey,12,F,E013,"Standing Long Jump",306
+G015,"Nero Franklin High","Lavinia Barrera",Mona,Franco,13,F,E001,"50 Meter Dash",0
+G015,"Nero Franklin High","Lavinia Barrera",Mona,Franco,13,F,E015,"Softball Throw",4200
+G015,"Nero Franklin High","Lavinia Barrera",Oprah,Rocha,13,F,E002,"100 Meter Dash",0
+G015,"Nero Franklin High","Lavinia Barrera",Oprah,Rocha,13,F,E013,"Standing Long Jump",403
+G016,"Darius Morton High","Josephine Singleton",Brielle,Briggs,9,F,E001,"50 Meter Dash",33
+G016,"Darius Morton High","Josephine Singleton",Brielle,Briggs,9,F,E015,"Softball Throw",2705
+G016,"Darius Morton High","Josephine Singleton",Emma,Booker,12,F,E003,"200 Meter Dash",113
+G016,"Darius Morton High","Josephine Singleton",Emma,Booker,12,F,E013,"Standing Long Jump",400
+G016,"Darius Morton High","Josephine Singleton",Jenna,Hull,11,F,E003,"200 Meter Dash",110
+G016,"Darius Morton High","Josephine Singleton",Jenna,Hull,11,F,E013,"Standing Long Jump",600
+G016,"Darius Morton High","Josephine Singleton",Kaitlin,Church,11,F,E001,"50 Meter Dash",21
+G016,"Darius Morton High","Josephine Singleton",Kaitlin,Church,11,F,E015,"Softball Throw",1204
+G016,"Darius Morton High","Josephine Singleton",Leilani,Pacheco,12,F,E002,"100 Meter Dash",106
+G016,"Darius Morton High","Josephine Singleton",Leilani,Pacheco,12,F,E013,"Standing Long Jump",404
+G016,"Darius Morton High","Josephine Singleton",Miranda,Snider,10,F,E001,"50 Meter Dash",17
+G016,"Darius Morton High","Josephine Singleton",Miranda,Snider,10,F,E015,"Softball Throw",3606
+G016,"Darius Morton High","Josephine Singleton",Nelle,Combs,12,F,E003,"200 Meter Dash",118
+G016,"Darius Morton High","Josephine Singleton",Nelle,Combs,12,F,E013,"Standing Long Jump",307
+G016,"Darius Morton High","Josephine Singleton",Riley,Guerra,10,F,E001,"50 Meter Dash",17
+G016,"Darius Morton High","Josephine Singleton",Riley,Guerra,10,F,E015,"Softball Throw",3609
+G016,"Darius Morton High","Keith Pena",Aphrodite,Newman,10,F,E001,"50 Meter Dash",20
+G016,"Darius Morton High","Keith Pena",Aphrodite,Newman,10,F,E015,"Softball Throw",2300
+G016,"Darius Morton High","Keith Pena",April,Simon,9,F,E001,"50 Meter Dash",22
+G016,"Darius Morton High","Keith Pena",April,Simon,9,F,E015,"Softball Throw",2406
+G016,"Darius Morton High","Keith Pena",Doris,Elliott,8,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Keith Pena",Doris,Elliott,8,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Keith Pena",Frances,Hubbard,9,F,E007,"100 Meter Walk",116
+G016,"Darius Morton High","Keith Pena",Frances,Hubbard,9,F,E015,"Softball Throw",1003
+G016,"Darius Morton High","Keith Pena",Imani,Puckett,9,F,E001,"50 Meter Dash",0
+G016,"Darius Morton High","Keith Pena",Imani,Puckett,9,F,E015,"Softball Throw",509
+G016,"Darius Morton High","Keith Pena",Kathleen,Carrillo,10,F,E007,"100 Meter Walk",110
+G016,"Darius Morton High","Keith Pena",Kathleen,Carrillo,10,F,E015,"Softball Throw",1000
+G016,"Darius Morton High","Keith Pena",Kaye,Chaney,10,F,E001,"50 Meter Dash",16
+G016,"Darius Morton High","Keith Pena",Kaye,Chaney,10,F,E015,"Softball Throw",3706
+G016,"Darius Morton High","Keith Pena",Kellie,Petty,8,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Keith Pena",Kellie,Petty,8,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Keith Pena",Odessa,Melton,8,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Keith Pena",Odessa,Melton,8,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Keith Pena",Summer,Compton,10,F,E006,"30M Motor Wheelchair Sl",19
+G016,"Darius Morton High","Keith Pena",Summer,Compton,10,F,E015,"Softball Throw",1509
+G016,"Darius Morton High","Lee Olsen",Blaine,Woods,13,F,E001,"50 Meter Dash",20
+G016,"Darius Morton High","Lee Olsen",Blaine,Woods,13,F,E015,"Softball Throw",2403
+G016,"Darius Morton High","Lee Olsen",Cara,Tyson,12,F,E001,"50 Meter Dash",13
+G016,"Darius Morton High","Lee Olsen",Cara,Tyson,12,F,E015,"Softball Throw",3506
+G016,"Darius Morton High","Lee Olsen",Dai,Sparks,12,F,E001,"50 Meter Dash",22
+G016,"Darius Morton High","Lee Olsen",Dai,Sparks,12,F,E015,"Softball Throw",2911
+G016,"Darius Morton High","Lee Olsen",Evangeline,Robbins,13,F,E005,"30M Wheelchair Sl",45
+G016,"Darius Morton High","Lee Olsen",Evangeline,Robbins,13,F,E015,"Softball Throw",1009
+G016,"Darius Morton High","Lee Olsen",Hayfa,Hendrix,12,F,E006,"30M Motor Wheelchair Sl",38
+G016,"Darius Morton High","Lee Olsen",Hayfa,Hendrix,12,F,E015,"Softball Throw",511
+G016,"Darius Morton High","Lee Olsen",Imani,Austin,11,F,E005,"30M Wheelchair Sl",30
+G016,"Darius Morton High","Lee Olsen",Imani,Austin,11,F,E015,"Softball Throw",807
+G016,"Darius Morton High","Lee Olsen",Isabella,Dixon,13,F,E001,"50 Meter Dash",15
+G016,"Darius Morton High","Lee Olsen",Isabella,Dixon,13,F,E015,"Softball Throw",1706
+G016,"Darius Morton High","Lee Olsen",Kellie,Patterson,11,F,E005,"30M Wheelchair Sl",20
+G016,"Darius Morton High","Lee Olsen",Kellie,Patterson,11,F,E015,"Softball Throw",806
+G016,"Darius Morton High","Lee Olsen",Kimberly,Gibson,11,F,E001,"50 Meter Dash",16
+G016,"Darius Morton High","Lee Olsen",Kimberly,Gibson,11,F,E015,"Softball Throw",5203
+G016,"Darius Morton High","Lee Olsen",MacKensie,Nunez,10,F,E001,"50 Meter Dash",16
+G016,"Darius Morton High","Lee Olsen",MacKensie,Nunez,10,F,E015,"Softball Throw",4301
+G016,"Darius Morton High","Lee Olsen",Madeline,Boyer,11,F,E005,"30M Wheelchair Sl",19
+G016,"Darius Morton High","Lee Olsen",Madeline,Boyer,11,F,E015,"Softball Throw",2011
+G016,"Darius Morton High","Lee Olsen",Phyllis,Sexton,13,F,E001,"50 Meter Dash",36
+G016,"Darius Morton High","Lee Olsen",Phyllis,Sexton,13,F,E015,"Softball Throw",1009
+G016,"Darius Morton High","Lee Olsen",Riley,Middleton,12,F,E001,"50 Meter Dash",15
+G016,"Darius Morton High","Lee Olsen",Riley,Middleton,12,F,E015,"Softball Throw",3000
+G016,"Darius Morton High","Lee Olsen",Winter,King,12,F,E006,"30M Motor Wheelchair Sl",32
+G016,"Darius Morton High","Lee Olsen",Winter,King,12,F,E015,"Softball Throw",310
+G016,"Darius Morton High","Macey Downs",Alana,Clemons,7,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Alana,Clemons,7,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Aurora,Ward,7,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Aurora,Ward,7,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Debra,Lucas,8,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Debra,Lucas,8,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Emma,Lester,7,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Emma,Lester,7,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Harriet,Wolf,7,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Harriet,Wolf,7,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Ria,Reyes,7,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Ria,Reyes,7,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Veronica,Banks,7,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Veronica,Banks,7,F,E099,"Olympic Town",0
+G016,"Darius Morton High","Macey Downs",Wyoming,Mcgee,8,F,E098,"Young Athletes",0
+G016,"Darius Morton High","Macey Downs",Wyoming,Mcgee,8,F,E099,"Olympic Town",0
+G016,"Darius Morton High","September Ryan",Britanney,Beasley,13,F,E001,"50 Meter Dash",16
+G016,"Darius Morton High","September Ryan",Britanney,Beasley,13,F,E013,"Standing Long Jump",203
+G016,"Darius Morton High","September Ryan",Kameko,Dean,13,F,E001,"50 Meter Dash",14
+G016,"Darius Morton High","September Ryan",Kameko,Dean,13,F,E013,"Standing Long Jump",400
+G016,"Darius Morton High","September Ryan",Shannon,Shaffer,12,F,E003,"200 Meter Dash",54
+G016,"Darius Morton High","September Ryan",Shannon,Shaffer,12,F,E011,"Run Long Jump",607
+G016,"Darius Morton High","September Ryan",Tasha,Johnston,13,F,E001,"50 Meter Dash",14
+G016,"Darius Morton High","September Ryan",Tasha,Johnston,13,F,E013,"Standing Long Jump",301
+G016,"Darius Morton High","September Ryan",Tatyana,Gay,11,F,E001,"50 Meter Dash",16
+G016,"Darius Morton High","September Ryan",Tatyana,Gay,11,F,E013,"Standing Long Jump",205
+G017,"Kyle Gonzalez El","Holmes Hendricks",Dominique,Rhodes,9,F,E013,"Standing Long Jump",403
+G017,"Kyle Gonzalez El","Holmes Hendricks",Dominique,Rhodes,9,F,E015,"Softball Throw",1902
+G017,"Kyle Gonzalez El","Holmes Hendricks",Elaine,Payne,9,F,E015,"Softball Throw",711
+G017,"Kyle Gonzalez El","Holmes Hendricks",Elaine,Payne,9,F,E099,"Olympic Town",0
+G017,"Kyle Gonzalez El","Holmes Hendricks",Harriet,Fuentes,8,F,E099,"Olympic Town",0
+G017,"Kyle Gonzalez El","Holmes Hendricks",Shaine,Beard,10,F,E015,"Softball Throw",1702
+G017,"Kyle Gonzalez El","Holmes Hendricks",Shaine,Beard,10,F,E099,"Olympic Town",0
+G017,"Kyle Gonzalez El","Holmes Hendricks",Victoria,Mccullough,9,F,E013,"Standing Long Jump",500
+G017,"Kyle Gonzalez El","Holmes Hendricks",Victoria,Mccullough,9,F,E015,"Softball Throw",2801
+G018,"Baxter Benjamin El","Farrah Tyler",Aaron,Cooke,10,M,E001,"50 Meter Dash",21
+G018,"Baxter Benjamin El","Farrah Tyler",Aaron,Cooke,10,M,E013,"Standing Long Jump",101
+G018,"Baxter Benjamin El","Farrah Tyler",Abbot,Whitley,12,M,E001,"50 Meter Dash",24
+G018,"Baxter Benjamin El","Farrah Tyler",Abbot,Whitley,12,M,E015,"Softball Throw",1908
+G018,"Baxter Benjamin El","Farrah Tyler",Alan,Gentry,10,M,E001,"50 Meter Dash",36
+G018,"Baxter Benjamin El","Farrah Tyler",Alan,Gentry,10,M,E015,"Softball Throw",802
+G018,"Baxter Benjamin El","Farrah Tyler",Blake,Ashley,11,M,E001,"50 Meter Dash",15
+G018,"Baxter Benjamin El","Farrah Tyler",Blake,Ashley,11,M,E013,"Standing Long Jump",204
+G018,"Baxter Benjamin El","Farrah Tyler",Coby,Ray,10,M,E001,"50 Meter Dash",18
+G018,"Baxter Benjamin El","Farrah Tyler",Coby,Ray,10,M,E013,"Standing Long Jump",200
+G018,"Baxter Benjamin El","Farrah Tyler",David,Quinn,11,M,E001,"50 Meter Dash",18
+G018,"Baxter Benjamin El","Farrah Tyler",David,Quinn,11,M,E015,"Softball Throw",2603
+G018,"Baxter Benjamin El","Farrah Tyler",Declan,Cook,9,M,E001,"50 Meter Dash",21
+G018,"Baxter Benjamin El","Farrah Tyler",Declan,Cook,9,M,E013,"Standing Long Jump",106
+G018,"Baxter Benjamin El","Farrah Tyler",Kadeem,Donaldson,6,M,E099,"Olympic Town",0
+G018,"Baxter Benjamin El","Farrah Tyler",Lucian,Miranda,13,M,E001,"50 Meter Dash",18
+G018,"Baxter Benjamin El","Farrah Tyler",Lucian,Miranda,13,M,E015,"Softball Throw",1604
+G018,"Baxter Benjamin El","Farrah Tyler",Porter,Mcconnell,10,M,E001,"50 Meter Dash",15
+G018,"Baxter Benjamin El","Farrah Tyler",Porter,Mcconnell,10,M,E013,"Standing Long Jump",203
+G018,"Baxter Benjamin El","Farrah Tyler",Raphael,Dejesus,12,M,E001,"50 Meter Dash",21
+G018,"Baxter Benjamin El","Farrah Tyler",Raphael,Dejesus,12,M,E013,"Standing Long Jump",210
+G018,"Baxter Benjamin El","Farrah Tyler",Ryan,William,8,M,E099,"Olympic Town",0
+G018,"Baxter Benjamin El","Farrah Tyler",Stephen,Moran,12,M,E001,"50 Meter Dash",13
+G018,"Baxter Benjamin El","Farrah Tyler",Stephen,Moran,12,M,E013,"Standing Long Jump",406
+G018,"Baxter Benjamin El","Farrah Tyler",Wylie,Newton,10,M,E001,"50 Meter Dash",30
+G018,"Baxter Benjamin El","Farrah Tyler",Wylie,Newton,10,M,E015,"Softball Throw",1604
+G018,"Baxter Benjamin El","Farrah Tyler",Zahir,Mcdaniel,10,M,E001,"50 Meter Dash",20
+G018,"Baxter Benjamin El","Farrah Tyler",Zahir,Mcdaniel,10,M,E013,"Standing Long Jump",302
+G018,"Baxter Benjamin El","Farrah Tyler",Zeph,Wheeler,8,M,E099,"Olympic Town",0
+G019,"Julie Donovan El","Blossom Chang",Amena,Raymond,13,F,E003,"200 Meter Dash",47
+G019,"Julie Donovan El","Blossom Chang",Amena,Raymond,13,F,E011,"Run Long Jump",506
+G019,"Julie Donovan El","Blossom Chang",Ariel,Myers,19,F,E001,"50 Meter Dash",19
+G019,"Julie Donovan El","Blossom Chang",Ariel,Myers,19,F,E015,"Softball Throw",1008
+G019,"Julie Donovan El","Blossom Chang",Avye,Mccarthy,17,F,E001,"50 Meter Dash",13
+G019,"Julie Donovan El","Blossom Chang",Avye,Mccarthy,17,F,E013,"Standing Long Jump",402
+G019,"Julie Donovan El","Blossom Chang",Cally,Carney,12,F,E002,"100 Meter Dash",21
+G019,"Julie Donovan El","Blossom Chang",Cally,Carney,12,F,E013,"Standing Long Jump",311
+G019,"Julie Donovan El","Blossom Chang",Chanda,Norton,21,F,E001,"50 Meter Dash",28
+G019,"Julie Donovan El","Blossom Chang",Chanda,Norton,21,F,E015,"Softball Throw",1506
+G019,"Julie Donovan El","Blossom Chang",Charity,Sosa,29,F,E001,"50 Meter Dash",59
+G019,"Julie Donovan El","Blossom Chang",Charity,Sosa,29,F,E015,"Softball Throw",2004
+G019,"Julie Donovan El","Blossom Chang",Cynthia,Ruiz,15,F,E002,"100 Meter Dash",22
+G019,"Julie Donovan El","Blossom Chang",Cynthia,Ruiz,15,F,E013,"Standing Long Jump",303
+G019,"Julie Donovan El","Blossom Chang",Desiree,Chandler,14,F,E001,"50 Meter Dash",12
+G019,"Julie Donovan El","Blossom Chang",Desiree,Chandler,14,F,E011,"Run Long Jump",303
+G019,"Julie Donovan El","Blossom Chang",Emi,Langley,23,F,E001,"50 Meter Dash",28
+G019,"Julie Donovan El","Blossom Chang",Emi,Langley,23,F,E015,"Softball Throw",1004
+G019,"Julie Donovan El","Blossom Chang",Fredericka,Bentley,16,F,E001,"50 Meter Dash",15
+G019,"Julie Donovan El","Blossom Chang",Fredericka,Bentley,16,F,E015,"Softball Throw",1709
+G019,"Julie Donovan El","Blossom Chang",Gemma,Sutton,11,F,E002,"100 Meter Dash",25
+G019,"Julie Donovan El","Blossom Chang",Gemma,Sutton,11,F,E013,"Standing Long Jump",308
+G019,"Julie Donovan El","Blossom Chang",Georgia,Mcintosh,34,F,E021,Developmental,0
+G019,"Julie Donovan El","Blossom Chang",Georgia,Mcintosh,34,F,E099,"Olympic Town",0
+G019,"Julie Donovan El","Blossom Chang",Geraldine,Blanchard,19,F,E002,"100 Meter Dash",37
+G019,"Julie Donovan El","Blossom Chang",Geraldine,Blanchard,19,F,E013,"Standing Long Jump",205
+G019,"Julie Donovan El","Blossom Chang",Gwendolyn,Villarreal,14,F,E001,"50 Meter Dash",29
+G019,"Julie Donovan El","Blossom Chang",Gwendolyn,Villarreal,14,F,E015,"Softball Throw",1807
+G019,"Julie Donovan El","Blossom Chang",Illana,Brooks,24,F,E001,"50 Meter Dash",18
+G019,"Julie Donovan El","Blossom Chang",Illana,Brooks,24,F,E015,"Softball Throw",1308
+G019,"Julie Donovan El","Blossom Chang",Ingrid,Dorsey,13,F,E001,"50 Meter Dash",14
+G019,"Julie Donovan El","Blossom Chang",Ingrid,Dorsey,13,F,E013,"Standing Long Jump",204
+G019,"Julie Donovan El","Blossom Chang",Jaime,Becker,15,F,E001,"50 Meter Dash",13
+G019,"Julie Donovan El","Blossom Chang",Jaime,Becker,15,F,E013,"Standing Long Jump",308
+G019,"Julie Donovan El","Blossom Chang",Jasmine,Burt,15,F,E002,"100 Meter Dash",20
+G019,"Julie Donovan El","Blossom Chang",Jasmine,Burt,15,F,E013,"Standing Long Jump",406
+G019,"Julie Donovan El","Blossom Chang",Julie,Bray,16,F,E002,"100 Meter Dash",23
+G019,"Julie Donovan El","Blossom Chang",Julie,Bray,16,F,E013,"Standing Long Jump",600
+G019,"Julie Donovan El","Blossom Chang",Kellie,Oconnor,17,F,E021,Developmental,0
+G019,"Julie Donovan El","Blossom Chang",Kellie,Oconnor,17,F,E099,"Olympic Town",0
+G019,"Julie Donovan El","Blossom Chang",Lacey,George,11,F,E001,"50 Meter Dash",12
+G019,"Julie Donovan El","Blossom Chang",Lacey,George,11,F,E013,"Standing Long Jump",209
+G019,"Julie Donovan El","Blossom Chang",Libby,Lynn,11,F,E001,"50 Meter Dash",13
+G019,"Julie Donovan El","Blossom Chang",Libby,Lynn,11,F,E011,"Run Long Jump",504
+G019,"Julie Donovan El","Blossom Chang",Lisandra,Gutierrez,15,F,E013,"Standing Long Jump",106
+G019,"Julie Donovan El","Blossom Chang",Lisandra,Gutierrez,15,F,E015,"Softball Throw",603
+G019,"Julie Donovan El","Blossom Chang",Lysandra,Key,15,F,E002,"100 Meter Dash",16
+G019,"Julie Donovan El","Blossom Chang",Lysandra,Key,15,F,E013,"Standing Long Jump",505
+G019,"Julie Donovan El","Blossom Chang",McKenzie,Rojas,15,F,E001,"50 Meter Dash",13
+G019,"Julie Donovan El","Blossom Chang",McKenzie,Rojas,15,F,E013,"Standing Long Jump",306
+G019,"Julie Donovan El","Blossom Chang",Morgan,Bush,14,F,E003,"200 Meter Dash",50
+G019,"Julie Donovan El","Blossom Chang",Morgan,Bush,14,F,E011,"Run Long Jump",502
+G019,"Julie Donovan El","Blossom Chang",Morgan,Whitfield,17,F,E002,"100 Meter Dash",28
+G019,"Julie Donovan El","Blossom Chang",Morgan,Whitfield,17,F,E013,"Standing Long Jump",200
+G019,"Julie Donovan El","Blossom Chang",Ori,Watts,11,F,E001,"50 Meter Dash",15
+G019,"Julie Donovan El","Blossom Chang",Ori,Watts,11,F,E013,"Standing Long Jump",202
+G019,"Julie Donovan El","Blossom Chang",Piper,Evans,16,F,E001,"50 Meter Dash",45
+G019,"Julie Donovan El","Blossom Chang",Piper,Evans,16,F,E015,"Softball Throw",1202
+G019,"Julie Donovan El","Blossom Chang",Roanna,Henson,13,F,E001,"50 Meter Dash",15
+G019,"Julie Donovan El","Blossom Chang",Roanna,Henson,13,F,E013,"Standing Long Jump",301
+G019,"Julie Donovan El","Blossom Chang",Yuri,Kelley,20,F,E001,"50 Meter Dash",19
+G019,"Julie Donovan El","Blossom Chang",Yuri,Kelley,20,F,E013,"Standing Long Jump",209
+G019,"Julie Donovan El","Blossom Chang",Zephr,Jimenez,19,F,E001,"50 Meter Dash",15
+G019,"Julie Donovan El","Blossom Chang",Zephr,Jimenez,19,F,E013,"Standing Long Jump",305
+G020,"Nash Richard High","Shelley Benjamin",Colin,Hanson,15,M,E013,"Standing Long Jump",6
+G020,"Nash Richard High","Shelley Benjamin",Colin,Hanson,15,M,E015,"Softball Throw",1100
+G020,"Nash Richard High","Shelley Benjamin",Harrison,Hodges,17,M,E002,"100 Meter Dash",28
+G020,"Nash Richard High","Shelley Benjamin",Harrison,Hodges,17,M,E015,"Softball Throw",4200
+G020,"Nash Richard High","Shelley Benjamin",Holmes,Huber,14,M,E013,"Standing Long Jump",1607
+G020,"Nash Richard High","Shelley Benjamin",Holmes,Huber,14,M,E015,"Softball Throw",105
+G020,"Nash Richard High","Shelley Benjamin",Kane,Black,16,M,E013,"Standing Long Jump",206
+G020,"Nash Richard High","Shelley Benjamin",Kane,Black,16,M,E015,"Softball Throw",4000
+G020,"Nash Richard High","Shelley Benjamin",Moses,Sweeney,12,M,E001,"50 Meter Dash",14
+G020,"Nash Richard High","Shelley Benjamin",Moses,Sweeney,12,M,E015,"Softball Throw",5100
+G020,"Nash Richard High","Shelley Benjamin",Nasim,Blevins,16,M,E001,"50 Meter Dash",13
+G020,"Nash Richard High","Shelley Benjamin",Nasim,Blevins,16,M,E013,"Standing Long Jump",300
+G020,"Nash Richard High","Shelley Benjamin",Tarik,Best,13,M,E001,"50 Meter Dash",12
+G020,"Nash Richard High","Shelley Benjamin",Tarik,Best,13,M,E015,"Softball Throw",5700
+G021,"Mohammad Farley Mid","Hanae Gates",Chloe,Lawrence,13,F,E003,"200 Meter Dash",40
+G021,"Mohammad Farley Mid","Hanae Gates",Chloe,Lawrence,13,F,E015,"Softball Throw",1500
+G021,"Mohammad Farley Mid","Hanae Gates",Frances,Hester,15,F,E001,"50 Meter Dash",40
+G021,"Mohammad Farley Mid","Hanae Gates",Frances,Hester,15,F,E015,"Softball Throw",1500
+G021,"Mohammad Farley Mid","Hanae Gates",Joy,Raymond,13,F,E002,"100 Meter Dash",50
+G021,"Mohammad Farley Mid","Hanae Gates",Joy,Raymond,13,F,E015,"Softball Throw",1900
+G021,"Mohammad Farley Mid","Hanae Gates",Nora,Branch,14,F,E001,"50 Meter Dash",50
+G021,"Mohammad Farley Mid","Hanae Gates",Nora,Branch,14,F,E015,"Softball Throw",2000
+G022,"Julian Patton Mid","Gretchen Neal",Amir,Vance,15,M,E001,"50 Meter Dash",23
+G022,"Julian Patton Mid","Gretchen Neal",Amir,Vance,15,M,E015,"Softball Throw",600
+G022,"Julian Patton Mid","Gretchen Neal",Blaze,Greene,15,M,E001,"50 Meter Dash",25
+G022,"Julian Patton Mid","Gretchen Neal",Blaze,Greene,15,M,E015,"Softball Throw",500
+G022,"Julian Patton Mid","Gretchen Neal",Demetrius,Odom,14,M,E001,"50 Meter Dash",23
+G022,"Julian Patton Mid","Gretchen Neal",Demetrius,Odom,14,M,E015,"Softball Throw",500
+G022,"Julian Patton Mid","Gretchen Neal",Denton,Waters,15,M,E001,"50 Meter Dash",23
+G022,"Julian Patton Mid","Gretchen Neal",Denton,Waters,15,M,E015,"Softball Throw",500
+G022,"Julian Patton Mid","Gretchen Neal",Emerson,Roberson,14,M,E001,"50 Meter Dash",23
+G022,"Julian Patton Mid","Gretchen Neal",Emerson,Roberson,14,M,E013,"Standing Long Jump",200
+G022,"Julian Patton Mid","Gretchen Neal",Herman,Weber,16,M,E001,"50 Meter Dash",25
+G022,"Julian Patton Mid","Gretchen Neal",Herman,Weber,16,M,E015,"Softball Throw",400
+G022,"Julian Patton Mid","Gretchen Neal",Hyatt,Whitaker,15,M,E001,"50 Meter Dash",23
+G022,"Julian Patton Mid","Gretchen Neal",Hyatt,Whitaker,15,M,E013,"Standing Long Jump",301
+G022,"Julian Patton Mid","Gretchen Neal",Jack,Padilla,14,M,E001,"50 Meter Dash",25
+G022,"Julian Patton Mid","Gretchen Neal",Jack,Padilla,14,M,E015,"Softball Throw",500
+G022,"Julian Patton Mid","Gretchen Neal",Jermaine,Henson,13,M,E001,"50 Meter Dash",26
+G022,"Julian Patton Mid","Gretchen Neal",Jermaine,Henson,13,M,E015,"Softball Throw",300
+G022,"Julian Patton Mid","Gretchen Neal",Peter,Taylor,15,M,E001,"50 Meter Dash",26
+G022,"Julian Patton Mid","Gretchen Neal",Peter,Taylor,15,M,E015,"Softball Throw",300
+G022,"Julian Patton Mid","Gretchen Neal",Rafael,Bruce,16,M,E013,"Standing Long Jump",6
+G022,"Julian Patton Mid","Gretchen Neal",Rafael,Bruce,16,M,E015,"Softball Throw",400
+G022,"Julian Patton Mid","Gretchen Neal",Stone,Knight,14,M,E013,"Standing Long Jump",300
+G022,"Julian Patton Mid","Gretchen Neal",Stone,Knight,14,M,E015,"Softball Throw",500
+G022,"Julian Patton Mid","Gretchen Neal",Yasir,Simmons,15,M,E013,"Standing Long Jump",200
+G022,"Julian Patton Mid","Gretchen Neal",Yasir,Simmons,15,M,E015,"Softball Throw",500
+G022,"Julian Patton Mid","Neville Wade",Carl,Dominguez,13,M,E007,"100 Meter Walk",58
+G022,"Julian Patton Mid","Neville Wade",Carl,Dominguez,13,M,E015,"Softball Throw",204
+G022,"Julian Patton Mid","Neville Wade",Cedric,Castaneda,16,M,E001,"50 Meter Dash",52
+G022,"Julian Patton Mid","Neville Wade",Cedric,Castaneda,16,M,E015,"Softball Throw",403
+G022,"Julian Patton Mid","Neville Wade",Ferris,Serrano,15,M,E002,"100 Meter Dash",22
+G022,"Julian Patton Mid","Neville Wade",Ferris,Serrano,15,M,E015,"Softball Throw",1200
+G022,"Julian Patton Mid","Neville Wade",Graham,Lyons,15,M,E002,"100 Meter Dash",102
+G022,"Julian Patton Mid","Neville Wade",Graham,Lyons,15,M,E015,"Softball Throw",403
+G022,"Julian Patton Mid","Neville Wade",Kato,Campos,14,M,E001,"50 Meter Dash",46
+G022,"Julian Patton Mid","Neville Wade",Kato,Campos,14,M,E015,"Softball Throw",302
+G022,"Julian Patton Mid","Neville Wade",Noble,Woodard,13,M,E007,"100 Meter Walk",131
+G022,"Julian Patton Mid","Neville Wade",Noble,Woodard,13,M,E015,"Softball Throw",304
+G022,"Julian Patton Mid","Neville Wade",Orlando,Adkins,14,M,E015,"Softball Throw",1002
+G022,"Julian Patton Mid","Neville Wade",Orlando,Adkins,14,M,E017,"25 M Wheelchair",31
+G022,"Julian Patton Mid","Thomas Melendez",Germaine,Tran,15,F,E013,"Standing Long Jump",408
+G022,"Julian Patton Mid","Thomas Melendez",Germaine,Tran,15,F,E015,"Softball Throw",1502
+G022,"Julian Patton Mid","Thomas Melendez",Iona,Gray,15,F,E017,"25 M Wheelchair",21
+G022,"Julian Patton Mid","Thomas Melendez",Iona,Gray,15,F,E018,"Wheelchair Shot Put",2507
+G022,"Julian Patton Mid","Thomas Melendez",Lacey,Cantrell,15,F,E002,"100 Meter Dash",105
+G022,"Julian Patton Mid","Thomas Melendez",Lacey,Cantrell,15,F,E015,"Softball Throw",2503
+G022,"Julian Patton Mid","Thomas Melendez",Mira,Francis,15,F,E002,"100 Meter Dash",55
+G022,"Julian Patton Mid","Thomas Melendez",Mira,Francis,15,F,E013,"Standing Long Jump",407
+G022,"Julian Patton Mid","Thomas Melendez",Odette,Ferrell,14,F,E013,"Standing Long Jump",502
+G022,"Julian Patton Mid","Thomas Melendez",Odette,Ferrell,14,F,E015,"Softball Throw",3504
+G022,"Julian Patton Mid","Thomas Melendez",Quintessa,Heath,16,F,E003,"200 Meter Dash",130
+G022,"Julian Patton Mid","Thomas Melendez",Quintessa,Heath,16,F,E013,"Standing Long Jump",510
+G022,"Julian Patton Mid","Thomas Melendez",Samantha,Chang,17,F,E002,"100 Meter Dash",45
+G022,"Julian Patton Mid","Thomas Melendez",Samantha,Chang,17,F,E013,"Standing Long Jump",502
+G022,"Julian Patton Mid","Thomas Melendez",Ursa,Waters,15,F,E002,"100 Meter Dash",35
+G022,"Julian Patton Mid","Thomas Melendez",Ursa,Waters,15,F,E013,"Standing Long Jump",508
+G023,"Frances Sellers Mid","Quentin Bennett",Adria,Gomez,16,F,E002,"100 Meter Dash",40
+G023,"Frances Sellers Mid","Quentin Bennett",Adria,Gomez,16,F,E015,"Softball Throw",2608
+G023,"Frances Sellers Mid","Quentin Bennett",Amena,Shepherd,17,F,E001,"50 Meter Dash",19
+G023,"Frances Sellers Mid","Quentin Bennett",Amena,Shepherd,17,F,E015,"Softball Throw",2307
+G023,"Frances Sellers Mid","Quentin Bennett",Ashely,Sloan,12,F,E002,"100 Meter Dash",30
+G023,"Frances Sellers Mid","Quentin Bennett",Ashely,Sloan,12,F,E015,"Softball Throw",1501
+G023,"Frances Sellers Mid","Quentin Bennett",Blossom,Hendrix,15,F,E002,"100 Meter Dash",46
+G023,"Frances Sellers Mid","Quentin Bennett",Blossom,Hendrix,15,F,E015,"Softball Throw",1604
+G023,"Frances Sellers Mid","Quentin Bennett",Courtney,Suarez,13,F,E002,"100 Meter Dash",32
+G023,"Frances Sellers Mid","Quentin Bennett",Courtney,Suarez,13,F,E015,"Softball Throw",3909
+G023,"Frances Sellers Mid","Quentin Bennett",Dara,Rodgers,13,F,E002,"100 Meter Dash",24
+G023,"Frances Sellers Mid","Quentin Bennett",Dara,Rodgers,13,F,E015,"Softball Throw",6309
+G023,"Frances Sellers Mid","Quentin Bennett",Darryl,Spencer,13,F,E002,"100 Meter Dash",19
+G023,"Frances Sellers Mid","Quentin Bennett",Darryl,Spencer,13,F,E011,"Run Long Jump",804
+G023,"Frances Sellers Mid","Quentin Bennett",Eliana,Christensen,14,F,E002,"100 Meter Dash",30
+G023,"Frances Sellers Mid","Quentin Bennett",Eliana,Christensen,14,F,E015,"Softball Throw",1807
+G023,"Frances Sellers Mid","Quentin Bennett",Fallon,Davenport,14,F,E002,"100 Meter Dash",20
+G023,"Frances Sellers Mid","Quentin Bennett",Fallon,Davenport,14,F,E011,"Run Long Jump",408
+G023,"Frances Sellers Mid","Quentin Bennett",Iris,Spencer,16,F,E002,"100 Meter Dash",28
+G023,"Frances Sellers Mid","Quentin Bennett",Iris,Spencer,16,F,E011,"Run Long Jump",506
+G023,"Frances Sellers Mid","Quentin Bennett",Lacy,Wilcox,16,F,E002,"100 Meter Dash",22
+G023,"Frances Sellers Mid","Quentin Bennett",Lacy,Wilcox,16,F,E011,"Run Long Jump",704
+G023,"Frances Sellers Mid","Quentin Bennett",Larissa,Harmon,15,F,E002,"100 Meter Dash",28
+G023,"Frances Sellers Mid","Quentin Bennett",Larissa,Harmon,15,F,E015,"Softball Throw",4307
+G023,"Frances Sellers Mid","Quentin Bennett",Mary,Grimes,15,F,E002,"100 Meter Dash",23
+G023,"Frances Sellers Mid","Quentin Bennett",Mary,Grimes,15,F,E015,"Softball Throw",4705
+G023,"Frances Sellers Mid","Quentin Bennett",Meredith,Kinney,13,F,E002,"100 Meter Dash",36
+G023,"Frances Sellers Mid","Quentin Bennett",Meredith,Kinney,13,F,E015,"Softball Throw",2409
+G023,"Frances Sellers Mid","Quentin Bennett",Minerva,Steele,12,F,E002,"100 Meter Dash",28
+G023,"Frances Sellers Mid","Quentin Bennett",Minerva,Steele,12,F,E015,"Softball Throw",3304
+G023,"Frances Sellers Mid","Quentin Bennett",Rebekah,Randall,13,F,E002,"100 Meter Dash",33
+G023,"Frances Sellers Mid","Quentin Bennett",Rebekah,Randall,13,F,E015,"Softball Throw",3307
+G023,"Frances Sellers Mid","Quentin Bennett",Robin,Lee,13,F,E002,"100 Meter Dash",37
+G023,"Frances Sellers Mid","Quentin Bennett",Robin,Lee,13,F,E015,"Softball Throw",1803
+G023,"Frances Sellers Mid","Quentin Bennett",Ruby,Aguirre,12,F,E002,"100 Meter Dash",27
+G023,"Frances Sellers Mid","Quentin Bennett",Ruby,Aguirre,12,F,E015,"Softball Throw",3106
+G023,"Frances Sellers Mid","Quentin Bennett",Shelley,Knapp,16,F,E002,"100 Meter Dash",46
+G023,"Frances Sellers Mid","Quentin Bennett",Shelley,Knapp,16,F,E015,"Softball Throw",1305
+G024,"Solomon Brock Mid","Remedios Keller",Ann,Griffin,13,F,E001,"50 Meter Dash",12
+G024,"Solomon Brock Mid","Remedios Keller",Ann,Griffin,13,F,E011,"Run Long Jump",200
+G024,"Solomon Brock Mid","Remedios Keller",Calista,Waller,14,F,E001,"50 Meter Dash",12
+G024,"Solomon Brock Mid","Remedios Keller",Calista,Waller,14,F,E011,"Run Long Jump",200
+G024,"Solomon Brock Mid","Remedios Keller",Daphne,Lloyd,16,F,E001,"50 Meter Dash",10
+G024,"Solomon Brock Mid","Remedios Keller",Daphne,Lloyd,16,F,E011,"Run Long Jump",200
+G024,"Solomon Brock Mid","Remedios Keller",Delilah,Deleon,13,F,E002,"100 Meter Dash",20
+G024,"Solomon Brock Mid","Remedios Keller",Delilah,Deleon,13,F,E015,"Softball Throw",2300
+G024,"Solomon Brock Mid","Remedios Keller",Doris,Henderson,14,F,E007,"100 Meter Walk",104
+G024,"Solomon Brock Mid","Remedios Keller",Doris,Henderson,14,F,E015,"Softball Throw",3000
+G024,"Solomon Brock Mid","Remedios Keller",Fredericka,Burton,15,F,E002,"100 Meter Dash",19
+G024,"Solomon Brock Mid","Remedios Keller",Fredericka,Burton,15,F,E015,"Softball Throw",8500
+G024,"Solomon Brock Mid","Remedios Keller",Georgia,Melton,15,F,E001,"50 Meter Dash",10
+G024,"Solomon Brock Mid","Remedios Keller",Georgia,Melton,15,F,E011,"Run Long Jump",404
+G024,"Solomon Brock Mid","Remedios Keller",Halla,Petty,15,F,E007,"100 Meter Walk",112
+G024,"Solomon Brock Mid","Remedios Keller",Halla,Petty,15,F,E015,"Softball Throw",1200
+G024,"Solomon Brock Mid","Remedios Keller",Jorden,Mercado,17,F,E007,"100 Meter Walk",104
+G024,"Solomon Brock Mid","Remedios Keller",Jorden,Mercado,17,F,E015,"Softball Throw",2000
+G024,"Solomon Brock Mid","Remedios Keller",Jorden,York,15,F,E001,"50 Meter Dash",9
+G024,"Solomon Brock Mid","Remedios Keller",Jorden,York,15,F,E011,"Run Long Jump",307
+G024,"Solomon Brock Mid","Remedios Keller",Joy,Whitney,14,F,E002,"100 Meter Dash",20
+G024,"Solomon Brock Mid","Remedios Keller",Joy,Whitney,14,F,E015,"Softball Throw",4700
+G024,"Solomon Brock Mid","Remedios Keller",Kirestin,Bowers,16,F,E001,"50 Meter Dash",10
+G024,"Solomon Brock Mid","Remedios Keller",Kirestin,Bowers,16,F,E015,"Softball Throw",6500
+G024,"Solomon Brock Mid","Remedios Keller",Kitra,Haynes,15,F,E001,"50 Meter Dash",12
+G024,"Solomon Brock Mid","Remedios Keller",Kitra,Haynes,15,F,E015,"Softball Throw",7900
+G024,"Solomon Brock Mid","Remedios Keller",MacKensie,Mack,15,F,E002,"100 Meter Dash",17
+G024,"Solomon Brock Mid","Remedios Keller",MacKensie,Mack,15,F,E015,"Softball Throw",2000
+G024,"Solomon Brock Mid","Remedios Keller",Mia,Nicholson,13,F,E001,"50 Meter Dash",11
+G024,"Solomon Brock Mid","Remedios Keller",Mia,Nicholson,13,F,E011,"Run Long Jump",200
+G024,"Solomon Brock Mid","Remedios Keller",Myra,Gilmore,14,F,E001,"50 Meter Dash",13
+G024,"Solomon Brock Mid","Remedios Keller",Myra,Gilmore,14,F,E013,"Standing Long Jump",303
+G024,"Solomon Brock Mid","Remedios Keller",Phyllis,Brown,14,F,E001,"50 Meter Dash",9
+G024,"Solomon Brock Mid","Remedios Keller",Phyllis,Brown,14,F,E011,"Run Long Jump",707
+G024,"Solomon Brock Mid","Remedios Keller",Quintessa,Villarreal,16,F,E001,"50 Meter Dash",15
+G024,"Solomon Brock Mid","Remedios Keller",Quintessa,Villarreal,16,F,E015,"Softball Throw",3000
+G024,"Solomon Brock Mid","Remedios Keller",Sacha,Martinez,14,F,E002,"100 Meter Dash",18
+G024,"Solomon Brock Mid","Remedios Keller",Sacha,Martinez,14,F,E013,"Standing Long Jump",200
+G024,"Solomon Brock Mid","Remedios Keller",Serena,Gomez,15,F,E001,"50 Meter Dash",9
+G024,"Solomon Brock Mid","Remedios Keller",Serena,Gomez,15,F,E011,"Run Long Jump",509
+G024,"Solomon Brock Mid","Remedios Keller",Serina,Curry,14,F,E001,"50 Meter Dash",9
+G024,"Solomon Brock Mid","Remedios Keller",Serina,Curry,14,F,E011,"Run Long Jump",300
+G024,"Solomon Brock Mid","Remedios Keller",Willa,Downs,13,F,E001,"50 Meter Dash",8
+G024,"Solomon Brock Mid","Remedios Keller",Willa,Downs,13,F,E011,"Run Long Jump",206
+G025,"Ivan Leonard Mid","Marah Rowe",Camille,Duffy,13,F,E007,"100 Meter Walk",120
+G025,"Ivan Leonard Mid","Marah Rowe",Camille,Duffy,13,F,E015,"Softball Throw",1000
+G025,"Ivan Leonard Mid","Marah Rowe",Chastity,Pena,14,F,E002,"100 Meter Dash",46
+G025,"Ivan Leonard Mid","Marah Rowe",Chastity,Pena,14,F,E013,"Standing Long Jump",208
+G025,"Ivan Leonard Mid","Marah Rowe",Jana,Malone,15,F,E002,"100 Meter Dash",45
+G025,"Ivan Leonard Mid","Marah Rowe",Jana,Malone,15,F,E013,"Standing Long Jump",302
+G025,"Ivan Leonard Mid","Marah Rowe",Kirsten,Harmon,14,F,E002,"100 Meter Dash",40
+G025,"Ivan Leonard Mid","Marah Rowe",Kirsten,Harmon,14,F,E013,"Standing Long Jump",305
+G025,"Ivan Leonard Mid","Marah Rowe",Shaine,Oliver,13,F,E007,"100 Meter Walk",253
+G025,"Ivan Leonard Mid","Marah Rowe",Shaine,Oliver,13,F,E015,"Softball Throw",902
+G025,"Ivan Leonard Mid","Marah Rowe",Xyla,Hines,16,F,E003,"200 Meter Dash",30
+G025,"Ivan Leonard Mid","Marah Rowe",Xyla,Hines,16,F,E013,"Standing Long Jump",305
+G025,"Ivan Leonard Mid","Zephania Cash",Charissa,Hicks,14,F,E013,"Standing Long Jump",303
+G025,"Ivan Leonard Mid","Zephania Cash",Charissa,Hicks,14,F,E015,"Softball Throw",2400
+G025,"Ivan Leonard Mid","Zephania Cash",Emma,King,16,F,E013,"Standing Long Jump",306
+G025,"Ivan Leonard Mid","Zephania Cash",Emma,King,16,F,E015,"Softball Throw",2300
+G025,"Ivan Leonard Mid","Zephania Cash",Hanna,Bryant,14,F,E013,"Standing Long Jump",400
+G025,"Ivan Leonard Mid","Zephania Cash",Hanna,Bryant,14,F,E015,"Softball Throw",4500
+G025,"Ivan Leonard Mid","Zephania Cash",Mary,Mcpherson,13,F,E013,"Standing Long Jump",300
+G025,"Ivan Leonard Mid","Zephania Cash",Mary,Mcpherson,13,F,E015,"Softball Throw",1000
+G026,"Marvin Monroe Mid","Ainsley Brock",Avye,Trujillo,14,F,E002,"100 Meter Dash",56
+G026,"Marvin Monroe Mid","Ainsley Brock",Avye,Trujillo,14,F,E015,"Softball Throw",6202
+G026,"Marvin Monroe Mid","Ainsley Brock",Casey,Huffman,16,F,E002,"100 Meter Dash",52
+G026,"Marvin Monroe Mid","Ainsley Brock",Casey,Huffman,16,F,E015,"Softball Throw",3402
+G026,"Marvin Monroe Mid","Ainsley Brock",Chava,Horne,15,F,E002,"100 Meter Dash",49
+G026,"Marvin Monroe Mid","Ainsley Brock",Chava,Horne,15,F,E015,"Softball Throw",3405
+G026,"Marvin Monroe Mid","Ainsley Brock",Doris,Whitley,14,F,E002,"100 Meter Dash",49
+G026,"Marvin Monroe Mid","Ainsley Brock",Doris,Whitley,14,F,E015,"Softball Throw",2703
+G026,"Marvin Monroe Mid","Ainsley Brock",Dorothy,Brennan,16,F,E002,"100 Meter Dash",44
+G026,"Marvin Monroe Mid","Ainsley Brock",Dorothy,Brennan,16,F,E015,"Softball Throw",4806
+G026,"Marvin Monroe Mid","Ainsley Brock",Kelsey,Mcclure,13,F,E002,"100 Meter Dash",48
+G026,"Marvin Monroe Mid","Ainsley Brock",Kelsey,Mcclure,13,F,E015,"Softball Throw",4704
+G026,"Marvin Monroe Mid","Ainsley Brock",Lenore,Kirk,15,F,E001,"50 Meter Dash",27
+G026,"Marvin Monroe Mid","Ainsley Brock",Lenore,Kirk,15,F,E015,"Softball Throw",3107
+G026,"Marvin Monroe Mid","Ainsley Brock",Maya,Ellis,15,F,E002,"100 Meter Dash",33
+G026,"Marvin Monroe Mid","Ainsley Brock",Maya,Ellis,15,F,E015,"Softball Throw",5005
+G026,"Marvin Monroe Mid","Ainsley Brock",Shaeleigh,Booker,16,F,E001,"50 Meter Dash",26
+G026,"Marvin Monroe Mid","Ainsley Brock",Shaeleigh,Booker,16,F,E015,"Softball Throw",4004
+G026,"Marvin Monroe Mid","Ainsley Brock",Yvonne,Mcclain,15,F,E002,"100 Meter Dash",38
+G026,"Marvin Monroe Mid","Ainsley Brock",Yvonne,Mcclain,15,F,E015,"Softball Throw",5804
+G027,"Janna Alford High","Steel Mcclain",Ann,Browning,14,F,E003,"200 Meter Dash",45
+G027,"Janna Alford High","Steel Mcclain",Ann,Browning,14,F,E014,"Shot Put",1900
+G027,"Janna Alford High","Steel Mcclain",Brittany,George,14,F,E003,"200 Meter Dash",48
+G027,"Janna Alford High","Steel Mcclain",Brittany,George,14,F,E014,"Shot Put",1108
+G027,"Janna Alford High","Steel Mcclain",Gemma,Craft,15,F,E001,"50 Meter Dash",7
+G027,"Janna Alford High","Steel Mcclain",Gemma,Craft,15,F,E015,"Softball Throw",5008
+G027,"Janna Alford High","Steel Mcclain",Geraldine,Winters,12,F,E003,"200 Meter Dash",47
+G027,"Janna Alford High","Steel Mcclain",Geraldine,Winters,12,F,E015,"Softball Throw",6008
+G027,"Janna Alford High","Steel Mcclain",Guinevere,Flowers,14,F,E001,"50 Meter Dash",6
+G027,"Janna Alford High","Steel Mcclain",Guinevere,Flowers,14,F,E015,"Softball Throw",2203
+G027,"Janna Alford High","Steel Mcclain",Hilary,Conway,15,F,E002,"100 Meter Dash",19
+G027,"Janna Alford High","Steel Mcclain",Hilary,Conway,15,F,E015,"Softball Throw",6200
+G027,"Janna Alford High","Steel Mcclain",Ila,Vinson,15,F,E001,"50 Meter Dash",8
+G027,"Janna Alford High","Steel Mcclain",Ila,Vinson,15,F,E014,"Shot Put",1408
+G027,"Janna Alford High","Steel Mcclain",Madison,Rogers,12,F,E015,"Softball Throw",3402
+G027,"Janna Alford High","Steel Mcclain",Madison,Rogers,12,F,E099,"Olympic Town",0
+G027,"Janna Alford High","Steel Mcclain",Natalie,Deleon,17,F,E013,"Standing Long Jump",402
+G027,"Janna Alford High","Steel Mcclain",Natalie,Deleon,17,F,E015,"Softball Throw",4104
+G027,"Janna Alford High","Steel Mcclain",Quemby,Cantrell,15,F,E001,"50 Meter Dash",6
+G027,"Janna Alford High","Steel Mcclain",Quemby,Cantrell,15,F,E015,"Softball Throw",2508
+G027,"Janna Alford High","Steel Mcclain",Sierra,Pierce,15,F,E099,"Olympic Town",0
+G028,"Ali Albert Mid","Haley Wade",Blossom,Mcdonald,16,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Blossom,Mcdonald,16,F,E013,"Standing Long Jump",210
+G028,"Ali Albert Mid","Haley Wade",Britanni,Hunt,20,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Britanni,Hunt,20,F,E013,"Standing Long Jump",205
+G028,"Ali Albert Mid","Haley Wade",Chloe,Christian,19,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Chloe,Christian,19,F,E013,"Standing Long Jump",401
+G028,"Ali Albert Mid","Haley Wade",Colleen,Valenzuela,19,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Colleen,Valenzuela,19,F,E013,"Standing Long Jump",402
+G028,"Ali Albert Mid","Haley Wade",Darrel,Cunningham,20,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Darrel,Cunningham,20,F,E013,"Standing Long Jump",407
+G028,"Ali Albert Mid","Haley Wade",Hanna,Kerr,20,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Hanna,Kerr,20,F,E013,"Standing Long Jump",305
+G028,"Ali Albert Mid","Haley Wade",Hilary,Fitzpatrick,21,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Hilary,Fitzpatrick,21,F,E013,"Standing Long Jump",508
+G028,"Ali Albert Mid","Haley Wade",Isabelle,Trujillo,20,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Isabelle,Trujillo,20,F,E013,"Standing Long Jump",207
+G028,"Ali Albert Mid","Haley Wade",Jacqueline,Justice,17,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Jacqueline,Justice,17,F,E013,"Standing Long Jump",102
+G028,"Ali Albert Mid","Haley Wade",Madison,Matthews,16,F,E013,"Standing Long Jump",206
+G028,"Ali Albert Mid","Haley Wade",Madison,Matthews,16,F,E099,"Olympic Town",0
+G028,"Ali Albert Mid","Haley Wade",Molly,Mcmillan,21,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Molly,Mcmillan,21,F,E013,"Standing Long Jump",206
+G028,"Ali Albert Mid","Haley Wade",Penelope,Hardin,21,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Penelope,Hardin,21,F,E013,"Standing Long Jump",204
+G028,"Ali Albert Mid","Haley Wade",Robin,Gaines,17,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Robin,Gaines,17,F,E013,"Standing Long Jump",111
+G028,"Ali Albert Mid","Haley Wade",Rylee,Smith,17,F,E001,"50 Meter Dash",0
+G028,"Ali Albert Mid","Haley Wade",Rylee,Smith,17,F,E013,"Standing Long Jump",210
+G029,"Cara Short Mid","Evan Hale",Aurelia,Mayo,19,F,E013,"Standing Long Jump",309
+G029,"Cara Short Mid","Evan Hale",Aurelia,Mayo,19,F,E015,"Softball Throw",3300
+G029,"Cara Short Mid","Evan Hale",Echo,Bennett,20,F,E001,"50 Meter Dash",9
+G029,"Cara Short Mid","Evan Hale",Echo,Bennett,20,F,E015,"Softball Throw",9406
+G029,"Cara Short Mid","Evan Hale",Ima,Moody,16,F,E007,"100 Meter Walk",21
+G029,"Cara Short Mid","Evan Hale",Ima,Moody,16,F,E015,"Softball Throw",5506
+G029,"Cara Short Mid","Evan Hale",Kelsie,Wilkerson,22,F,E001,"50 Meter Dash",18
+G029,"Cara Short Mid","Evan Hale",Kelsie,Wilkerson,22,F,E015,"Softball Throw",1309
+G029,"Cara Short Mid","Evan Hale",Orli,Hatfield,17,F,E002,"100 Meter Dash",17
+G029,"Cara Short Mid","Evan Hale",Orli,Hatfield,17,F,E013,"Standing Long Jump",406
+G029,"Cara Short Mid","Evan Hale",Rosalyn,Hall,22,F,E001,"50 Meter Dash",15
+G029,"Cara Short Mid","Evan Hale",Rosalyn,Hall,22,F,E015,"Softball Throw",2900
+G029,"Cara Short Mid","Evan Hale",Winter,Marshall,17,F,E001,"50 Meter Dash",11
+G029,"Cara Short Mid","Evan Hale",Winter,Marshall,17,F,E015,"Softball Throw",7300
+G029,"Cara Short Mid","Rosalyn Conway",Autumn,Chandler,18,F,E002,"100 Meter Dash",106
+G029,"Cara Short Mid","Rosalyn Conway",Autumn,Chandler,18,F,E015,"Softball Throw",1806
+G029,"Cara Short Mid","Rosalyn Conway",Dora,Cunningham,20,F,E002,"100 Meter Dash",26
+G029,"Cara Short Mid","Rosalyn Conway",Dora,Cunningham,20,F,E015,"Softball Throw",2707
+G029,"Cara Short Mid","Rosalyn Conway",Gisela,Ryan,20,F,E002,"100 Meter Dash",27
+G029,"Cara Short Mid","Rosalyn Conway",Gisela,Ryan,20,F,E015,"Softball Throw",2607
+G029,"Cara Short Mid","Rosalyn Conway",Lara,Best,19,F,E002,"100 Meter Dash",30
+G029,"Cara Short Mid","Rosalyn Conway",Lara,Best,19,F,E015,"Softball Throw",3605
+G029,"Cara Short Mid","Rosalyn Conway",Phyllis,Vega,17,F,E008,"400 Meter Walk",358
+G029,"Cara Short Mid","Rosalyn Conway",Phyllis,Vega,17,F,E015,"Softball Throw",2206
+G029,"Cara Short Mid","Rosalyn Conway",Rhonda,Reese,18,F,E003,"200 Meter Dash",45
+G029,"Cara Short Mid","Rosalyn Conway",Rhonda,Reese,18,F,E015,"Softball Throw",3407
+G030,"Caleb Sutton Mid","Eagan Griffith",Amal,Mercado,22,M,E002,"100 Meter Dash",26
+G030,"Caleb Sutton Mid","Eagan Griffith",Amal,Mercado,22,M,E013,"Standing Long Jump",506
+G030,"Caleb Sutton Mid","Eagan Griffith",Arden,Justice,19,M,E001,"50 Meter Dash",19
+G030,"Caleb Sutton Mid","Eagan Griffith",Arden,Justice,19,M,E013,"Standing Long Jump",406
+G030,"Caleb Sutton Mid","Eagan Griffith",Bert,Collins,20,M,E001,"50 Meter Dash",28
+G030,"Caleb Sutton Mid","Eagan Griffith",Bert,Collins,20,M,E015,"Softball Throw",5300
+G030,"Caleb Sutton Mid","Eagan Griffith",Callum,Garrison,17,M,E001,"50 Meter Dash",24
+G030,"Caleb Sutton Mid","Eagan Griffith",Callum,Garrison,17,M,E015,"Softball Throw",1509
+G030,"Caleb Sutton Mid","Eagan Griffith",Camden,Williamson,19,M,E002,"100 Meter Dash",34
+G030,"Caleb Sutton Mid","Eagan Griffith",Camden,Williamson,19,M,E015,"Softball Throw",5500
+G030,"Caleb Sutton Mid","Eagan Griffith",Castor,Golden,21,M,E001,"50 Meter Dash",25
+G030,"Caleb Sutton Mid","Eagan Griffith",Castor,Golden,21,M,E015,"Softball Throw",2408
+G030,"Caleb Sutton Mid","Eagan Griffith",Chancellor,Weber,16,M,E001,"50 Meter Dash",20
+G030,"Caleb Sutton Mid","Eagan Griffith",Chancellor,Weber,16,M,E015,"Softball Throw",3906
+G030,"Caleb Sutton Mid","Eagan Griffith",Clayton,Moon,17,M,E001,"50 Meter Dash",36
+G030,"Caleb Sutton Mid","Eagan Griffith",Clayton,Moon,17,M,E015,"Softball Throw",2707
+G030,"Caleb Sutton Mid","Eagan Griffith",Clinton,Tanner,18,M,E007,"100 Meter Walk",0
+G030,"Caleb Sutton Mid","Eagan Griffith",Clinton,Tanner,18,M,E015,"Softball Throw",1800
+G030,"Caleb Sutton Mid","Eagan Griffith",Eaton,Davenport,21,M,E007,"100 Meter Walk",115
+G030,"Caleb Sutton Mid","Eagan Griffith",Eaton,Davenport,21,M,E015,"Softball Throw",3300
+G030,"Caleb Sutton Mid","Eagan Griffith",Melvin,Burch,17,M,E001,"50 Meter Dash",108
+G030,"Caleb Sutton Mid","Eagan Griffith",Melvin,Burch,17,M,E015,"Softball Throw",1509
+G030,"Caleb Sutton Mid","Eagan Griffith",Noble,Abbott,22,M,E001,"50 Meter Dash",38
+G030,"Caleb Sutton Mid","Eagan Griffith",Noble,Abbott,22,M,E013,"Standing Long Jump",100
+G030,"Caleb Sutton Mid","Eagan Griffith",Plato,Tillman,21,M,E007,"100 Meter Walk",110
+G030,"Caleb Sutton Mid","Eagan Griffith",Plato,Tillman,21,M,E015,"Softball Throw",2000
+G030,"Caleb Sutton Mid","Eagan Griffith",Vernon,Dunn,19,M,E002,"100 Meter Dash",28
+G030,"Caleb Sutton Mid","Eagan Griffith",Vernon,Dunn,19,M,E015,"Softball Throw",8806
+G030,"Caleb Sutton Mid","Noelani Gilbert",Bernard,Rosario,19,M,E011,"Run Long Jump",307
+G030,"Caleb Sutton Mid","Noelani Gilbert",Bernard,Rosario,19,M,E015,"Softball Throw",8800
+G030,"Caleb Sutton Mid","Noelani Gilbert",Chancellor,Woodard,16,M,E007,"100 Meter Walk",105
+G030,"Caleb Sutton Mid","Noelani Gilbert",Chancellor,Woodard,16,M,E015,"Softball Throw",3700
+G030,"Caleb Sutton Mid","Noelani Gilbert",Ivor,Gregory,18,M,E001,"50 Meter Dash",18
+G030,"Caleb Sutton Mid","Noelani Gilbert",Ivor,Gregory,18,M,E015,"Softball Throw",2406
+G030,"Caleb Sutton Mid","Noelani Gilbert",Plato,Franklin,19,M,E011,"Run Long Jump",402
+G030,"Caleb Sutton Mid","Noelani Gilbert",Plato,Franklin,19,M,E015,"Softball Throw",5308
+G030,"Caleb Sutton Mid","Noelani Gilbert",Plato,Howard,20,M,E007,"100 Meter Walk",50
+G030,"Caleb Sutton Mid","Noelani Gilbert",Plato,Howard,20,M,E015,"Softball Throw",2007
+G030,"Caleb Sutton Mid","Noelani Gilbert",Stephen,Pollard,21,M,E007,"100 Meter Walk",36
+G030,"Caleb Sutton Mid","Noelani Gilbert",Stephen,Pollard,21,M,E015,"Softball Throw",5009
+G030,"Caleb Sutton Mid","Noelani Gilbert",Theodore,Weaver,22,M,E007,"100 Meter Walk",40
+G030,"Caleb Sutton Mid","Noelani Gilbert",Theodore,Weaver,22,M,E015,"Softball Throw",3309
+G031,"Hilel Matthews Mid","Cody Meyer",Genevieve,Deleon,20,F,E001,"50 Meter Dash",11
+G031,"Hilel Matthews Mid","Cody Meyer",Genevieve,Deleon,20,F,E015,"Softball Throw",2205
+G031,"Hilel Matthews Mid","Cody Meyer",Jessamine,Villarreal,17,F,E001,"50 Meter Dash",17
+G031,"Hilel Matthews Mid","Cody Meyer",Jessamine,Villarreal,17,F,E015,"Softball Throw",2007
+G031,"Hilel Matthews Mid","Cody Meyer",Lydia,Osborn,19,F,E001,"50 Meter Dash",10
+G031,"Hilel Matthews Mid","Cody Meyer",Lydia,Osborn,19,F,E015,"Softball Throw",6000
+G031,"Hilel Matthews Mid","Cody Meyer",MacKenzie,Harrington,17,F,E001,"50 Meter Dash",12
+G031,"Hilel Matthews Mid","Cody Meyer",MacKenzie,Harrington,17,F,E015,"Softball Throw",1801
+G031,"Hilel Matthews Mid","Cody Meyer",Rama,Terry,21,F,E001,"50 Meter Dash",11
+G031,"Hilel Matthews Mid","Cody Meyer",Rama,Terry,21,F,E015,"Softball Throw",2902
+G031,"Hilel Matthews Mid","Cody Meyer",Regan,Kim,20,F,E001,"50 Meter Dash",16
+G031,"Hilel Matthews Mid","Cody Meyer",Regan,Kim,20,F,E015,"Softball Throw",1705
+G031,"Hilel Matthews Mid","Cody Meyer",Sophia,Beach,16,F,E001,"50 Meter Dash",11
+G031,"Hilel Matthews Mid","Cody Meyer",Sophia,Beach,16,F,E015,"Softball Throw",303
+G031,"Hilel Matthews Mid","Cody Meyer",Vielka,Castaneda,19,F,E001,"50 Meter Dash",11
+G031,"Hilel Matthews Mid","Cody Meyer",Vielka,Castaneda,19,F,E015,"Softball Throw",3409
+G032,"Heidi Russo High","Brynn Hines",Alice,Knight,17,F,E015,"Softball Throw",3000
+G032,"Heidi Russo High","Brynn Hines",Alice,Knight,17,F,E017,"25 M Wheelchair",2006
+G032,"Heidi Russo High","Brynn Hines",Amanda,Gutierrez,18,F,E017,"25 M Wheelchair",10
+G032,"Heidi Russo High","Brynn Hines",Amanda,Gutierrez,18,F,E018,"Wheelchair Shot Put",900
+G032,"Heidi Russo High","Brynn Hines",Amber,Gilmore,17,F,E006,"30M Motor Wheelchair Sl",16
+G032,"Heidi Russo High","Brynn Hines",Amber,Gilmore,17,F,E015,"Softball Throw",1100
+G032,"Heidi Russo High","Brynn Hines",Angelica,George,20,F,E001,"50 Meter Dash",21
+G032,"Heidi Russo High","Brynn Hines",Angelica,George,20,F,E015,"Softball Throw",3400
+G032,"Heidi Russo High","Brynn Hines",Ariel,Mooney,19,F,E013,"Standing Long Jump",3000
+G032,"Heidi Russo High","Brynn Hines",Ariel,Mooney,19,F,E015,"Softball Throw",4200
+G032,"Heidi Russo High","Brynn Hines",Belle,Calderon,21,F,E001,"50 Meter Dash",21
+G032,"Heidi Russo High","Brynn Hines",Belle,Calderon,21,F,E015,"Softball Throw",1700
+G032,"Heidi Russo High","Brynn Hines",Bree,Castaneda,17,F,E015,"Softball Throw",1200
+G032,"Heidi Russo High","Brynn Hines",Bree,Castaneda,17,F,E017,"25 M Wheelchair",18
+G032,"Heidi Russo High","Brynn Hines",Destiny,Herring,20,F,E015,"Softball Throw",1500
+G032,"Heidi Russo High","Brynn Hines",Destiny,Herring,20,F,E020,"25M Walk",14
+G032,"Heidi Russo High","Brynn Hines",Emerald,Prince,22,F,E001,"50 Meter Dash",16
+G032,"Heidi Russo High","Brynn Hines",Emerald,Prince,22,F,E014,"Shot Put",1700
+G032,"Heidi Russo High","Brynn Hines",Emi,Bradshaw,18,F,E001,"50 Meter Dash",10
+G032,"Heidi Russo High","Brynn Hines",Emi,Bradshaw,18,F,E013,"Standing Long Jump",3100
+G032,"Heidi Russo High","Brynn Hines",Eve,Lee,19,F,E015,"Softball Throw",1800
+G032,"Heidi Russo High","Brynn Hines",Eve,Lee,19,F,E017,"25 M Wheelchair",27
+G032,"Heidi Russo High","Brynn Hines",Ima,Combs,22,F,E006,"30M Motor Wheelchair Sl",56
+G032,"Heidi Russo High","Brynn Hines",Ima,Combs,22,F,E015,"Softball Throw",300
+G032,"Heidi Russo High","Brynn Hines",Kendall,Jackson,17,F,E005,"30M Wheelchair Sl",26
+G032,"Heidi Russo High","Brynn Hines",Kendall,Jackson,17,F,E015,"Softball Throw",1100
+G032,"Heidi Russo High","Brynn Hines",Kylee,Wynn,18,F,E015,"Softball Throw",1500
+G032,"Heidi Russo High","Brynn Hines",Kylee,Wynn,18,F,E017,"25 M Wheelchair",30
+G032,"Heidi Russo High","Brynn Hines",Lilah,Bartlett,18,F,E001,"50 Meter Dash",23
+G032,"Heidi Russo High","Brynn Hines",Lilah,Bartlett,18,F,E015,"Softball Throw",1600
+G032,"Heidi Russo High","Brynn Hines",Noelani,Schmidt,19,F,E015,"Softball Throw",1306
+G032,"Heidi Russo High","Brynn Hines",Noelani,Schmidt,19,F,E017,"25 M Wheelchair",25
+G032,"Heidi Russo High","Brynn Hines",Olga,Garza,19,F,E011,"Run Long Jump",900
+G032,"Heidi Russo High","Brynn Hines",Olga,Garza,19,F,E015,"Softball Throw",6400
+G032,"Heidi Russo High","Brynn Hines",Quinn,Chambers,17,F,E001,"50 Meter Dash",16
+G032,"Heidi Russo High","Brynn Hines",Quinn,Chambers,17,F,E015,"Softball Throw",5500
+G032,"Heidi Russo High","Brynn Hines",Scarlett,Shelton,20,F,E002,"100 Meter Dash",25
+G032,"Heidi Russo High","Brynn Hines",Scarlett,Shelton,20,F,E015,"Softball Throw",3700
+G032,"Heidi Russo High","Brynn Hines",Yoko,Hebert,21,F,E006,"30M Motor Wheelchair Sl",28
+G032,"Heidi Russo High","Brynn Hines",Yoko,Hebert,21,F,E015,"Softball Throw",1802
+G032,"Heidi Russo High","Desiree Harmon",Aileen,Armstrong,22,F,E015,"Softball Throw",2000
+G032,"Heidi Russo High","Desiree Harmon",Aileen,Armstrong,22,F,E017,"25 M Wheelchair",10
+G032,"Heidi Russo High","Desiree Harmon",Amber,Whitfield,18,F,E001,"50 Meter Dash",13
+G032,"Heidi Russo High","Desiree Harmon",Amber,Whitfield,18,F,E015,"Softball Throw",2100
+G032,"Heidi Russo High","Desiree Harmon",Anastasia,Marshall,17,F,E002,"100 Meter Dash",28
+G032,"Heidi Russo High","Desiree Harmon",Anastasia,Marshall,17,F,E015,"Softball Throw",6200
+G032,"Heidi Russo High","Desiree Harmon",Ann,Atkins,22,F,E006,"30M Motor Wheelchair Sl",34
+G032,"Heidi Russo High","Desiree Harmon",Ann,Atkins,22,F,E015,"Softball Throw",900
+G032,"Heidi Russo High","Desiree Harmon",Aurora,Huff,16,F,E021,Developmental,0
+G032,"Heidi Russo High","Desiree Harmon",Aurora,Huff,16,F,E099,"Olympic Town",0
+G032,"Heidi Russo High","Desiree Harmon",Bo,Mcleod,20,F,E001,"50 Meter Dash",12
+G032,"Heidi Russo High","Desiree Harmon",Bo,Mcleod,20,F,E015,"Softball Throw",3500
+G032,"Heidi Russo High","Desiree Harmon",Doris,French,20,F,E002,"100 Meter Dash",19
+G032,"Heidi Russo High","Desiree Harmon",Doris,French,20,F,E013,"Standing Long Jump",505
+G032,"Heidi Russo High","Desiree Harmon",Ebony,Sherman,19,F,E002,"100 Meter Dash",16
+G032,"Heidi Russo High","Desiree Harmon",Ebony,Sherman,19,F,E015,"Softball Throw",13000
+G032,"Heidi Russo High","Desiree Harmon",Florence,Mcbride,19,F,E003,"200 Meter Dash",55
+G032,"Heidi Russo High","Desiree Harmon",Florence,Mcbride,19,F,E013,"Standing Long Jump",406
+G032,"Heidi Russo High","Desiree Harmon",Hope,Erickson,20,F,E001,"50 Meter Dash",20
+G032,"Heidi Russo High","Desiree Harmon",Hope,Erickson,20,F,E013,"Standing Long Jump",7
+G032,"Heidi Russo High","Desiree Harmon",Ifeoma,Mercado,16,F,E001,"50 Meter Dash",30
+G032,"Heidi Russo High","Desiree Harmon",Ifeoma,Mercado,16,F,E015,"Softball Throw",3000
+G032,"Heidi Russo High","Desiree Harmon",Jade,Reyes,18,F,E007,"100 Meter Walk",54
+G032,"Heidi Russo High","Desiree Harmon",Jade,Reyes,18,F,E015,"Softball Throw",2500
+G032,"Heidi Russo High","Desiree Harmon",Jolie,Boyer,20,F,E004,"400 Meter Dash",131
+G032,"Heidi Russo High","Desiree Harmon",Jolie,Boyer,20,F,E015,"Softball Throw",7000
+G032,"Heidi Russo High","Desiree Harmon",Maggy,Henderson,16,F,E001,"50 Meter Dash",20
+G032,"Heidi Russo High","Desiree Harmon",Maggy,Henderson,16,F,E015,"Softball Throw",5000
+G032,"Heidi Russo High","Desiree Harmon",Mercedes,Mccray,19,F,E001,"50 Meter Dash",14
+G032,"Heidi Russo High","Desiree Harmon",Mercedes,Mccray,19,F,E013,"Standing Long Jump",101
+G032,"Heidi Russo High","Desiree Harmon",Minerva,Herrera,22,F,E002,"100 Meter Dash",17
+G032,"Heidi Russo High","Desiree Harmon",Minerva,Herrera,22,F,E013,"Standing Long Jump",206
+G032,"Heidi Russo High","Desiree Harmon",Quin,Foley,19,F,E007,"100 Meter Walk",139
+G032,"Heidi Russo High","Desiree Harmon",Quin,Foley,19,F,E015,"Softball Throw",2000
+G032,"Heidi Russo High","Desiree Harmon",Raya,Wiley,18,F,E001,"50 Meter Dash",13
+G032,"Heidi Russo High","Desiree Harmon",Raya,Wiley,18,F,E013,"Standing Long Jump",301
+G032,"Heidi Russo High","Desiree Harmon",Savannah,Black,21,F,E002,"100 Meter Dash",31
+G032,"Heidi Russo High","Desiree Harmon",Savannah,Black,21,F,E015,"Softball Throw",6000
+G032,"Heidi Russo High","Desiree Harmon",Venus,Calderon,18,F,E001,"50 Meter Dash",22
+G032,"Heidi Russo High","Desiree Harmon",Venus,Calderon,18,F,E015,"Softball Throw",1500
+G032,"Heidi Russo High","Desiree Harmon",Whitney,Lindsey,20,F,E001,"50 Meter Dash",20
+G032,"Heidi Russo High","Desiree Harmon",Whitney,Lindsey,20,F,E015,"Softball Throw",3000
+G033,"Yael Farley High","Adena Calderon",Alma,Stephenson,17,F,E002,"100 Meter Dash",25
+G033,"Yael Farley High","Adena Calderon",Alma,Stephenson,17,F,E015,"Softball Throw",9800
+G033,"Yael Farley High","Adena Calderon",Avye,Pace,17,F,E002,"100 Meter Dash",15
+G033,"Yael Farley High","Adena Calderon",Avye,Pace,17,F,E015,"Softball Throw",12000
+G033,"Yael Farley High","Adena Calderon",Cassady,Holder,16,F,E002,"100 Meter Dash",15
+G033,"Yael Farley High","Adena Calderon",Cassady,Holder,16,F,E015,"Softball Throw",9000
+G033,"Yael Farley High","Adena Calderon",Dominique,Donovan,17,F,E002,"100 Meter Dash",18
+G033,"Yael Farley High","Adena Calderon",Dominique,Donovan,17,F,E015,"Softball Throw",11700
+G033,"Yael Farley High","Adena Calderon",Evangeline,Bates,17,F,E002,"100 Meter Dash",20
+G033,"Yael Farley High","Adena Calderon",Evangeline,Bates,17,F,E015,"Softball Throw",9500
+G033,"Yael Farley High","Adena Calderon",Kerry,Bradshaw,17,F,E002,"100 Meter Dash",18
+G033,"Yael Farley High","Adena Calderon",Kerry,Bradshaw,17,F,E015,"Softball Throw",11000
+G033,"Yael Farley High","Adena Calderon",Moana,Morin,19,F,E002,"100 Meter Dash",27
+G033,"Yael Farley High","Adena Calderon",Moana,Morin,19,F,E015,"Softball Throw",4100
+G033,"Yael Farley High","Adena Calderon",Priscilla,Williams,20,F,E002,"100 Meter Dash",25
+G033,"Yael Farley High","Adena Calderon",Priscilla,Williams,20,F,E015,"Softball Throw",6800
+G033,"Yael Farley High","Adena Calderon",Stacy,Dejesus,21,F,E002,"100 Meter Dash",22
+G033,"Yael Farley High","Adena Calderon",Stacy,Dejesus,21,F,E015,"Softball Throw",7200
+G033,"Yael Farley High","Adena Calderon",Zelda,Wilson,18,F,E013,"Standing Long Jump",503
+G033,"Yael Farley High","Adena Calderon",Zelda,Wilson,18,F,E015,"Softball Throw",12100
+G034,"Fritz Owen High","Gloria Rowe",Alika,Padilla,18,F,E003,"200 Meter Dash",105
+G034,"Fritz Owen High","Gloria Rowe",Alika,Padilla,18,F,E015,"Softball Throw",3500
+G034,"Fritz Owen High","Gloria Rowe",Brenda,Faulkner,16,F,E002,"100 Meter Dash",32
+G034,"Fritz Owen High","Gloria Rowe",Brenda,Faulkner,16,F,E015,"Softball Throw",2400
+G034,"Fritz Owen High","Gloria Rowe",Halee,Houston,15,F,E002,"100 Meter Dash",52
+G034,"Fritz Owen High","Gloria Rowe",Halee,Houston,15,F,E015,"Softball Throw",2900
+G034,"Fritz Owen High","Gloria Rowe",Hanna,Calhoun,20,F,E002,"100 Meter Dash",22
+G034,"Fritz Owen High","Gloria Rowe",Hanna,Calhoun,20,F,E015,"Softball Throw",2500
+G034,"Fritz Owen High","Gloria Rowe",Kelsey,Tran,16,F,E002,"100 Meter Dash",26
+G034,"Fritz Owen High","Gloria Rowe",Kelsey,Tran,16,F,E015,"Softball Throw",2400
+G034,"Fritz Owen High","Gloria Rowe",Melyssa,Roth,20,F,E003,"200 Meter Dash",42
+G034,"Fritz Owen High","Gloria Rowe",Melyssa,Roth,20,F,E015,"Softball Throw",10000
+G034,"Fritz Owen High","Gloria Rowe",Patience,Hays,20,F,E003,"200 Meter Dash",50
+G034,"Fritz Owen High","Gloria Rowe",Patience,Hays,20,F,E015,"Softball Throw",8400
+G034,"Fritz Owen High","Gloria Rowe",Regina,Hatfield,19,F,E003,"200 Meter Dash",50
+G034,"Fritz Owen High","Gloria Rowe",Regina,Hatfield,19,F,E015,"Softball Throw",9000
+G034,"Fritz Owen High","Phillip Burks",Cullen,Flowers,19,M,E003,"200 Meter Dash",53
+G034,"Fritz Owen High","Phillip Burks",Cullen,Flowers,19,M,E015,"Softball Throw",6000
+G034,"Fritz Owen High","Phillip Burks",Declan,Conway,20,M,E002,"100 Meter Dash",35
+G034,"Fritz Owen High","Phillip Burks",Declan,Conway,20,M,E015,"Softball Throw",3400
+G034,"Fritz Owen High","Phillip Burks",Finn,Silva,17,M,E003,"200 Meter Dash",55
+G034,"Fritz Owen High","Phillip Burks",Finn,Silva,17,M,E015,"Softball Throw",5300
+G034,"Fritz Owen High","Phillip Burks",Fritz,Fuentes,20,M,E003,"200 Meter Dash",46
+G034,"Fritz Owen High","Phillip Burks",Fritz,Fuentes,20,M,E015,"Softball Throw",5200
+G034,"Fritz Owen High","Phillip Burks",Hedley,Mcgowan,17,M,E002,"100 Meter Dash",35
+G034,"Fritz Owen High","Phillip Burks",Hedley,Mcgowan,17,M,E015,"Softball Throw",3500
+G034,"Fritz Owen High","Phillip Burks",Ian,Randolph,18,M,E013,"Standing Long Jump",504
+G034,"Fritz Owen High","Phillip Burks",Ian,Randolph,18,M,E015,"Softball Throw",3900
+G034,"Fritz Owen High","Phillip Burks",Judah,Ingram,22,M,E002,"100 Meter Dash",35
+G034,"Fritz Owen High","Phillip Burks",Judah,Ingram,22,M,E015,"Softball Throw",4000
+G034,"Fritz Owen High","Phillip Burks",Julian,Rowe,17,M,E002,"100 Meter Dash",33
+G034,"Fritz Owen High","Phillip Burks",Julian,Rowe,17,M,E015,"Softball Throw",5800
+G034,"Fritz Owen High","Phillip Burks",Oscar,Vaughan,17,M,E002,"100 Meter Dash",24
+G034,"Fritz Owen High","Phillip Burks",Oscar,Vaughan,17,M,E015,"Softball Throw",3500
+G034,"Fritz Owen High","Phillip Burks",Rashad,Gordon,17,M,E003,"200 Meter Dash",57
+G034,"Fritz Owen High","Phillip Burks",Rashad,Gordon,17,M,E015,"Softball Throw",3500
+G034,"Fritz Owen High","Phillip Burks",Seth,Shepherd,20,M,E002,"100 Meter Dash",33
+G034,"Fritz Owen High","Phillip Burks",Seth,Shepherd,20,M,E015,"Softball Throw",5100
+G034,"Fritz Owen High","Phillip Burks",Vaughan,Monroe,17,M,E002,"100 Meter Dash",38
+G034,"Fritz Owen High","Phillip Burks",Vaughan,Monroe,17,M,E015,"Softball Throw",3400
+G034,"Fritz Owen High","Tucker Case",Amity,Moreno,19,F,E004,"400 Meter Dash",124
+G034,"Fritz Owen High","Tucker Case",Amity,Moreno,19,F,E015,"Softball Throw",6400
+G034,"Fritz Owen High","Tucker Case",Bree,Campos,18,F,E001,"50 Meter Dash",12
+G034,"Fritz Owen High","Tucker Case",Bree,Campos,18,F,E015,"Softball Throw",5000
+G034,"Fritz Owen High","Tucker Case",Carissa,Dejesus,20,F,E013,"Standing Long Jump",300
+G034,"Fritz Owen High","Tucker Case",Carissa,Dejesus,20,F,E015,"Softball Throw",2000
+G034,"Fritz Owen High","Tucker Case",Caryn,Whitehead,22,F,E001,"50 Meter Dash",26
+G034,"Fritz Owen High","Tucker Case",Caryn,Whitehead,22,F,E015,"Softball Throw",2100
+G034,"Fritz Owen High","Tucker Case",Keiko,Joyce,21,F,E001,"50 Meter Dash",12
+G034,"Fritz Owen High","Tucker Case",Keiko,Joyce,21,F,E015,"Softball Throw",4000
+G034,"Fritz Owen High","Tucker Case",September,Rodgers,20,F,E001,"50 Meter Dash",12
+G034,"Fritz Owen High","Tucker Case",September,Rodgers,20,F,E013,"Standing Long Jump",400
+G035,"Jesse Crosby High","Amber Bass",Abbot,Mcguire,20,M,E001,"50 Meter Dash",35
+G035,"Jesse Crosby High","Amber Bass",Abbot,Mcguire,20,M,E015,"Softball Throw",900
+G035,"Jesse Crosby High","Amber Bass",Abel,Lang,18,M,E001,"50 Meter Dash",19
+G035,"Jesse Crosby High","Amber Bass",Abel,Lang,18,M,E015,"Softball Throw",2600
+G035,"Jesse Crosby High","Amber Bass",Clayton,Colon,19,M,E001,"50 Meter Dash",19
+G035,"Jesse Crosby High","Amber Bass",Clayton,Colon,19,M,E013,"Standing Long Jump",2200
+G035,"Jesse Crosby High","Amber Bass",Davis,Mcleod,22,M,E001,"50 Meter Dash",18
+G035,"Jesse Crosby High","Amber Bass",Davis,Mcleod,22,M,E015,"Softball Throw",2600
+G035,"Jesse Crosby High","Amber Bass",Drake,Hopkins,20,M,E001,"50 Meter Dash",27
+G035,"Jesse Crosby High","Amber Bass",Drake,Hopkins,20,M,E015,"Softball Throw",2600
+G035,"Jesse Crosby High","Amber Bass",Harrison,Wilkerson,18,M,E001,"50 Meter Dash",15
+G035,"Jesse Crosby High","Amber Bass",Harrison,Wilkerson,18,M,E015,"Softball Throw",3400
+G035,"Jesse Crosby High","Amber Bass",Julian,Alston,17,M,E007,"100 Meter Walk",100
+G035,"Jesse Crosby High","Amber Bass",Julian,Alston,17,M,E015,"Softball Throw",2200
+G035,"Jesse Crosby High","Amber Bass",Kelly,Ortiz,20,M,E001,"50 Meter Dash",26
+G035,"Jesse Crosby High","Amber Bass",Kelly,Ortiz,20,M,E015,"Softball Throw",2200
+G035,"Jesse Crosby High","Amber Bass",Kibo,Wilder,20,M,E013,"Standing Long Jump",400
+G035,"Jesse Crosby High","Amber Bass",Kibo,Wilder,20,M,E015,"Softball Throw",3600
+G035,"Jesse Crosby High","Amber Bass",Macon,Raymond,17,M,E002,"100 Meter Dash",17
+G035,"Jesse Crosby High","Amber Bass",Macon,Raymond,17,M,E015,"Softball Throw",4200
+G035,"Jesse Crosby High","Amber Bass",Melvin,Young,18,M,E001,"50 Meter Dash",19
+G035,"Jesse Crosby High","Amber Bass",Melvin,Young,18,M,E015,"Softball Throw",2200
+G035,"Jesse Crosby High","Amber Bass",Moses,Hernandez,19,M,E001,"50 Meter Dash",22
+G035,"Jesse Crosby High","Amber Bass",Moses,Hernandez,19,M,E015,"Softball Throw",3200
+G035,"Jesse Crosby High","Amber Bass",Odysseus,Cobb,15,M,E001,"50 Meter Dash",18
+G035,"Jesse Crosby High","Amber Bass",Odysseus,Cobb,15,M,E013,"Standing Long Jump",100
+G035,"Jesse Crosby High","Amber Bass",Paki,Russell,19,M,E001,"50 Meter Dash",18
+G035,"Jesse Crosby High","Amber Bass",Paki,Russell,19,M,E015,"Softball Throw",1900
+G035,"Jesse Crosby High","Amber Bass",Quinlan,Sears,19,M,E001,"50 Meter Dash",16
+G035,"Jesse Crosby High","Amber Bass",Quinlan,Sears,19,M,E015,"Softball Throw",6400
+G035,"Jesse Crosby High","Amber Bass",Steel,Wiggins,17,M,E001,"50 Meter Dash",20
+G035,"Jesse Crosby High","Amber Bass",Steel,Wiggins,17,M,E015,"Softball Throw",2900
+G035,"Jesse Crosby High","Amber Bass",Steven,Dunlap,21,M,E001,"50 Meter Dash",20
+G035,"Jesse Crosby High","Amber Bass",Steven,Dunlap,21,M,E015,"Softball Throw",1300
+G036,"Sloane Higgins High","Nissim Barrera",Anastasia,Ryan,16,F,E004,"400 Meter Dash",45
+G036,"Sloane Higgins High","Nissim Barrera",Anastasia,Ryan,16,F,E011,"Run Long Jump",400
+G036,"Sloane Higgins High","Nissim Barrera",Desirae,Pearson,19,F,E007,"100 Meter Walk",25
+G036,"Sloane Higgins High","Nissim Barrera",Desirae,Pearson,19,F,E015,"Softball Throw",9000
+G036,"Sloane Higgins High","Nissim Barrera",Joelle,Shepherd,20,F,E007,"100 Meter Walk",33
+G036,"Sloane Higgins High","Nissim Barrera",Joelle,Shepherd,20,F,E015,"Softball Throw",4500
+G036,"Sloane Higgins High","Nissim Barrera",Katell,Baldwin,19,F,E001,"50 Meter Dash",15
+G036,"Sloane Higgins High","Nissim Barrera",Katell,Baldwin,19,F,E011,"Run Long Jump",300
+G036,"Sloane Higgins High","Nissim Barrera",Ora,Charles,18,F,E001,"50 Meter Dash",12
+G036,"Sloane Higgins High","Nissim Barrera",Ora,Charles,18,F,E015,"Softball Throw",2000
+G037,"Daquan Hopper High","Jelani Hammond",Aaron,Burnett,51,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Aaron,Burnett,51,M,E015,"Softball Throw",110
+G037,"Daquan Hopper High","Jelani Hammond",Abdul,Clayton,26,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Abdul,Clayton,26,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Adrian,George,60,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Adrian,George,60,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Aidan,Huff,53,M,E013,"Standing Long Jump",300
+G037,"Daquan Hopper High","Jelani Hammond",Aidan,Huff,53,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Alden,Huffman,50,M,E007,"100 Meter Walk",345
+G037,"Daquan Hopper High","Jelani Hammond",Alden,Huffman,50,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Alfonso,Fuller,43,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Alfonso,Fuller,43,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Amal,Rivera,50,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Amal,Rivera,50,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Beau,Banks,56,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Beau,Banks,56,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Bevis,Curry,34,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Bevis,Curry,34,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Bevis,Lambert,48,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Bevis,Lambert,48,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Blaze,Baxter,46,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Blaze,Baxter,46,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Brady,French,33,M,E015,"Softball Throw",3000
+G037,"Daquan Hopper High","Jelani Hammond",Brady,French,33,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Bruce,Giles,47,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Bruce,Giles,47,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Bruce,Kennedy,34,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Bruce,Kennedy,34,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Caldwell,Sears,37,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Caldwell,Sears,37,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Caleb,Nolan,45,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Caleb,Nolan,45,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Camden,Terrell,54,M,E007,"100 Meter Walk",400
+G037,"Daquan Hopper High","Jelani Hammond",Camden,Terrell,54,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Carl,Small,46,M,E013,"Standing Long Jump",300
+G037,"Daquan Hopper High","Jelani Hammond",Carl,Small,46,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Carter,Cannon,51,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Carter,Cannon,51,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Carter,Maldonado,68,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Carter,Maldonado,68,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Christian,Waller,40,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Christian,Waller,40,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Clinton,Camacho,46,M,E011,"Run Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Clinton,Camacho,46,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Clinton,Hudson,51,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Clinton,Hudson,51,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Colby,Mckinney,52,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Colby,Mckinney,52,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Cruz,Day,42,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Cruz,Day,42,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Damian,Santana,47,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Damian,Santana,47,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Dane,Garrison,53,M,E002,"100 Meter Dash",200
+G037,"Daquan Hopper High","Jelani Hammond",Dane,Garrison,53,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Dante,Perkins,30,M,E013,"Standing Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Dante,Perkins,30,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",David,Cook,34,M,E014,"Shot Put",100
+G037,"Daquan Hopper High","Jelani Hammond",David,Cook,34,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Deacon,Cameron,60,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Deacon,Cameron,60,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Denton,Stephens,77,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Denton,Stephens,77,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Devin,Herrera,54,M,E011,"Run Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Devin,Herrera,54,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Dillon,Aguirre,39,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Dillon,Aguirre,39,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Dolan,Neal,43,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Dolan,Neal,43,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Drake,Travis,53,M,E014,"Shot Put",200
+G037,"Daquan Hopper High","Jelani Hammond",Drake,Travis,53,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Driscoll,Myers,31,M,E019,"10M Assisted Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Driscoll,Myers,31,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Dustin,Matthews,36,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Dustin,Matthews,36,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Eagan,Ewing,58,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Eagan,Ewing,58,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Eagan,Hayes,65,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Eagan,Hayes,65,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Eaton,Church,56,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Eaton,Church,56,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Eaton,Gallagher,70,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Eaton,Gallagher,70,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Elton,Terry,61,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Elton,Terry,61,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Erich,Browning,49,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Erich,Browning,49,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Ezra,Tyler,47,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Ezra,Tyler,47,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Felix,Sloan,57,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Felix,Sloan,57,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Fitzgerald,Stevens,53,M,E007,"100 Meter Walk",400
+G037,"Daquan Hopper High","Jelani Hammond",Fitzgerald,Stevens,53,M,E015,"Softball Throw",2000
+G037,"Daquan Hopper High","Jelani Hammond",Flynn,Joseph,63,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Flynn,Joseph,63,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Francis,Ayala,36,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Francis,Ayala,36,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Gannon,Simmons,30,M,E001,"50 Meter Dash",200
+G037,"Daquan Hopper High","Jelani Hammond",Gannon,Simmons,30,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Garrison,Nunez,61,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Garrison,Nunez,61,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Gavin,Ochoa,54,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Gavin,Ochoa,54,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Griffith,Chase,39,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Griffith,Chase,39,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Harrison,Head,49,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Harrison,Head,49,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Harrison,Joseph,52,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Harrison,Joseph,52,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Hashim,Sargent,54,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Hashim,Sargent,54,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Herrod,Thomas,57,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Herrod,Thomas,57,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Hilel,Mack,63,M,E007,"100 Meter Walk",400
+G037,"Daquan Hopper High","Jelani Hammond",Hilel,Mack,63,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Ignatius,Boyd,34,M,E013,"Standing Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Ignatius,Boyd,34,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Iris,Francis,24,F,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Iris,Francis,24,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Isaac,Cooke,48,M,E011,"Run Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Isaac,Cooke,48,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Jackson,Morin,65,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Jackson,Morin,65,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Jacob,Owen,44,M,E014,"Shot Put",300
+G037,"Daquan Hopper High","Jelani Hammond",Jacob,Owen,44,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Jameson,Phelps,45,M,E001,"50 Meter Dash",300
+G037,"Daquan Hopper High","Jelani Hammond",Jameson,Phelps,45,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Jeremy,Bright,67,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Jeremy,Bright,67,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Jin,Rivera,57,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Jin,Rivera,57,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Jonas,Dillard,58,M,E001,"50 Meter Dash",200
+G037,"Daquan Hopper High","Jelani Hammond",Jonas,Dillard,58,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Joshua,Mathis,50,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Joshua,Mathis,50,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Joshua,Sanchez,42,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Joshua,Sanchez,42,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Josiah,Melendez,40,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Josiah,Melendez,40,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Kennan,Lang,29,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Kennan,Lang,29,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Kevin,Bryan,42,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Kevin,Bryan,42,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Kevin,Marks,50,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Kevin,Marks,50,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Laura,Boyer,44,F,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Laura,Boyer,44,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Louis,Payne,69,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Louis,Payne,69,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Lucius,Luna,28,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Lucius,Luna,28,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Macon,Osborne,32,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Macon,Osborne,32,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Malcolm,Wynn,43,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Malcolm,Wynn,43,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Malik,Fields,72,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Malik,Fields,72,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Mufutau,Norman,36,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Mufutau,Norman,36,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Mufutau,Yang,45,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Mufutau,Yang,45,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Nigel,Joyner,67,M,E011,"Run Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Nigel,Joyner,67,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Noel,Nunez,21,F,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Noel,Nunez,21,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Otto,Merritt,51,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Otto,Merritt,51,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Paul,Puckett,59,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Paul,Puckett,59,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Peter,Erickson,36,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Peter,Erickson,36,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Philip,Guzman,69,M,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Philip,Guzman,69,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Phillip,Bowers,54,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Phillip,Bowers,54,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Phillip,Perez,45,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Phillip,Perez,45,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Quinlan,Ewing,37,M,E002,"100 Meter Dash",100
+G037,"Daquan Hopper High","Jelani Hammond",Quinlan,Ewing,37,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Quinn,Mercer,46,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Quinn,Mercer,46,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Quinn,Mosley,28,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Quinn,Mosley,28,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Rahim,Lindsey,59,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Rahim,Lindsey,59,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Rajah,Clay,24,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Rajah,Clay,24,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Raphael,Bowers,28,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Raphael,Bowers,28,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Rashad,Hanson,54,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Rashad,Reilly,62,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Rashad,Reilly,62,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Ray,Velazquez,52,M,E014,"Shot Put",200
+G037,"Daquan Hopper High","Jelani Hammond",Ray,Velazquez,52,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Richard,Gordon,60,M,E002,"100 Meter Dash",300
+G037,"Daquan Hopper High","Jelani Hammond",Richard,Gordon,60,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Robert,Rocha,25,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Roth,Greer,31,M,E007,"100 Meter Walk",300
+G037,"Daquan Hopper High","Jelani Hammond",Roth,Greer,31,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Ryan,Booth,47,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Ryan,Booth,47,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Scott,Callahan,43,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Scott,Callahan,43,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Scott,Mcconnell,47,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Scott,Mcconnell,47,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Sheila,Mccray,25,F,E007,"100 Meter Walk",200
+G037,"Daquan Hopper High","Jelani Hammond",Sheila,Mccray,25,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Talon,Lawson,60,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Talon,Lawson,60,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Tanner,Bowman,49,M,E017,"25 M Wheelchair",500
+G037,"Daquan Hopper High","Jelani Hammond",Tanner,Bowman,49,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Tatum,Green,60,F,E013,"Standing Long Jump",100
+G037,"Daquan Hopper High","Jelani Hammond",Tatum,Green,60,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Timon,Higgins,45,M,E015,"Softball Throw",500
+G037,"Daquan Hopper High","Jelani Hammond",Timon,Higgins,45,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Tobias,Pollard,32,M,E001,"50 Meter Dash",200
+G037,"Daquan Hopper High","Jelani Hammond",Tobias,Pollard,32,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Trevor,Sullivan,62,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Trevor,Sullivan,62,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Tyler,Bentley,37,M,E002,"100 Meter Dash",300
+G037,"Daquan Hopper High","Jelani Hammond",Tyler,Bentley,37,M,E013,"Standing Long Jump",300
+G037,"Daquan Hopper High","Jelani Hammond",Upton,Ellis,67,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Upton,Ellis,67,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Urielle,Osborne,23,F,E018,"Wheelchair Shot Put",300
+G037,"Daquan Hopper High","Jelani Hammond",Urielle,Osborne,23,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Valentine,Gamble,55,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Valentine,Gamble,55,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Victor,Strong,71,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Victor,Strong,71,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Vladimir,Woodward,64,M,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Vladimir,Woodward,64,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Wayne,Davis,63,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Wayne,Davis,63,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Whitney,Chan,44,F,E021,Developmental,0
+G037,"Daquan Hopper High","Jelani Hammond",Whitney,Chan,44,F,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",William,Whitfield,62,M,E007,"100 Meter Walk",30
+G037,"Daquan Hopper High","Jelani Hammond",William,Whitfield,62,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Winifred,Shepard,51,F,E003,"200 Meter Dash",300
+G037,"Daquan Hopper High","Jelani Hammond",Winifred,Shepard,51,F,E014,"Shot Put",200
+G037,"Daquan Hopper High","Jelani Hammond",Yuli,Gardner,47,M,E014,"Shot Put",300
+G037,"Daquan Hopper High","Jelani Hammond",Yuli,Gardner,47,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Yuli,Young,51,M,E015,"Softball Throw",100
+G037,"Daquan Hopper High","Jelani Hammond",Yuli,Young,51,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Zane,Buck,66,M,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Zane,Buck,66,M,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Zenia,Juarez,44,F,E013,"Standing Long Jump",200
+G037,"Daquan Hopper High","Jelani Hammond",Zenia,Juarez,44,F,E015,"Softball Throw",300
+G037,"Daquan Hopper High","Jelani Hammond",Zephania,Mcfarland,23,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Zephania,Mcfarland,23,M,E099,"Olympic Town",0
+G037,"Daquan Hopper High","Jelani Hammond",Zephania,Ramos,35,M,E015,"Softball Throw",200
+G037,"Daquan Hopper High","Jelani Hammond",Zephania,Ramos,35,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Abbot,Douglas,59,M,E007,"100 Meter Walk",0
+G038,"Zia Hinton High","Cain Chen",Abbot,Douglas,59,M,E015,"Softball Throw",3500
+G038,"Zia Hinton High","Cain Chen",Abraham,Mathis,50,M,E007,"100 Meter Walk",40
+G038,"Zia Hinton High","Cain Chen",Abraham,Mathis,50,M,E015,"Softball Throw",2500
+G038,"Zia Hinton High","Cain Chen",Alan,Russo,55,M,E007,"100 Meter Walk",100
+G038,"Zia Hinton High","Cain Chen",Alan,Russo,55,M,E015,"Softball Throw",1600
+G038,"Zia Hinton High","Cain Chen",Anthony,Bruce,26,M,E001,"50 Meter Dash",16
+G038,"Zia Hinton High","Cain Chen",Anthony,Bruce,26,M,E015,"Softball Throw",800
+G038,"Zia Hinton High","Cain Chen",Asher,Monroe,27,M,E007,"100 Meter Walk",45
+G038,"Zia Hinton High","Cain Chen",Asher,Monroe,27,M,E014,"Shot Put",2500
+G038,"Zia Hinton High","Cain Chen",Avram,Decker,53,M,E015,"Softball Throw",200
+G038,"Zia Hinton High","Cain Chen",Avram,Decker,53,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Barrett,Cotton,42,M,E015,"Softball Throw",100
+G038,"Zia Hinton High","Cain Chen",Barrett,Cotton,42,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Barrett,Kline,52,M,E015,"Softball Throw",400
+G038,"Zia Hinton High","Cain Chen",Barrett,Kline,52,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Berk,Cameron,32,M,E007,"100 Meter Walk",53
+G038,"Zia Hinton High","Cain Chen",Berk,Cameron,32,M,E015,"Softball Throw",3700
+G038,"Zia Hinton High","Cain Chen",Brett,Frederick,57,M,E007,"100 Meter Walk",100
+G038,"Zia Hinton High","Cain Chen",Brett,Frederick,57,M,E015,"Softball Throw",1600
+G038,"Zia Hinton High","Cain Chen",Brian,Hutchinson,31,M,E007,"100 Meter Walk",35
+G038,"Zia Hinton High","Cain Chen",Brian,Hutchinson,31,M,E015,"Softball Throw",6000
+G038,"Zia Hinton High","Cain Chen",Castor,Castillo,62,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Christopher,Shaw,35,M,E015,"Softball Throw",2500
+G038,"Zia Hinton High","Cain Chen",Christopher,Shaw,35,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Clayton,Mccoy,33,M,E013,"Standing Long Jump",300
+G038,"Zia Hinton High","Cain Chen",Clayton,Mccoy,33,M,E015,"Softball Throw",800
+G038,"Zia Hinton High","Cain Chen",Cole,Lindsey,49,M,E015,"Softball Throw",200
+G038,"Zia Hinton High","Cain Chen",Cole,Lindsey,49,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Conan,Harrell,35,M,E015,"Softball Throw",300
+G038,"Zia Hinton High","Cain Chen",Conan,Harrell,35,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Connor,Whitehead,49,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Drew,French,30,M,E015,"Softball Throw",500
+G038,"Zia Hinton High","Cain Chen",Drew,French,30,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Emerson,Jefferson,28,M,E007,"100 Meter Walk",36
+G038,"Zia Hinton High","Cain Chen",Emerson,Jefferson,28,M,E015,"Softball Throw",2300
+G038,"Zia Hinton High","Cain Chen",Erich,Guy,49,M,E007,"100 Meter Walk",43
+G038,"Zia Hinton High","Cain Chen",Erich,Guy,49,M,E015,"Softball Throw",1300
+G038,"Zia Hinton High","Cain Chen",Evan,Maxwell,46,M,E015,"Softball Throw",500
+G038,"Zia Hinton High","Cain Chen",Evan,Maxwell,46,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Flynn,Wynn,40,M,E001,"50 Meter Dash",35
+G038,"Zia Hinton High","Cain Chen",Flynn,Wynn,40,M,E015,"Softball Throw",3200
+G038,"Zia Hinton High","Cain Chen",Fulton,Harvey,39,M,E013,"Standing Long Jump",200
+G038,"Zia Hinton High","Cain Chen",Fulton,Harvey,39,M,E015,"Softball Throw",300
+G038,"Zia Hinton High","Cain Chen",Garrison,Bass,23,M,E021,Developmental,0
+G038,"Zia Hinton High","Cain Chen",Garrison,Bass,23,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",George,Dudley,62,M,E015,"Softball Throw",200
+G038,"Zia Hinton High","Cain Chen",George,Dudley,62,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Grant,Doyle,35,M,E007,"100 Meter Walk",200
+G038,"Zia Hinton High","Cain Chen",Grant,Doyle,35,M,E015,"Softball Throw",5500
+G038,"Zia Hinton High","Cain Chen",Gray,Abbott,28,M,E007,"100 Meter Walk",30
+G038,"Zia Hinton High","Cain Chen",Gray,Abbott,28,M,E015,"Softball Throw",1000
+G038,"Zia Hinton High","Cain Chen",Gray,Mason,21,M,E007,"100 Meter Walk",100
+G038,"Zia Hinton High","Cain Chen",Gray,Mason,21,M,E015,"Softball Throw",1600
+G038,"Zia Hinton High","Cain Chen",Griffin,Wynn,64,M,E006,"30M Motor Wheelchair Sl",100
+G038,"Zia Hinton High","Cain Chen",Griffin,Wynn,64,M,E015,"Softball Throw",200
+G038,"Zia Hinton High","Cain Chen",Hall,Mcgowan,77,M,E015,"Softball Throw",1100
+G038,"Zia Hinton High","Cain Chen",Hall,Mcgowan,77,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Hamish,Holloway,42,M,E015,"Softball Throw",1000
+G038,"Zia Hinton High","Cain Chen",Hamish,Holloway,42,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Hamish,Hubbard,68,M,E015,"Softball Throw",900
+G038,"Zia Hinton High","Cain Chen",Hamish,Hubbard,68,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Hector,Parks,27,M,E007,"100 Meter Walk",0
+G038,"Zia Hinton High","Cain Chen",Hector,Parks,27,M,E015,"Softball Throw",600
+G038,"Zia Hinton High","Cain Chen",Henry,Wilson,31,M,E007,"100 Meter Walk",203
+G038,"Zia Hinton High","Cain Chen",Henry,Wilson,31,M,E015,"Softball Throw",900
+G038,"Zia Hinton High","Cain Chen",Hiram,Bentley,55,M,E001,"50 Meter Dash",36
+G038,"Zia Hinton High","Cain Chen",Hiram,Bentley,55,M,E015,"Softball Throw",1200
+G038,"Zia Hinton High","Cain Chen",Holmes,Jackson,60,M,E015,"Softball Throw",200
+G038,"Zia Hinton High","Cain Chen",Holmes,Jackson,60,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Ira,Jacobson,43,M,E007,"100 Meter Walk",100
+G038,"Zia Hinton High","Cain Chen",Ira,Jacobson,43,M,E015,"Softball Throw",1000
+G038,"Zia Hinton High","Cain Chen",Jamal,Haley,25,M,E015,"Softball Throw",100
+G038,"Zia Hinton High","Cain Chen",Jamal,Haley,25,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",James,Daniels,57,M,E015,"Softball Throw",1000
+G038,"Zia Hinton High","Cain Chen",James,Daniels,57,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Jared,Cabrera,34,M,E007,"100 Meter Walk",21
+G038,"Zia Hinton High","Cain Chen",Jared,Cabrera,34,M,E015,"Softball Throw",2500
+G038,"Zia Hinton High","Cain Chen",Jeremy,Miller,38,M,E015,"Softball Throw",600
+G038,"Zia Hinton High","Cain Chen",Jeremy,Miller,38,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Kasimir,Preston,32,M,E007,"100 Meter Walk",25
+G038,"Zia Hinton High","Cain Chen",Kasimir,Preston,32,M,E015,"Softball Throw",2300
+G038,"Zia Hinton High","Cain Chen",Kato,Massey,26,M,E007,"100 Meter Walk",25
+G038,"Zia Hinton High","Cain Chen",Kato,Massey,26,M,E015,"Softball Throw",500
+G038,"Zia Hinton High","Cain Chen",Keaton,Cooper,36,M,E007,"100 Meter Walk",207
+G038,"Zia Hinton High","Cain Chen",Keaton,Cooper,36,M,E015,"Softball Throw",1900
+G038,"Zia Hinton High","Cain Chen",Keith,Lowery,31,M,E015,"Softball Throw",500
+G038,"Zia Hinton High","Cain Chen",Keith,Lowery,31,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Kibo,Combs,51,M,E015,"Softball Throw",600
+G038,"Zia Hinton High","Cain Chen",Kibo,Combs,51,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Laith,Montgomery,66,M,E015,"Softball Throw",500
+G038,"Zia Hinton High","Cain Chen",Laith,Montgomery,66,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Leo,Roy,51,M,E015,"Softball Throw",1000
+G038,"Zia Hinton High","Cain Chen",Leo,Roy,51,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Linus,Mckay,52,M,E001,"50 Meter Dash",0
+G038,"Zia Hinton High","Cain Chen",Linus,Mckay,52,M,E015,"Softball Throw",2600
+G038,"Zia Hinton High","Cain Chen",Lucian,Morris,31,M,E007,"100 Meter Walk",51
+G038,"Zia Hinton High","Cain Chen",Lucian,Morris,31,M,E015,"Softball Throw",1300
+G038,"Zia Hinton High","Cain Chen",Malachi,Odom,28,M,E015,"Softball Throw",600
+G038,"Zia Hinton High","Cain Chen",Malachi,Odom,28,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Murphy,Woodard,35,M,E006,"30M Motor Wheelchair Sl",12
+G038,"Zia Hinton High","Cain Chen",Murphy,Woodard,35,M,E015,"Softball Throw",400
+G038,"Zia Hinton High","Cain Chen",Neil,Martin,53,M,E001,"50 Meter Dash",0
+G038,"Zia Hinton High","Cain Chen",Neil,Martin,53,M,E015,"Softball Throw",1800
+G038,"Zia Hinton High","Cain Chen",Oren,Combs,41,M,E015,"Softball Throw",1000
+G038,"Zia Hinton High","Cain Chen",Oren,Combs,41,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Owen,Hendricks,47,M,E015,"Softball Throw",2200
+G038,"Zia Hinton High","Cain Chen",Owen,Hendricks,47,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Porter,Ball,24,M,E015,"Softball Throw",700
+G038,"Zia Hinton High","Cain Chen",Porter,Ball,24,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Prescott,Wilder,36,M,E007,"100 Meter Walk",35
+G038,"Zia Hinton High","Cain Chen",Prescott,Wilder,36,M,E015,"Softball Throw",400
+G038,"Zia Hinton High","Cain Chen",Quinlan,Hill,31,M,E015,"Softball Throw",600
+G038,"Zia Hinton High","Cain Chen",Quinlan,Hill,31,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Quinlan,Maxwell,58,M,E015,"Softball Throw",400
+G038,"Zia Hinton High","Cain Chen",Quinlan,Maxwell,58,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Rashad,Sellers,61,M,E015,"Softball Throw",2600
+G038,"Zia Hinton High","Cain Chen",Rashad,Sellers,61,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Samson,Bartlett,42,M,E007,"100 Meter Walk",204
+G038,"Zia Hinton High","Cain Chen",Samson,Bartlett,42,M,E015,"Softball Throw",1500
+G038,"Zia Hinton High","Cain Chen",Sylvester,Salazar,64,M,E015,"Softball Throw",700
+G038,"Zia Hinton High","Cain Chen",Sylvester,Salazar,64,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Thor,Ellison,37,M,E007,"100 Meter Walk",32
+G038,"Zia Hinton High","Cain Chen",Thor,Ellison,37,M,E015,"Softball Throw",1700
+G038,"Zia Hinton High","Cain Chen",Timothy,Rogers,40,M,E007,"100 Meter Walk",32
+G038,"Zia Hinton High","Cain Chen",Timothy,Rogers,40,M,E015,"Softball Throw",1300
+G038,"Zia Hinton High","Cain Chen",Uriah,Dixon,40,M,E015,"Softball Throw",5500
+G038,"Zia Hinton High","Cain Chen",Uriah,Dixon,40,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Victor,Terry,49,M,E007,"100 Meter Walk",300
+G038,"Zia Hinton High","Cain Chen",Victor,Terry,49,M,E015,"Softball Throw",4700
+G038,"Zia Hinton High","Cain Chen",Vladimir,Santos,69,M,E099,"Olympic Town",0
+G038,"Zia Hinton High","Cain Chen",Walter,Pitts,31,M,E001,"50 Meter Dash",0
+G038,"Zia Hinton High","Cain Chen",Walter,Pitts,31,M,E015,"Softball Throw",700
+G038,"Zia Hinton High","Cain Chen",Warren,Joyce,31,M,E015,"Softball Throw",500
+G038,"Zia Hinton High","Cain Chen",Warren,Joyce,31,M,E019,"10M Assisted Walk",39
+G038,"Zia Hinton High","Cain Chen",Zane,Osborn,24,M,E007,"100 Meter Walk",0
+G038,"Zia Hinton High","Cain Chen",Zane,Osborn,24,M,E015,"Softball Throw",700
+G039,"Callie Francis High","Jason Jenkins",Alvin,Oneil,39,M,E001,"50 Meter Dash",48
+G039,"Callie Francis High","Jason Jenkins",Alvin,Oneil,39,M,E015,"Softball Throw",1601
+G039,"Callie Francis High","Jason Jenkins",Armand,Wolf,46,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Arsenio,Shannon,79,M,E015,"Softball Throw",405
+G039,"Callie Francis High","Jason Jenkins",Arsenio,Shannon,79,M,E017,"25 M Wheelchair",0
+G039,"Callie Francis High","Jason Jenkins",Benedict,Hendrix,46,M,E015,"Softball Throw",200
+G039,"Callie Francis High","Jason Jenkins",Benedict,Hendrix,46,M,E020,"25M Walk",0
+G039,"Callie Francis High","Jason Jenkins",Benjamin,Ayers,35,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Byron,Talley,62,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Caesar,Mathis,72,M,E015,"Softball Throw",502
+G039,"Callie Francis High","Jason Jenkins",Caesar,Mathis,72,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Cameron,Pace,54,M,E007,"100 Meter Walk",42
+G039,"Callie Francis High","Jason Jenkins",Cameron,Pace,54,M,E015,"Softball Throw",1208
+G039,"Callie Francis High","Jason Jenkins",Chadwick,Vargas,85,M,E015,"Softball Throw",3500
+G039,"Callie Francis High","Jason Jenkins",Chadwick,Vargas,85,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Chase,Anthony,47,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Chester,Morrison,54,M,E007,"100 Meter Walk",40
+G039,"Callie Francis High","Jason Jenkins",Chester,Morrison,54,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Clayton,Roy,58,M,E015,"Softball Throw",503
+G039,"Callie Francis High","Jason Jenkins",Clayton,Roy,58,M,E019,"10M Assisted Walk",230
+G039,"Callie Francis High","Jason Jenkins",Connor,Duncan,35,M,E001,"50 Meter Dash",20
+G039,"Callie Francis High","Jason Jenkins",Connor,Duncan,35,M,E015,"Softball Throw",401
+G039,"Callie Francis High","Jason Jenkins",Craig,Richard,52,M,E015,"Softball Throw",1702
+G039,"Callie Francis High","Jason Jenkins",Craig,Richard,52,M,E017,"25 M Wheelchair",19
+G039,"Callie Francis High","Jason Jenkins",Dane,Blake,45,M,E019,"10M Assisted Walk",58
+G039,"Callie Francis High","Jason Jenkins",Dane,Blake,45,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",David,Bentley,37,M,E007,"100 Meter Walk",104
+G039,"Callie Francis High","Jason Jenkins",David,Bentley,37,M,E015,"Softball Throw",1100
+G039,"Callie Francis High","Jason Jenkins",Demetrius,Dennis,50,M,E015,"Softball Throw",1003
+G039,"Callie Francis High","Jason Jenkins",Demetrius,Dennis,50,M,E017,"25 M Wheelchair",14
+G039,"Callie Francis High","Jason Jenkins",Denton,Casey,28,M,E007,"100 Meter Walk",23
+G039,"Callie Francis High","Jason Jenkins",Denton,Casey,28,M,E015,"Softball Throw",1300
+G039,"Callie Francis High","Jason Jenkins",Dieter,West,49,M,E001,"50 Meter Dash",105
+G039,"Callie Francis High","Jason Jenkins",Dieter,West,49,M,E015,"Softball Throw",4000
+G039,"Callie Francis High","Jason Jenkins",Donovan,Hodges,24,M,E015,"Softball Throw",300
+G039,"Callie Francis High","Jason Jenkins",Donovan,Hodges,24,M,E019,"10M Assisted Walk",0
+G039,"Callie Francis High","Jason Jenkins",Dorian,Bender,56,M,E002,"100 Meter Dash",0
+G039,"Callie Francis High","Jason Jenkins",Dorian,Bender,56,M,E013,"Standing Long Jump",202
+G039,"Callie Francis High","Jason Jenkins",Edward,Oneill,28,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Erich,Bradford,56,M,E007,"100 Meter Walk",58
+G039,"Callie Francis High","Jason Jenkins",Erich,Bradford,56,M,E015,"Softball Throw",1400
+G039,"Callie Francis High","Jason Jenkins",Gage,Irwin,68,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Gareth,Witt,65,M,E015,"Softball Throw",402
+G039,"Callie Francis High","Jason Jenkins",Gareth,Witt,65,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Hammett,Joyce,24,M,E021,Developmental,0
+G039,"Callie Francis High","Jason Jenkins",Hammett,Joyce,24,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Hoyt,Dickerson,62,M,E015,"Softball Throw",502
+G039,"Callie Francis High","Jason Jenkins",Hoyt,Dickerson,62,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Isaiah,Shaw,30,M,E015,"Softball Throw",302
+G039,"Callie Francis High","Jason Jenkins",Isaiah,Shaw,30,M,E019,"10M Assisted Walk",225
+G039,"Callie Francis High","Jason Jenkins",Jack,Sherman,26,M,E007,"100 Meter Walk",44
+G039,"Callie Francis High","Jason Jenkins",Jack,Sherman,26,M,E015,"Softball Throw",408
+G039,"Callie Francis High","Jason Jenkins",Jerry,Norman,76,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Jin,Mckinney,56,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Jonas,Holman,47,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Knox,Byers,47,M,E001,"50 Meter Dash",27
+G039,"Callie Francis High","Jason Jenkins",Knox,Byers,47,M,E015,"Softball Throw",700
+G039,"Callie Francis High","Jason Jenkins",Knox,Collins,36,M,E007,"100 Meter Walk",425
+G039,"Callie Francis High","Jason Jenkins",Knox,Collins,36,M,E015,"Softball Throw",411
+G039,"Callie Francis High","Jason Jenkins",Kyle,Soto,40,M,E015,"Softball Throw",101
+G039,"Callie Francis High","Jason Jenkins",Kyle,Soto,40,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Lewis,Stafford,39,M,E015,"Softball Throw",205
+G039,"Callie Francis High","Jason Jenkins",Lewis,Stafford,39,M,E017,"25 M Wheelchair",0
+G039,"Callie Francis High","Jason Jenkins",Magee,Cox,65,M,E021,Developmental,0
+G039,"Callie Francis High","Jason Jenkins",Magee,Cox,65,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Marshall,Duncan,62,M,E015,"Softball Throw",900
+G039,"Callie Francis High","Jason Jenkins",Marshall,Duncan,62,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Mason,Kim,57,M,E001,"50 Meter Dash",125
+G039,"Callie Francis High","Jason Jenkins",Mason,Kim,57,M,E015,"Softball Throw",204
+G039,"Callie Francis High","Jason Jenkins",Melvin,Walton,30,M,E015,"Softball Throw",200
+G039,"Callie Francis High","Jason Jenkins",Melvin,Walton,30,M,E020,"25M Walk",0
+G039,"Callie Francis High","Jason Jenkins",Myles,Riddle,34,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Nash,Bullock,42,M,E017,"25 M Wheelchair",203
+G039,"Callie Francis High","Jason Jenkins",Nash,Bullock,42,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Nathan,Irwin,39,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Nero,Atkins,49,M,E015,"Softball Throw",302
+G039,"Callie Francis High","Jason Jenkins",Nero,Atkins,49,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Nigel,Melton,30,M,E021,Developmental,0
+G039,"Callie Francis High","Jason Jenkins",Nigel,Melton,30,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Patrick,Mercado,39,M,E019,"10M Assisted Walk",102
+G039,"Callie Francis High","Jason Jenkins",Patrick,Mercado,39,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Perry,Franklin,57,M,E015,"Softball Throw",1210
+G039,"Callie Francis High","Jason Jenkins",Perry,Franklin,57,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Philip,Mason,24,M,E013,"Standing Long Jump",302
+G039,"Callie Francis High","Jason Jenkins",Philip,Mason,24,M,E015,"Softball Throw",804
+G039,"Callie Francis High","Jason Jenkins",Price,Ortiz,29,M,E015,"Softball Throw",403
+G039,"Callie Francis High","Jason Jenkins",Price,Ortiz,29,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Rashad,Mcneil,28,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Reed,Welch,37,M,E014,"Shot Put",102
+G039,"Callie Francis High","Jason Jenkins",Reed,Welch,37,M,E019,"10M Assisted Walk",130
+G039,"Callie Francis High","Jason Jenkins",Ronan,Cohen,24,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Samuel,Barber,23,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Steel,Mccoy,41,M,E001,"50 Meter Dash",24
+G039,"Callie Francis High","Jason Jenkins",Steel,Mccoy,41,M,E015,"Softball Throw",1000
+G039,"Callie Francis High","Jason Jenkins",Thomas,Ashley,29,M,E007,"100 Meter Walk",200
+G039,"Callie Francis High","Jason Jenkins",Thomas,Ashley,29,M,E015,"Softball Throw",407
+G039,"Callie Francis High","Jason Jenkins",Tucker,Buckner,61,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Ulysses,Neal,60,M,E004,"400 Meter Dash",100
+G039,"Callie Francis High","Jason Jenkins",Ulysses,Neal,60,M,E015,"Softball Throw",711
+G039,"Callie Francis High","Jason Jenkins",Upton,Prince,39,M,E001,"50 Meter Dash",28
+G039,"Callie Francis High","Jason Jenkins",Upton,Prince,39,M,E015,"Softball Throw",1300
+G039,"Callie Francis High","Jason Jenkins",Valentine,Pratt,48,M,E015,"Softball Throw",711
+G039,"Callie Francis High","Jason Jenkins",Valentine,Pratt,48,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Vernon,Hernandez,60,M,E007,"100 Meter Walk",49
+G039,"Callie Francis High","Jason Jenkins",Vernon,Hernandez,60,M,E015,"Softball Throw",800
+G039,"Callie Francis High","Jason Jenkins",Wang,Spears,63,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Wyatt,Barton,26,M,E002,"100 Meter Dash",14
+G039,"Callie Francis High","Jason Jenkins",Wyatt,Barton,26,M,E015,"Softball Throw",1800
+G039,"Callie Francis High","Jason Jenkins",Yardley,Garcia,39,M,E007,"100 Meter Walk",24
+G039,"Callie Francis High","Jason Jenkins",Yardley,Garcia,39,M,E015,"Softball Throw",1700
+G039,"Callie Francis High","Jason Jenkins",Yoshio,Rogers,59,M,E099,"Olympic Town",0
+G039,"Callie Francis High","Jason Jenkins",Zephania,Joseph,54,M,E004,"400 Meter Dash",200
+G039,"Callie Francis High","Jason Jenkins",Zephania,Joseph,54,M,E014,"Shot Put",103
+G039,"Callie Francis High","Jason Jenkins",Zeus,Neal,38,M,E002,"100 Meter Dash",18
+G039,"Callie Francis High","Jason Jenkins",Zeus,Neal,38,M,E015,"Softball Throw",1900
+G040,"Emery Savage High","Donovan Greer",Eve,Trevino,13,F,E018,"Wheelchair Shot Put",0
+G040,"Emery Savage High","Donovan Greer",Eve,Trevino,13,F,E021,Developmental,0
+G040,"Emery Savage High","Donovan Greer",Lacy,Osborne,2,F,E021,Developmental,0
+G040,"Emery Savage High","Hamish Howell",Abra,Norris,43,F,E007,"100 Meter Walk",106
+G040,"Emery Savage High","Hamish Howell",Abra,Norris,43,F,E015,"Softball Throw",3807
+G040,"Emery Savage High","Hamish Howell",Adria,Guerra,57,F,E015,"Softball Throw",2010
+G040,"Emery Savage High","Hamish Howell",Adria,Guerra,57,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Ainsley,Bright,34,F,E015,"Softball Throw",507
+G040,"Emery Savage High","Hamish Howell",Ainsley,Bright,34,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Alea,Becker,38,F,E001,"50 Meter Dash",19
+G040,"Emery Savage High","Hamish Howell",Alea,Becker,38,F,E015,"Softball Throw",1502
+G040,"Emery Savage High","Hamish Howell",Alexa,Knight,44,F,E013,"Standing Long Jump",401
+G040,"Emery Savage High","Hamish Howell",Alexa,Knight,44,F,E015,"Softball Throw",1302
+G040,"Emery Savage High","Hamish Howell",Alfreda,Guzman,49,F,E007,"100 Meter Walk",55
+G040,"Emery Savage High","Hamish Howell",Alfreda,Guzman,49,F,E015,"Softball Throw",2607
+G040,"Emery Savage High","Hamish Howell",Amy,Barber,38,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Angela,King,44,F,E001,"50 Meter Dash",15
+G040,"Emery Savage High","Hamish Howell",Angela,King,44,F,E015,"Softball Throw",7003
+G040,"Emery Savage High","Hamish Howell",Anika,Zamora,47,F,E007,"100 Meter Walk",42
+G040,"Emery Savage High","Hamish Howell",Anika,Zamora,47,F,E015,"Softball Throw",2000
+G040,"Emery Savage High","Hamish Howell",Ariana,Hays,58,F,E007,"100 Meter Walk",100
+G040,"Emery Savage High","Hamish Howell",Ariana,Hays,58,F,E015,"Softball Throw",4003
+G040,"Emery Savage High","Hamish Howell",Avye,Velez,27,F,E013,"Standing Long Jump",408
+G040,"Emery Savage High","Hamish Howell",Avye,Velez,27,F,E015,"Softball Throw",2002
+G040,"Emery Savage High","Hamish Howell",Beverly,Ramsey,34,F,E015,"Softball Throw",2400
+G040,"Emery Savage High","Hamish Howell",Beverly,Ramsey,34,F,E019,"10M Assisted Walk",45
+G040,"Emery Savage High","Hamish Howell",Blaine,Santana,63,F,E015,"Softball Throw",802
+G040,"Emery Savage High","Hamish Howell",Blaine,Santana,63,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Brooke,Carney,42,F,E001,"50 Meter Dash",19
+G040,"Emery Savage High","Hamish Howell",Brooke,Carney,42,F,E015,"Softball Throw",5009
+G040,"Emery Savage High","Hamish Howell",Brynn,Lambert,48,F,E015,"Softball Throw",601
+G040,"Emery Savage High","Hamish Howell",Brynn,Lambert,48,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Cailin,Manning,36,F,E007,"100 Meter Walk",52
+G040,"Emery Savage High","Hamish Howell",Cailin,Manning,36,F,E015,"Softball Throw",4008
+G040,"Emery Savage High","Hamish Howell",Callie,Bird,31,F,E015,"Softball Throw",1900
+G040,"Emery Savage High","Hamish Howell",Callie,Bird,31,F,E019,"10M Assisted Walk",103
+G040,"Emery Savage High","Hamish Howell",Cally,Mercado,71,F,E015,"Softball Throw",801
+G040,"Emery Savage High","Hamish Howell",Cally,Mercado,71,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Cameran,Underwood,26,F,E007,"100 Meter Walk",52
+G040,"Emery Savage High","Hamish Howell",Cameran,Underwood,26,F,E015,"Softball Throw",2400
+G040,"Emery Savage High","Hamish Howell",Catherine,Cohen,61,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Cathleen,Rice,50,F,E015,"Softball Throw",303
+G040,"Emery Savage High","Hamish Howell",Cathleen,Rice,50,F,E019,"10M Assisted Walk",45
+G040,"Emery Savage High","Hamish Howell",Cecilia,Deleon,49,F,E015,"Softball Throw",2906
+G040,"Emery Savage High","Hamish Howell",Cecilia,Deleon,49,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Chelsea,Alston,27,F,E007,"100 Meter Walk",58
+G040,"Emery Savage High","Hamish Howell",Chelsea,Alston,27,F,E015,"Softball Throw",1102
+G040,"Emery Savage High","Hamish Howell",Cheryl,Branch,52,F,E013,"Standing Long Jump",308
+G040,"Emery Savage High","Hamish Howell",Cheryl,Branch,52,F,E015,"Softball Throw",1300
+G040,"Emery Savage High","Hamish Howell",Claudia,Rocha,28,F,E001,"50 Meter Dash",48
+G040,"Emery Savage High","Hamish Howell",Claudia,Rocha,28,F,E015,"Softball Throw",1103
+G040,"Emery Savage High","Hamish Howell",Cleo,Garcia,61,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Cora,Newton,24,F,E002,"100 Meter Dash",20
+G040,"Emery Savage High","Hamish Howell",Cora,Newton,24,F,E015,"Softball Throw",6100
+G040,"Emery Savage High","Hamish Howell",Deirdre,Carney,25,F,E002,"100 Meter Dash",18
+G040,"Emery Savage High","Hamish Howell",Deirdre,Carney,25,F,E015,"Softball Throw",5403
+G040,"Emery Savage High","Hamish Howell",Desiree,Combs,32,F,E007,"100 Meter Walk",44
+G040,"Emery Savage High","Hamish Howell",Desiree,Combs,32,F,E015,"Softball Throw",5908
+G040,"Emery Savage High","Hamish Howell",Dominique,Stanley,32,F,E007,"100 Meter Walk",53
+G040,"Emery Savage High","Hamish Howell",Dominique,Stanley,32,F,E015,"Softball Throw",2400
+G040,"Emery Savage High","Hamish Howell",Fallon,Hewitt,56,F,E015,"Softball Throw",1003
+G040,"Emery Savage High","Hamish Howell",Fallon,Hewitt,56,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Gay,Hess,41,F,E015,"Softball Throw",1400
+G040,"Emery Savage High","Hamish Howell",Gay,Hess,41,F,E019,"10M Assisted Walk",200
+G040,"Emery Savage High","Hamish Howell",Hannah,Chan,57,F,E015,"Softball Throw",7600
+G040,"Emery Savage High","Hamish Howell",Hannah,Chan,57,F,E019,"10M Assisted Walk",104
+G040,"Emery Savage High","Hamish Howell",Hyacinth,Sexton,63,F,E002,"100 Meter Dash",45
+G040,"Emery Savage High","Hamish Howell",Hyacinth,Sexton,63,F,E015,"Softball Throw",1010
+G040,"Emery Savage High","Hamish Howell",Ifeoma,Perry,43,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Illiana,Miranda,49,F,E015,"Softball Throw",801
+G040,"Emery Savage High","Hamish Howell",Illiana,Miranda,49,F,E019,"10M Assisted Walk",40
+G040,"Emery Savage High","Hamish Howell",Ima,Landry,56,F,E015,"Softball Throw",3404
+G040,"Emery Savage High","Hamish Howell",Ima,Landry,56,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Iona,Fernandez,37,F,E011,"Run Long Jump",408
+G040,"Emery Savage High","Hamish Howell",Iona,Fernandez,37,F,E015,"Softball Throw",2003
+G040,"Emery Savage High","Hamish Howell",Iona,Rosario,53,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Isabelle,Steele,64,F,E015,"Softball Throw",1401
+G040,"Emery Savage High","Hamish Howell",Isabelle,Steele,64,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Jael,Randall,65,F,E015,"Softball Throw",3201
+G040,"Emery Savage High","Hamish Howell",Jael,Randall,65,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Jane,Tillman,50,F,E002,"100 Meter Dash",52
+G040,"Emery Savage High","Hamish Howell",Jane,Tillman,50,F,E015,"Softball Throw",3307
+G040,"Emery Savage High","Hamish Howell",Janna,Holcomb,58,F,E015,"Softball Throw",4200
+G040,"Emery Savage High","Hamish Howell",Janna,Holcomb,58,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Jaquelyn,Simon,55,F,E015,"Softball Throw",709
+G040,"Emery Savage High","Hamish Howell",Jaquelyn,Simon,55,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Jena,Hurst,53,F,E013,"Standing Long Jump",103
+G040,"Emery Savage High","Hamish Howell",Jena,Hurst,53,F,E015,"Softball Throw",2903
+G040,"Emery Savage High","Hamish Howell",Jenna,Kerr,51,F,E015,"Softball Throw",3904
+G040,"Emery Savage High","Hamish Howell",Jenna,Kerr,51,F,E019,"10M Assisted Walk",103
+G040,"Emery Savage High","Hamish Howell",Joan,Mcmillan,23,F,E002,"100 Meter Dash",56
+G040,"Emery Savage High","Hamish Howell",Joan,Mcmillan,23,F,E015,"Softball Throw",1307
+G040,"Emery Savage High","Hamish Howell",Jorden,Good,44,F,E001,"50 Meter Dash",18
+G040,"Emery Savage High","Hamish Howell",Jorden,Good,44,F,E015,"Softball Throw",2809
+G040,"Emery Savage High","Hamish Howell",Juliet,Horne,46,F,E002,"100 Meter Dash",32
+G040,"Emery Savage High","Hamish Howell",Juliet,Horne,46,F,E015,"Softball Throw",3900
+G040,"Emery Savage High","Hamish Howell",Justina,Mcleod,58,F,E015,"Softball Throw",1001
+G040,"Emery Savage High","Hamish Howell",Justina,Mcleod,58,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Justine,Dotson,31,F,E017,"25 M Wheelchair",0
+G040,"Emery Savage High","Hamish Howell",Justine,Dotson,31,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Karina,Franco,35,F,E015,"Softball Throw",602
+G040,"Emery Savage High","Hamish Howell",Karina,Franco,35,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Karly,Noel,32,F,E015,"Softball Throw",2701
+G040,"Emery Savage High","Hamish Howell",Karly,Noel,32,F,E019,"10M Assisted Walk",101
+G040,"Emery Savage High","Hamish Howell",Katelyn,Rivera,53,F,E007,"100 Meter Walk",100
+G040,"Emery Savage High","Hamish Howell",Katelyn,Rivera,53,F,E015,"Softball Throw",2001
+G040,"Emery Savage High","Hamish Howell",Kirsten,Wilkinson,46,F,E001,"50 Meter Dash",100
+G040,"Emery Savage High","Hamish Howell",Kirsten,Wilkinson,46,F,E015,"Softball Throw",6004
+G040,"Emery Savage High","Hamish Howell",Lacota,Gallegos,50,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Lacota,Reyes,63,F,E001,"50 Meter Dash",15
+G040,"Emery Savage High","Hamish Howell",Lacota,Reyes,63,F,E015,"Softball Throw",2805
+G040,"Emery Savage High","Hamish Howell",Lacy,Gross,28,F,E015,"Softball Throw",1405
+G040,"Emery Savage High","Hamish Howell",Lacy,Gross,28,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Lenore,Willis,46,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Linda,Elliott,60,F,E015,"Softball Throw",2901
+G040,"Emery Savage High","Hamish Howell",Linda,Elliott,60,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Lisandra,Haynes,54,F,E002,"100 Meter Dash",55
+G040,"Emery Savage High","Hamish Howell",Lisandra,Haynes,54,F,E015,"Softball Throw",2004
+G040,"Emery Savage High","Hamish Howell",Lunea,Buchanan,31,F,E015,"Softball Throw",805
+G040,"Emery Savage High","Hamish Howell",Lunea,Buchanan,31,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Lunea,Knight,45,F,E011,"Run Long Jump",300
+G040,"Emery Savage High","Hamish Howell",Lunea,Knight,45,F,E015,"Softball Throw",1909
+G040,"Emery Savage High","Hamish Howell",Lunea,Lewis,37,F,E015,"Softball Throw",3001
+G040,"Emery Savage High","Hamish Howell",Lunea,Lewis,37,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",MacKensie,Fox,50,F,E015,"Softball Throw",2008
+G040,"Emery Savage High","Hamish Howell",MacKensie,Fox,50,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Maite,Miles,46,F,E015,"Softball Throw",2703
+G040,"Emery Savage High","Hamish Howell",Maite,Miles,46,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Meghan,Strong,43,F,E005,"30M Wheelchair Sl",102
+G040,"Emery Savage High","Hamish Howell",Meghan,Strong,43,F,E015,"Softball Throw",909
+G040,"Emery Savage High","Hamish Howell",Miranda,Solis,48,F,E015,"Softball Throw",2003
+G040,"Emery Savage High","Hamish Howell",Miranda,Solis,48,F,E020,"25M Walk",106
+G040,"Emery Savage High","Hamish Howell",Montana,Rowe,64,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Nelle,Klein,39,F,E011,"Run Long Jump",307
+G040,"Emery Savage High","Hamish Howell",Nelle,Klein,39,F,E015,"Softball Throw",4708
+G040,"Emery Savage High","Hamish Howell",Nita,Mcknight,83,F,E015,"Softball Throw",802
+G040,"Emery Savage High","Hamish Howell",Nita,Mcknight,83,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Nyssa,Merritt,58,F,E007,"100 Meter Walk",55
+G040,"Emery Savage High","Hamish Howell",Nyssa,Merritt,58,F,E015,"Softball Throw",1003
+G040,"Emery Savage High","Hamish Howell",Olympia,Glenn,37,F,E001,"50 Meter Dash",34
+G040,"Emery Savage High","Hamish Howell",Olympia,Glenn,37,F,E015,"Softball Throw",6508
+G040,"Emery Savage High","Hamish Howell",Ora,Moss,61,F,E007,"100 Meter Walk",45
+G040,"Emery Savage High","Hamish Howell",Ora,Moss,61,F,E015,"Softball Throw",906
+G040,"Emery Savage High","Hamish Howell",Pandora,Lowe,45,F,E015,"Softball Throw",909
+G040,"Emery Savage High","Hamish Howell",Pandora,Lowe,45,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Phyllis,Horn,52,F,E001,"50 Meter Dash",18
+G040,"Emery Savage High","Hamish Howell",Phyllis,Horn,52,F,E015,"Softball Throw",2603
+G040,"Emery Savage High","Hamish Howell",Quincy,Marshall,67,F,E015,"Softball Throw",903
+G040,"Emery Savage High","Hamish Howell",Quincy,Marshall,67,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Rae,Weber,50,F,E001,"50 Meter Dash",11
+G040,"Emery Savage High","Hamish Howell",Rae,Weber,50,F,E015,"Softball Throw",1002
+G040,"Emery Savage High","Hamish Howell",Reagan,Rogers,53,F,E007,"100 Meter Walk",200
+G040,"Emery Savage High","Hamish Howell",Reagan,Rogers,53,F,E015,"Softball Throw",1902
+G040,"Emery Savage High","Hamish Howell",Regan,Barber,38,F,E013,"Standing Long Jump",308
+G040,"Emery Savage High","Hamish Howell",Regan,Barber,38,F,E015,"Softball Throw",4802
+G040,"Emery Savage High","Hamish Howell",Roary,Shaffer,42,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Sarah,Buck,66,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Serina,Burris,58,F,E015,"Softball Throw",1902
+G040,"Emery Savage High","Hamish Howell",Serina,Burris,58,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Shelly,Byrd,35,F,E013,"Standing Long Jump",401
+G040,"Emery Savage High","Hamish Howell",Shelly,Byrd,35,F,E015,"Softball Throw",3503
+G040,"Emery Savage High","Hamish Howell",Sigourney,Schmidt,60,F,E001,"50 Meter Dash",14
+G040,"Emery Savage High","Hamish Howell",Sigourney,Schmidt,60,F,E015,"Softball Throw",1500
+G040,"Emery Savage High","Hamish Howell",Stacey,Jacobs,49,F,E007,"100 Meter Walk",50
+G040,"Emery Savage High","Hamish Howell",Stacey,Jacobs,49,F,E015,"Softball Throw",3004
+G040,"Emery Savage High","Hamish Howell",Stacey,Lawrence,44,F,E015,"Softball Throw",1002
+G040,"Emery Savage High","Hamish Howell",Stacey,Lawrence,44,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Tallulah,Phelps,38,F,E007,"100 Meter Walk",48
+G040,"Emery Savage High","Hamish Howell",Tallulah,Phelps,38,F,E015,"Softball Throw",1806
+G040,"Emery Savage High","Hamish Howell",Taylor,Valencia,67,F,E007,"100 Meter Walk",100
+G040,"Emery Savage High","Hamish Howell",Taylor,Valencia,67,F,E015,"Softball Throw",1807
+G040,"Emery Savage High","Hamish Howell",Ursa,Sellers,52,F,E007,"100 Meter Walk",100
+G040,"Emery Savage High","Hamish Howell",Ursa,Sellers,52,F,E015,"Softball Throw",1709
+G040,"Emery Savage High","Hamish Howell",Victoria,Cardenas,59,F,E007,"100 Meter Walk",50
+G040,"Emery Savage High","Hamish Howell",Victoria,Cardenas,59,F,E015,"Softball Throw",2001
+G040,"Emery Savage High","Hamish Howell",Vivian,Keller,62,F,E013,"Standing Long Jump",301
+G040,"Emery Savage High","Hamish Howell",Vivian,Keller,62,F,E015,"Softball Throw",4205
+G040,"Emery Savage High","Hamish Howell",Vivian,Wells,52,F,E007,"100 Meter Walk",52
+G040,"Emery Savage High","Hamish Howell",Vivian,Wells,52,F,E015,"Softball Throw",5004
+G040,"Emery Savage High","Hamish Howell",Winifred,Terrell,30,F,E015,"Softball Throw",306
+G040,"Emery Savage High","Hamish Howell",Winifred,Terrell,30,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Winter,Wilcox,35,F,E015,"Softball Throw",1000
+G040,"Emery Savage High","Hamish Howell",Winter,Wilcox,35,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Wyoming,Frederick,72,F,E015,"Softball Throw",709
+G040,"Emery Savage High","Hamish Howell",Wyoming,Frederick,72,F,E099,"Olympic Town",0
+G040,"Emery Savage High","Hamish Howell",Yeo,Holland,51,F,E007,"100 Meter Walk",55
+G040,"Emery Savage High","Hamish Howell",Yeo,Holland,51,F,E015,"Softball Throw",2002
+G040,"Emery Savage High","Hamish Howell",Yvette,Stewart,52,F,E015,"Softball Throw",501
+G040,"Emery Savage High","Hamish Howell",Yvette,Stewart,52,F,E099,"Olympic Town",0
+G041,"Home Schools","Derek Guerra",Quon,Craft,9,F,E002,"100 Meter Dash",26
+G041,"Home Schools","Derek Guerra",Quon,Craft,9,F,E013,"Standing Long Jump",402
+G041,"Home Schools","Hector Ellison",Ruby,Walsh,22,F,E001,"50 Meter Dash",11
+G041,"Home Schools","Hector Ellison",Ruby,Walsh,22,F,E013,"Standing Long Jump",400
+G041,"Home Schools","Mercedes Wright",Desirae,Goff,27,F,E011,"Run Long Jump",6
+G041,"Home Schools","Mercedes Wright",Desirae,Goff,27,F,E015,"Softball Throw",5000
+G041,"Home Schools","Mercedes Wright",Pandora,White,27,F,E011,"Run Long Jump",6
+G041,"Home Schools","Mercedes Wright",Pandora,White,27,F,E015,"Softball Throw",2000
+G042,"Orson Wilkinson Mid","Jennifer Ray",Arsenio,Pratt,14,M,E005,"30M Wheelchair Sl",21
+G042,"Orson Wilkinson Mid","Jennifer Ray",Arsenio,Pratt,14,M,E015,"Softball Throw",1710
+G042,"Orson Wilkinson Mid","Jennifer Ray",Bevis,Holden,15,M,E021,Developmental,0
+G042,"Orson Wilkinson Mid","Jennifer Ray",Bevis,Holden,15,M,E099,"Olympic Town",0
+G042,"Orson Wilkinson Mid","Jennifer Ray",Buckminster,Glenn,14,M,E005,"30M Wheelchair Sl",39
+G042,"Orson Wilkinson Mid","Jennifer Ray",Buckminster,Glenn,14,M,E015,"Softball Throw",1011
+G042,"Orson Wilkinson Mid","Jennifer Ray",Byron,Washington,15,M,E015,"Softball Throw",2201
+G042,"Orson Wilkinson Mid","Jennifer Ray",Byron,Washington,15,M,E021,Developmental,0
+G042,"Orson Wilkinson Mid","Jennifer Ray",Cairo,Daugherty,14,M,E021,Developmental,0
+G042,"Orson Wilkinson Mid","Jennifer Ray",Cairo,Daugherty,14,M,E099,"Olympic Town",0
+G042,"Orson Wilkinson Mid","Jennifer Ray",Carlos,Hurst,15,M,E006,"30M Motor Wheelchair Sl",43
+G042,"Orson Wilkinson Mid","Jennifer Ray",Carlos,Hurst,15,M,E015,"Softball Throw",203
+G042,"Orson Wilkinson Mid","Jennifer Ray",Colorado,England,16,M,E006,"30M Motor Wheelchair Sl",48
+G042,"Orson Wilkinson Mid","Jennifer Ray",Colorado,England,16,M,E015,"Softball Throw",210
+G042,"Orson Wilkinson Mid","Jennifer Ray",Dale,Burns,16,M,E006,"30M Motor Wheelchair Sl",28
+G042,"Orson Wilkinson Mid","Jennifer Ray",Dale,Burns,16,M,E015,"Softball Throw",803
+G042,"Orson Wilkinson Mid","Jennifer Ray",Dane,Rose,16,M,E002,"100 Meter Dash",37
+G042,"Orson Wilkinson Mid","Jennifer Ray",Dane,Rose,16,M,E015,"Softball Throw",7800
+G042,"Orson Wilkinson Mid","Jennifer Ray",Edward,Rich,15,M,E015,"Softball Throw",2300
+G042,"Orson Wilkinson Mid","Jennifer Ray",Edward,Rich,15,M,E020,"25M Walk",15
+G042,"Orson Wilkinson Mid","Jennifer Ray",Finn,Newton,15,M,E015,"Softball Throw",204
+G042,"Orson Wilkinson Mid","Jennifer Ray",Finn,Newton,15,M,E020,"25M Walk",18
+G042,"Orson Wilkinson Mid","Jennifer Ray",Jack,Bradford,13,M,E006,"30M Motor Wheelchair Sl",23
+G042,"Orson Wilkinson Mid","Jennifer Ray",Jack,Bradford,13,M,E015,"Softball Throw",1507
+G042,"Orson Wilkinson Mid","Jennifer Ray",Keane,Hardin,15,M,E006,"30M Motor Wheelchair Sl",18
+G042,"Orson Wilkinson Mid","Jennifer Ray",Keane,Hardin,15,M,E015,"Softball Throw",105
+G042,"Orson Wilkinson Mid","Jennifer Ray",Kenyon,Clemons,14,M,E006,"30M Motor Wheelchair Sl",16
+G042,"Orson Wilkinson Mid","Jennifer Ray",Kenyon,Clemons,14,M,E015,"Softball Throw",2500
+G042,"Orson Wilkinson Mid","Jennifer Ray",Kuame,Hale,14,M,E002,"100 Meter Dash",23
+G042,"Orson Wilkinson Mid","Jennifer Ray",Kuame,Hale,14,M,E015,"Softball Throw",9200
+G042,"Orson Wilkinson Mid","Jennifer Ray",Otto,Black,14,M,E005,"30M Wheelchair Sl",38
+G042,"Orson Wilkinson Mid","Jennifer Ray",Otto,Black,14,M,E015,"Softball Throw",1007
+G042,"Orson Wilkinson Mid","Jennifer Ray",Shad,Curtis,14,M,E007,"100 Meter Walk",27
+G042,"Orson Wilkinson Mid","Jennifer Ray",Shad,Curtis,14,M,E015,"Softball Throw",2008
+G042,"Orson Wilkinson Mid","Jennifer Ray",Steven,Weiss,15,M,E005,"30M Wheelchair Sl",22
+G042,"Orson Wilkinson Mid","Jennifer Ray",Steven,Weiss,15,M,E015,"Softball Throw",1507
+G042,"Orson Wilkinson Mid","Jennifer Ray",Vernon,Gamble,15,M,E006,"30M Motor Wheelchair Sl",17
+G042,"Orson Wilkinson Mid","Jennifer Ray",Vernon,Gamble,15,M,E015,"Softball Throw",2506
+G043,"Bernard Black High","Sandra Larson",Alice,Gibbs,12,F,E001,"50 Meter Dash",23
+G043,"Bernard Black High","Sandra Larson",Alice,Gibbs,12,F,E015,"Softball Throw",1100
+G043,"Bernard Black High","Sandra Larson",Alice,Matthews,12,F,E001,"50 Meter Dash",32
+G043,"Bernard Black High","Sandra Larson",Alice,Matthews,12,F,E015,"Softball Throw",606
+G043,"Bernard Black High","Sandra Larson",Amelia,Webb,17,F,E001,"50 Meter Dash",18
+G043,"Bernard Black High","Sandra Larson",Amelia,Webb,17,F,E015,"Softball Throw",806
+G043,"Bernard Black High","Sandra Larson",Ashely,Mueller,12,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Ashely,Mueller,12,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Ayanna,Cruz,12,F,E001,"50 Meter Dash",45
+G043,"Bernard Black High","Sandra Larson",Ayanna,Cruz,12,F,E015,"Softball Throw",601
+G043,"Bernard Black High","Sandra Larson",Bethany,Woodward,13,F,E001,"50 Meter Dash",20
+G043,"Bernard Black High","Sandra Larson",Bethany,Woodward,13,F,E015,"Softball Throw",1200
+G043,"Bernard Black High","Sandra Larson",Beverly,Mckinney,14,F,E001,"50 Meter Dash",29
+G043,"Bernard Black High","Sandra Larson",Beverly,Mckinney,14,F,E015,"Softball Throw",900
+G043,"Bernard Black High","Sandra Larson",Brooke,Welch,17,F,E001,"50 Meter Dash",20
+G043,"Bernard Black High","Sandra Larson",Brooke,Welch,17,F,E015,"Softball Throw",3010
+G043,"Bernard Black High","Sandra Larson",Cameron,Haynes,8,F,E098,"Young Athletes",0
+G043,"Bernard Black High","Sandra Larson",Cameron,Haynes,8,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Cameron,Kent,21,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Cameron,Kent,21,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Carissa,Lawson,17,F,E001,"50 Meter Dash",36
+G043,"Bernard Black High","Sandra Larson",Carissa,Lawson,17,F,E015,"Softball Throw",407
+G043,"Bernard Black High","Sandra Larson",Ciara,Cohen,10,F,E001,"50 Meter Dash",34
+G043,"Bernard Black High","Sandra Larson",Ciara,Cohen,10,F,E015,"Softball Throw",909
+G043,"Bernard Black High","Sandra Larson",Dana,Farrell,18,F,E001,"50 Meter Dash",28
+G043,"Bernard Black High","Sandra Larson",Dana,Farrell,18,F,E015,"Softball Throw",1709
+G043,"Bernard Black High","Sandra Larson",Dora,Salazar,11,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Dora,Salazar,11,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Ella,Frazier,17,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Ella,Frazier,17,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Erin,Wong,14,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Erin,Wong,14,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Felicia,James,20,F,E001,"50 Meter Dash",32
+G043,"Bernard Black High","Sandra Larson",Felicia,James,20,F,E015,"Softball Throw",1707
+G043,"Bernard Black High","Sandra Larson",Galena,Payne,15,F,E001,"50 Meter Dash",16
+G043,"Bernard Black High","Sandra Larson",Galena,Payne,15,F,E015,"Softball Throw",1210
+G043,"Bernard Black High","Sandra Larson",Genevieve,Bowers,16,F,E001,"50 Meter Dash",30
+G043,"Bernard Black High","Sandra Larson",Genevieve,Bowers,16,F,E013,"Standing Long Jump",702
+G043,"Bernard Black High","Sandra Larson",Gisela,Franklin,16,F,E001,"50 Meter Dash",30
+G043,"Bernard Black High","Sandra Larson",Gisela,Franklin,16,F,E015,"Softball Throw",500
+G043,"Bernard Black High","Sandra Larson",Gretchen,Mayer,20,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Gretchen,Mayer,20,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Guinevere,Page,12,F,E015,"Softball Throw",1000
+G043,"Bernard Black High","Sandra Larson",Guinevere,Page,12,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Hadassah,Clarke,12,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Hadassah,Clarke,12,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Hadley,Douglas,20,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Hadley,Douglas,20,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Heidi,Holcomb,21,F,E001,"50 Meter Dash",20
+G043,"Bernard Black High","Sandra Larson",Heidi,Holcomb,21,F,E015,"Softball Throw",4506
+G043,"Bernard Black High","Sandra Larson",Illana,Gillespie,16,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Illana,Gillespie,16,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Indira,Ferrell,12,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Indira,Ferrell,12,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Jade,Quinn,16,F,E001,"50 Meter Dash",36
+G043,"Bernard Black High","Sandra Larson",Jade,Quinn,16,F,E015,"Softball Throw",1301
+G043,"Bernard Black High","Sandra Larson",Jane,Mccullough,13,F,E001,"50 Meter Dash",45
+G043,"Bernard Black High","Sandra Larson",Jane,Mccullough,13,F,E015,"Softball Throw",702
+G043,"Bernard Black High","Sandra Larson",Jasmine,Stein,19,F,E001,"50 Meter Dash",17
+G043,"Bernard Black High","Sandra Larson",Jasmine,Stein,19,F,E015,"Softball Throw",2000
+G043,"Bernard Black High","Sandra Larson",Julie,Pate,13,F,E001,"50 Meter Dash",32
+G043,"Bernard Black High","Sandra Larson",Julie,Pate,13,F,E015,"Softball Throw",502
+G043,"Bernard Black High","Sandra Larson",Karly,Gardner,15,F,E001,"50 Meter Dash",32
+G043,"Bernard Black High","Sandra Larson",Karly,Gardner,15,F,E015,"Softball Throw",1002
+G043,"Bernard Black High","Sandra Larson",Kelly,Woodard,13,F,E001,"50 Meter Dash",16
+G043,"Bernard Black High","Sandra Larson",Kelly,Woodard,13,F,E015,"Softball Throw",6004
+G043,"Bernard Black High","Sandra Larson",Lani,Santana,17,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Lani,Santana,17,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Leigh,Davis,11,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Leigh,Davis,11,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Lenore,Estes,14,F,E015,"Softball Throw",500
+G043,"Bernard Black High","Sandra Larson",Lenore,Estes,14,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Leslie,Riggs,12,F,E001,"50 Meter Dash",23
+G043,"Bernard Black High","Sandra Larson",Leslie,Riggs,12,F,E015,"Softball Throw",1000
+G043,"Bernard Black High","Sandra Larson",Macey,Randall,16,F,E015,"Softball Throw",602
+G043,"Bernard Black High","Sandra Larson",Macey,Randall,16,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Madison,Santiago,13,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Madison,Santiago,13,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Maryam,Erickson,18,F,E001,"50 Meter Dash",23
+G043,"Bernard Black High","Sandra Larson",Maryam,Erickson,18,F,E015,"Softball Throw",1200
+G043,"Bernard Black High","Sandra Larson",Maxine,Owens,20,F,E015,"Softball Throw",1107
+G043,"Bernard Black High","Sandra Larson",Maxine,Owens,20,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Melyssa,Osborn,20,F,E001,"50 Meter Dash",23
+G043,"Bernard Black High","Sandra Larson",Melyssa,Osborn,20,F,E015,"Softball Throw",1500
+G043,"Bernard Black High","Sandra Larson",Mercedes,Benjamin,19,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Mercedes,Benjamin,19,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Mona,Reed,20,F,E001,"50 Meter Dash",13
+G043,"Bernard Black High","Sandra Larson",Mona,Reed,20,F,E015,"Softball Throw",4506
+G043,"Bernard Black High","Sandra Larson",Nayda,Dudley,12,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Nayda,Dudley,12,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Odessa,Horton,12,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Odessa,Horton,12,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Olympia,Rivera,12,F,E001,"50 Meter Dash",30
+G043,"Bernard Black High","Sandra Larson",Olympia,Rivera,12,F,E015,"Softball Throw",1000
+G043,"Bernard Black High","Sandra Larson",Pamela,Salinas,15,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Pamela,Salinas,15,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Patience,Mcfadden,13,F,E001,"50 Meter Dash",32
+G043,"Bernard Black High","Sandra Larson",Patience,Mcfadden,13,F,E015,"Softball Throw",600
+G043,"Bernard Black High","Sandra Larson",Penelope,Harris,21,F,E001,"50 Meter Dash",40
+G043,"Bernard Black High","Sandra Larson",Penelope,Harris,21,F,E015,"Softball Throw",700
+G043,"Bernard Black High","Sandra Larson",Phoebe,Austin,21,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Phoebe,Austin,21,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Quincy,Garcia,17,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Quincy,Garcia,17,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Quon,Rasmussen,14,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Quon,Rasmussen,14,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Rama,Mcdonald,12,F,E001,"50 Meter Dash",40
+G043,"Bernard Black High","Sandra Larson",Rama,Mcdonald,12,F,E015,"Softball Throw",606
+G043,"Bernard Black High","Sandra Larson",Rowan,Vincent,21,F,E001,"50 Meter Dash",15
+G043,"Bernard Black High","Sandra Larson",Rowan,Vincent,21,F,E015,"Softball Throw",4000
+G043,"Bernard Black High","Sandra Larson",Rylee,Erickson,14,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Rylee,Erickson,14,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Sandra,Smith,15,F,E001,"50 Meter Dash",32
+G043,"Bernard Black High","Sandra Larson",Sandra,Smith,15,F,E015,"Softball Throw",600
+G043,"Bernard Black High","Sandra Larson",Scarlett,Goodman,17,F,E001,"50 Meter Dash",29
+G043,"Bernard Black High","Sandra Larson",Scarlett,Goodman,17,F,E015,"Softball Throw",1102
+G043,"Bernard Black High","Sandra Larson",Serina,Suarez,7,F,E098,"Young Athletes",0
+G043,"Bernard Black High","Sandra Larson",Serina,Suarez,7,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Stephanie,Atkins,16,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Stephanie,Atkins,16,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Tasha,Robbins,14,F,E001,"50 Meter Dash",18
+G043,"Bernard Black High","Sandra Larson",Tasha,Robbins,14,F,E015,"Softball Throw",3008
+G043,"Bernard Black High","Sandra Larson",Veronica,Washington,15,F,E001,"50 Meter Dash",40
+G043,"Bernard Black High","Sandra Larson",Veronica,Washington,15,F,E015,"Softball Throw",1503
+G043,"Bernard Black High","Sandra Larson",Willow,Morse,15,F,E001,"50 Meter Dash",20
+G043,"Bernard Black High","Sandra Larson",Willow,Morse,15,F,E015,"Softball Throw",600
+G043,"Bernard Black High","Sandra Larson",Wynne,Rollins,11,F,E021,Developmental,0
+G043,"Bernard Black High","Sandra Larson",Wynne,Rollins,11,F,E099,"Olympic Town",0
+G043,"Bernard Black High","Sandra Larson",Xaviera,Gallagher,12,F,E001,"50 Meter Dash",28
+G043,"Bernard Black High","Sandra Larson",Xaviera,Gallagher,12,F,E015,"Softball Throw",1108
+G043,"Bernard Black High","Sandra Larson",Yoko,Sharp,17,F,E001,"50 Meter Dash",28
+G043,"Bernard Black High","Sandra Larson",Yoko,Sharp,17,F,E015,"Softball Throw",1206
+G043,"Bernard Black High","Sandra Larson",Zelda,Burke,7,F,E098,"Young Athletes",0
+G043,"Bernard Black High","Sandra Larson",Zelda,Burke,7,F,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Aaron,Fischer,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Aaron,Fischer,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Adam,Lamb,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Adam,Lamb,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Addison,Rosales,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Addison,Rosales,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Alexander,Warner,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Alexander,Warner,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Allistair,Pope,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Allistair,Pope,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Armand,Buckley,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Armand,Buckley,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Barrett,Wade,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Barrett,Wade,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Beck,Carey,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Beck,Carey,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Boris,Meyer,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Boris,Meyer,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Branden,William,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Branden,William,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Brandon,Forbes,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Brandon,Forbes,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Brett,Bentley,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Brett,Bentley,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Brett,Daniels,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Brett,Daniels,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Calvin,Anthony,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Calvin,Anthony,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Cameron,Patterson,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Cameron,Patterson,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Carl,Rios,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Carl,Rios,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Carter,Murphy,8,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Carter,Murphy,8,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Chadwick,Reed,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Chadwick,Reed,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Christopher,Moore,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Christopher,Moore,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Ciaran,Peters,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Ciaran,Peters,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Clinton,Shelton,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Clinton,Shelton,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Coby,Joyce,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Coby,Joyce,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Connor,Casey,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Connor,Casey,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Craig,Kim,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Craig,Kim,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Cullen,Workman,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Cullen,Workman,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Dale,Hines,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Dale,Hines,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Daniel,Ortega,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Daniel,Ortega,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Darius,Nixon,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Darius,Nixon,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Deacon,Humphrey,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Deacon,Humphrey,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Deacon,Parker,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Deacon,Parker,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Dean,Gonzalez,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Dean,Gonzalez,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Dennis,Beck,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Dennis,Beck,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Dennis,Riggs,8,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Dennis,Riggs,8,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Dexter,Dyer,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Dexter,Dyer,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Dominic,Hull,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Dominic,Hull,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Eaton,Parrish,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Eaton,Parrish,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Emerson,Yates,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Emerson,Yates,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Felix,Scott,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Felix,Scott,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Gil,Pope,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Gil,Pope,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Harlan,Walsh,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Harlan,Walsh,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Harper,Taylor,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Harper,Taylor,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Hashim,Rosales,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Hashim,Rosales,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Hashim,Waller,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Hashim,Waller,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Henry,Foster,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Henry,Foster,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Herman,Kennedy,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Herman,Kennedy,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Hiram,Gentry,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Hiram,Gentry,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Holmes,Shields,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Holmes,Shields,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Honorato,Mcintosh,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Honorato,Mcintosh,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Hop,Schwartz,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Hop,Schwartz,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Jacob,Jensen,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Jacob,Jensen,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Jakeem,Guzman,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Jakeem,Guzman,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Jesse,Cherry,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Jesse,Cherry,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Joshua,Murray,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Joshua,Murray,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Keith,Winters,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Keith,Winters,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Kennan,Wagner,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Kennan,Wagner,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Kermit,Melton,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Kermit,Melton,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Kirk,Berry,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Kirk,Berry,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Kirk,Petersen,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Kirk,Petersen,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Lee,Kennedy,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Lee,Kennedy,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Leonard,Winters,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Leonard,Winters,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Logan,Horton,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Logan,Horton,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Louis,Valdez,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Louis,Valdez,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Lyle,Diaz,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Lyle,Diaz,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Macaulay,Rutledge,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Macaulay,Rutledge,6,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Macon,Lloyd,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Macon,Lloyd,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Malachi,Avila,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Malachi,Avila,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Marsden,Robinson,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Marsden,Robinson,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Marshall,Stanley,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Marshall,Stanley,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Martin,Ford,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Martin,Ford,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Merrill,Webb,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Merrill,Webb,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Merritt,Bauer,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Merritt,Bauer,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Myles,Wall,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Myles,Wall,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Nero,Robles,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Nero,Robles,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Nicholas,Brady,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Nicholas,Brady,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Raja,Knowles,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Raja,Knowles,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Ronan,Berry,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Ronan,Berry,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Rooney,Aguirre,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Rooney,Aguirre,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Rudyard,Irwin,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Rudyard,Irwin,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Sebastian,Shaffer,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Sebastian,Shaffer,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Slade,Pollard,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Slade,Pollard,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Talon,Bowen,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Talon,Bowen,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Tanek,Salas,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Tanek,Salas,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Tanek,Sawyer,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Tanek,Sawyer,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Tarik,Baker,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Tarik,Baker,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Tarik,Pratt,7,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Tarik,Pratt,7,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Tucker,Woodard,2,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Tucker,Woodard,2,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Vincent,Mckinney,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Vincent,Mckinney,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Warren,Barron,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Warren,Barron,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Wayne,Velez,3,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Wayne,Velez,3,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Wyatt,Chambers,4,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Wyatt,Chambers,4,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Xavier,Kent,5,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Xavier,Kent,5,M,E099,"Olympic Town",0
+G044,"Bethany Hodge High","Sacha Hunter",Zane,Pace,6,M,E098,"Young Athletes",0
+G044,"Bethany Hodge High","Sacha Hunter",Zane,Pace,6,M,E099,"Olympic Town",0

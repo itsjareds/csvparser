@@ -1,0 +1,22 @@
+EventCode,EventName,scoreunit,scoremin,scoremax,sortseq
+E010,Wheelchair Slalom,D,0,9999,0
+E098,Young Athletes,N,0,0,0
+E001,50 Meter Dash,T,0,99999,10
+E002,100 Meter Dash,T,0,99999,20
+E003,200 Meter Dash,T,0,99999,30
+E004,400 Meter Dash,T,0,99999,40
+E005,30M Wheelchair Sl,T,0,99999,50
+E006,30M Motor Wheelchair Sl,T,0,99999,60
+E007,100 Meter Walk,T,0,99999,70
+E008,400 Meter Walk,T,0,99999,80
+E009,800 Meter Walk,T,0,99999,90
+E011,Run Long Jump,D,0,99999,110
+E013,Standing Long Jump,D,0,99999,130
+E014,Shot Put,D,0,99999,140
+E015,Softball Throw,D,0,99999,150
+E017,25 M Wheelchair,T,0,99999,170
+E018,Wheelchair Shot Put,D,0,99999,180
+E019,10M Assisted Walk,T,0,99999,190
+E020,25M Walk,T,0,99999,200
+E021,Developmental,N,0,99999,210
+E099,Olympic Town,N,0,99999,990

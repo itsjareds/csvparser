@@ -1,0 +1,185 @@
+EventCode,EventName,gender,minage,maxage,time,numheats
+E001,50 Meter Dash,F,8,11,10:45:00,2
+E001,50 Meter Dash,F,12,13,11:40:00,1
+E001,50 Meter Dash,F,14,15,11:40:00,1
+E001,50 Meter Dash,F,16,21,11:40:00,2
+E001,50 Meter Dash,F,22,29,12:20:00,1
+E001,50 Meter Dash,F,30,99,12:20:00,1
+E001,50 Meter Dash,M,8,11,10:45:00,4
+E001,50 Meter Dash,M,12,13,11:40:00,2
+E001,50 Meter Dash,M,14,15,11:40:00,1
+E001,50 Meter Dash,M,16,21,11:40:00,2
+E001,50 Meter Dash,M,22,29,12:20:00,1
+E001,50 Meter Dash,M,30,99,12:20:00,1
+E002,100 Meter Dash,F,8,11,10:45:00,1
+E002,100 Meter Dash,F,12,13,11:40:00,1
+E002,100 Meter Dash,F,14,15,11:40:00,1
+E002,100 Meter Dash,F,16,21,11:40:00,1
+E002,100 Meter Dash,F,22,29,12:20:00,1
+E002,100 Meter Dash,F,30,99,12:20:00,1
+E002,100 Meter Dash,M,8,11,10:45:00,1
+E002,100 Meter Dash,M,12,13,11:40:00,1
+E002,100 Meter Dash,M,14,15,11:40:00,1
+E002,100 Meter Dash,M,16,21,11:40:00,1
+E002,100 Meter Dash,M,22,29,12:20:00,1
+E002,100 Meter Dash,M,30,99,12:20:00,1
+E003,200 Meter Dash,F,8,11,12:45:00,1
+E003,200 Meter Dash,F,12,13,12:45:00,1
+E003,200 Meter Dash,F,14,15,12:45:00,1
+E003,200 Meter Dash,F,16,21,12:45:00,1
+E003,200 Meter Dash,F,22,29,12:45:00,1
+E003,200 Meter Dash,F,30,99,12:45:00,1
+E003,200 Meter Dash,M,8,11,12:45:00,1
+E003,200 Meter Dash,M,12,13,12:45:00,1
+E003,200 Meter Dash,M,14,15,12:45:00,1
+E003,200 Meter Dash,M,16,21,12:45:00,1
+E003,200 Meter Dash,M,22,29,12:45:00,1
+E003,200 Meter Dash,M,30,99,12:45:00,1
+E004,400 Meter Dash,F,8,11,11:25:00,1
+E004,400 Meter Dash,F,12,13,11:25:00,1
+E004,400 Meter Dash,F,14,15,11:25:00,1
+E004,400 Meter Dash,F,16,21,11:25:00,1
+E004,400 Meter Dash,F,22,29,11:25:00,1
+E004,400 Meter Dash,F,30,99,11:25:00,1
+E004,400 Meter Dash,M,8,11,11:25:00,1
+E004,400 Meter Dash,M,12,13,11:25:00,1
+E004,400 Meter Dash,M,14,15,11:25:00,1
+E004,400 Meter Dash,M,16,21,11:25:00,1
+E004,400 Meter Dash,M,22,29,11:25:00,1
+E004,400 Meter Dash,M,30,99,11:25:00,1
+E005,30M Wheelchair Sl,B,8,99,10:45:00,1
+E006,30M Motor Wheelchair Sl,B,8,99,11:15:00,1
+E007,100 Meter Walk,F,8,11,10:45:00,1
+E007,100 Meter Walk,F,12,13,11:40:00,1
+E007,100 Meter Walk,F,14,15,11:40:00,1
+E007,100 Meter Walk,F,16,21,11:40:00,1
+E007,100 Meter Walk,F,22,29,12:20:00,1
+E007,100 Meter Walk,F,30,99,12:20:00,2
+E007,100 Meter Walk,M,8,11,10:45:00,1
+E007,100 Meter Walk,M,12,13,11:40:00,1
+E007,100 Meter Walk,M,14,15,11:40:00,1
+E007,100 Meter Walk,M,16,21,11:40:00,1
+E007,100 Meter Walk,M,22,29,12:20:00,1
+E007,100 Meter Walk,M,30,99,12:20:00,2
+E008,400 Meter Walk,F,12,13,12:10:00,1
+E008,400 Meter Walk,F,14,15,12:10:00,1
+E008,400 Meter Walk,F,16,21,12:10:00,1
+E008,400 Meter Walk,F,22,29,12:10:00,1
+E008,400 Meter Walk,F,30,99,12:10:00,1
+E008,400 Meter Walk,M,12,13,12:10:00,1
+E008,400 Meter Walk,M,14,15,12:10:00,1
+E008,400 Meter Walk,M,16,21,12:10:00,1
+E008,400 Meter Walk,M,22,29,12:10:00,1
+E008,400 Meter Walk,M,30,99,12:10:00,1
+E009,800 Meter Walk,F,8,11,11:25:00,1
+E009,800 Meter Walk,F,12,13,11:25:00,1
+E009,800 Meter Walk,F,14,15,11:25:00,1
+E009,800 Meter Walk,F,16,21,11:25:00,1
+E009,800 Meter Walk,F,22,29,11:25:00,1
+E009,800 Meter Walk,F,30,99,11:25:00,1
+E009,800 Meter Walk,M,8,11,11:25:00,1
+E009,800 Meter Walk,M,12,13,11:25:00,1
+E009,800 Meter Walk,M,14,15,11:25:00,1
+E009,800 Meter Walk,M,16,21,11:25:00,1
+E009,800 Meter Walk,M,22,29,11:25:00,1
+E009,800 Meter Walk,M,30,99,11:25:00,1
+E011,Run Long Jump,F,8,11,12:20:00,1
+E011,Run Long Jump,F,12,13,10:45:00,1
+E011,Run Long Jump,F,14,15,10:45:00,1
+E011,Run Long Jump,F,16,21,10:45:00,1
+E011,Run Long Jump,F,22,29,11:40:00,1
+E011,Run Long Jump,F,30,99,11:40:00,1
+E011,Run Long Jump,M,8,11,12:20:00,1
+E011,Run Long Jump,M,12,13,10:45:00,1
+E011,Run Long Jump,M,14,15,10:45:00,1
+E011,Run Long Jump,M,16,21,10:45:00,1
+E011,Run Long Jump,M,22,29,11:40:00,1
+E011,Run Long Jump,M,30,99,11:40:00,1
+E013,Standing Long Jump,F,8,11,12:20:00,1
+E013,Standing Long Jump,F,12,13,10:45:00,1
+E013,Standing Long Jump,F,14,15,10:45:00,1
+E013,Standing Long Jump,F,16,21,10:45:00,1
+E013,Standing Long Jump,F,22,29,11:40:00,1
+E013,Standing Long Jump,F,30,99,11:40:00,1
+E013,Standing Long Jump,M,8,11,12:20:00,2
+E013,Standing Long Jump,M,12,13,10:45:00,1
+E013,Standing Long Jump,M,14,15,10:45:00,1
+E013,Standing Long Jump,M,16,21,10:45:00,2
+E013,Standing Long Jump,M,22,29,11:40:00,1
+E013,Standing Long Jump,M,30,99,11:40:00,1
+E014,Shot Put,F,8,11,11:40:00,1
+E014,Shot Put,F,12,13,12:20:00,1
+E014,Shot Put,F,14,15,12:20:00,1
+E014,Shot Put,F,16,21,12:20:00,1
+E014,Shot Put,F,22,29,10:45:00,1
+E014,Shot Put,F,30,99,10:45:00,1
+E014,Shot Put,M,8,11,11:40:00,1
+E014,Shot Put,M,12,13,12:20:00,1
+E014,Shot Put,M,14,15,12:20:00,1
+E014,Shot Put,M,16,21,12:20:00,1
+E014,Shot Put,M,22,29,10:45:00,1
+E014,Shot Put,M,30,99,10:45:00,1
+E015,Softball Throw,F,8,11,11:40:00,5
+E015,Softball Throw,F,12,13,12:20:00,3
+E015,Softball Throw,F,14,15,12:20:00,2
+E015,Softball Throw,F,16,21,12:20:00,4
+E015,Softball Throw,F,22,29,10:45:00,1
+E015,Softball Throw,F,30,99,10:45:00,7
+E015,Softball Throw,M,8,11,11:40:00,7
+E015,Softball Throw,M,12,13,12:20:00,4
+E015,Softball Throw,M,14,15,12:20:00,4
+E015,Softball Throw,M,16,21,12:20:00,7
+E015,Softball Throw,M,22,29,10:45:00,2
+E015,Softball Throw,M,30,99,10:45:00,8
+E017,25 M Wheelchair,F,8,11,13:00:00,1
+E017,25 M Wheelchair,F,12,13,13:00:00,1
+E017,25 M Wheelchair,F,14,15,13:00:00,1
+E017,25 M Wheelchair,F,16,21,13:00:00,1
+E017,25 M Wheelchair,F,22,29,13:00:00,1
+E017,25 M Wheelchair,F,30,99,13:00:00,1
+E017,25 M Wheelchair,M,8,11,13:00:00,1
+E017,25 M Wheelchair,M,12,13,13:00:00,1
+E017,25 M Wheelchair,M,14,15,13:00:00,1
+E017,25 M Wheelchair,M,16,21,13:00:00,1
+E017,25 M Wheelchair,M,22,29,13:00:00,1
+E017,25 M Wheelchair,M,30,99,13:00:00,1
+E018,Wheelchair Shot Put,F,8,11,11:40:00,1
+E018,Wheelchair Shot Put,F,12,13,12:20:00,1
+E018,Wheelchair Shot Put,F,14,15,12:20:00,1
+E018,Wheelchair Shot Put,F,16,21,12:20:00,1
+E018,Wheelchair Shot Put,F,22,29,10:45:00,1
+E018,Wheelchair Shot Put,F,30,99,10:45:00,1
+E018,Wheelchair Shot Put,M,8,11,11:40:00,1
+E018,Wheelchair Shot Put,M,12,13,12:20:00,1
+E018,Wheelchair Shot Put,M,14,15,12:20:00,1
+E018,Wheelchair Shot Put,M,16,21,12:20:00,1
+E018,Wheelchair Shot Put,M,22,29,10:45:00,1
+E018,Wheelchair Shot Put,M,30,99,10:45:00,1
+E019,10M Assisted Walk,F,8,11,13:00:00,1
+E019,10M Assisted Walk,F,12,13,13:00:00,1
+E019,10M Assisted Walk,F,14,15,13:00:00,1
+E019,10M Assisted Walk,F,16,21,13:00:00,1
+E019,10M Assisted Walk,F,22,29,13:00:00,1
+E019,10M Assisted Walk,F,30,99,13:00:00,1
+E019,10M Assisted Walk,M,8,11,13:00:00,1
+E019,10M Assisted Walk,M,12,13,13:00:00,1
+E019,10M Assisted Walk,M,14,15,13:00:00,1
+E019,10M Assisted Walk,M,16,21,13:00:00,1
+E019,10M Assisted Walk,M,22,29,13:00:00,1
+E019,10M Assisted Walk,M,30,99,13:00:00,1
+E020,25M Walk,F,8,11,13:00:00,1
+E020,25M Walk,F,12,13,13:00:00,1
+E020,25M Walk,F,14,15,13:00:00,1
+E020,25M Walk,F,16,21,13:00:00,1
+E020,25M Walk,F,22,29,13:00:00,1
+E020,25M Walk,F,30,99,13:00:00,1
+E020,25M Walk,M,8,11,13:00:00,1
+E020,25M Walk,M,12,13,13:00:00,1
+E020,25M Walk,M,14,15,13:00:00,1
+E020,25M Walk,M,16,21,13:00:00,1
+E020,25M Walk,M,22,29,13:00:00,1
+E020,25M Walk,M,30,99,13:00:00,1
+E021,Developmental,B,8,99,10:45:00,1
+E098,Young Athletes,B,2,7,10:45:00,1
+E099,Olympic Town,F,0,99,8:00:00,1
+E099,Olympic Town,M,0,99,8:00:00,1
