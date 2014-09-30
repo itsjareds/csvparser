@@ -1,7 +1,8 @@
 package edu.clemson.cs.cu.cpsc3720.main;
 
-public class School {
+public class School implements DatabaseSerializable {
 
+	private transient String dbId;
 	private String schoolName;
 
 	public School(String schoolName) {
@@ -21,6 +22,16 @@ public class School {
 	 */
 	public void setSchoolName(String schoolName) {
 		this.schoolName = schoolName;
+	}
+
+	@Override
+	public String getDbId() {
+		return this.dbId;
+	}
+
+	@Override
+	public void setDbId(String id) {
+		this.dbId = id;
 	}
 
 }

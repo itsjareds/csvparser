@@ -1,22 +1,40 @@
 package edu.clemson.cs.cu.cpsc3720.main;
 
-import java.sql.Time;
+public class Heat implements DatabaseSerializable {
 
-public class Heat {
-
-	private Event event;
+	private transient String dbId;
+	private transient Event event;
+	private String eventRef;
 	private String gender;
 	private Integer minAge;
 	private Integer maxAge;
-	private Time time;
+	private String time;
+	private Integer numHeats;
 
-	public Heat(Event event, String gender, Integer minAge, Integer maxAge,
-			Time time) {
+	public Heat(String eventRef, String gender, Integer minAge, Integer maxAge,
+			String time, int numHeats) {
 		super();
-		this.event = event;
+		this.eventRef = eventRef;
 		this.gender = gender;
 		this.minAge = minAge;
 		this.time = time;
+		this.numHeats = numHeats;
+	}
+
+	public Integer getNumHeats() {
+		return numHeats;
+	}
+
+	public void setNumHeats(Integer numHeats) {
+		this.numHeats = numHeats;
+	}
+
+	public String getEventRef() {
+		return eventRef;
+	}
+
+	public void setEventRef(String eventRef) {
+		this.eventRef = eventRef;
 	}
 
 	/**
@@ -43,7 +61,7 @@ public class Heat {
 	/**
 	 * @return the time
 	 */
-	public Time getTime() {
+	public String getTime() {
 		return this.time;
 	}
 
@@ -75,7 +93,7 @@ public class Heat {
 	 * @param time
 	 *            the time to set
 	 */
-	public void setTime(Time time) {
+	public void setTime(String time) {
 		this.time = time;
 	}
 
@@ -92,6 +110,16 @@ public class Heat {
 	 */
 	public void setEvent(Event event) {
 		this.event = event;
+	}
+
+	@Override
+	public String getDbId() {
+		return this.dbId;
+	}
+
+	@Override
+	public void setDbId(String id) {
+		this.dbId = id;
 	}
 
 }

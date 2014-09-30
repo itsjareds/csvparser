@@ -1,18 +1,34 @@
 package edu.clemson.cs.cu.cpsc3720.main;
 
-public class Registration {
+public class Registration implements DatabaseSerializable {
 
-	private Event event;
-	private Athlete athlete;
+	private transient String dbId;
+	private transient Event event;
+	private String eventRef;
+	private transient Athlete athlete;
+	private String athleteRef;
 	private Integer score;
-	private String eventCode;
 
-	public Registration(Event event, Athlete athlete, Integer score,
-			String eventCode) {
-		this.event = event;
-		this.athlete = athlete;
+	public Registration(String eventRef, String athleteRef, Integer score) {
+		this.eventRef = eventRef;
+		this.athleteRef = athleteRef;
 		this.score = score;
-		this.eventCode = eventCode;
+	}
+
+	public String getEventRef() {
+		return eventRef;
+	}
+
+	public void setEventRef(String eventRef) {
+		this.eventRef = eventRef;
+	}
+
+	public String getAthleteRef() {
+		return athleteRef;
+	}
+
+	public void setAthleteRef(String athleteRef) {
+		this.athleteRef = athleteRef;
 	}
 
 	/**
@@ -34,13 +50,6 @@ public class Registration {
 	 */
 	public Integer getScore() {
 		return this.score;
-	}
-
-	/**
-	 * @return the eventCode
-	 */
-	public String getEventCode() {
-		return this.eventCode;
 	}
 
 	/**
@@ -67,11 +76,13 @@ public class Registration {
 		this.score = score;
 	}
 
-	/**
-	 * @param eventCode
-	 *            the eventCode to set
-	 */
-	public void setEventCode(String eventCode) {
-		this.eventCode = eventCode;
+	@Override
+	public String getDbId() {
+		return this.dbId;
+	}
+
+	@Override
+	public void setDbId(String id) {
+		this.dbId = id;
 	}
 }
